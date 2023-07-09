@@ -42,7 +42,7 @@ plugins:
 header_scripts:
  - assets/css/custom
 footer_scripts:
-  - /assets/js/animation.js
+  - /assets/js/anime.js
 search: true
 # Exclude from processing.
 # The following items will not be processed, by default.
