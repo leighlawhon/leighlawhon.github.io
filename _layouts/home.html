@@ -4,7 +4,7 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Favorite Projects" }}</h3>
 
 {% if paginator %}
 {% assign posts = paginator.posts %}
@@ -12,10 +12,21 @@ layout: archive
 {% assign posts = site.posts %}
 {% endif %}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
+    {% if post.highlight_home and post.categories contains 'work' %}
     {% include archive-single.html type=entries_layout %}
+    {% endif %}
+    {% endfor %}
+    </div>
+    
+    <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Favorite Articles" }}</h3>
+    <div class="entries-{{ entries_layout }}">
+        {% for post in posts %}
+        {% if post.highlight_home and post.categories contains 'article' %}
+        {% include archive-single.html type=entries_layout %}
+        {% endif %}
     {% endfor %}
 </div>
 
