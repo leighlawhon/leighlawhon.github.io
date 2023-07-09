@@ -153,8 +153,3 @@ anime({
   {% if cat_tags != empty %}
 ```
 
-## 3.3 Adding images
-```markdown
-# Hi! I'm Leigh Stewardson. 
-I am a self-taught programmer, instructor, product manager, game developer, painter and writer. Check out some of my favorite articles and projects below or go to [**My Work**](/mywork) or [**My Writing**](/mywriting) to see a categorized list.
-```
