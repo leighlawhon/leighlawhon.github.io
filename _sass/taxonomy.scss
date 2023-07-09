@@ -1,0 +1,26 @@
+.taxonomy__section {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 3em;
+}
+
+.taxonomy__section+.taxonomy__section {
+    margin-top: 0;
+}
+
+.taxonomy__section h3 {
+    margin-top: 0;
+}
+
+.archive ul.taxonomy__list,
+.archive ul.taxonomy__list li {
+    display: inline-block;
+    margin: 2px 0px;
+    padding: 0;
+}
+
+.archive ul.taxonomy__list li a {
+    padding: 5px;
+    background-color: #e2f8ff;
+    border-radius: 5px;
+}
