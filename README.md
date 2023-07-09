@@ -153,3 +153,18 @@ anime({
   {% if cat_tags != empty %}
 ```
 
+## 3.3 Adding images
+
+```markdown
+![my avatar](assets/images/bioshot.jpeg){: .avatar} 
+# Hi! I'm Leigh Stewardson. 
+I am a self-taught programmer, instructor, product manager, game developer, painter and writer. Check out some of my favorite articles and projects below or go to [**My Work**](/mywork) or [**My Writing**](/mywriting) to see a categorized list.
+```
+
+```markdown
+header:
+  overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
+  teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
+  
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+```
