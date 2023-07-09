@@ -1,7 +1,6 @@
 ---
 layout: categories_article
 title: My Writing
-permalink: /mywriting/
 author_profile: true
 author: Leigh Stewardson
 ---
