@@ -2,9 +2,8 @@
 layout: posts
 title:  "Design Basics"
 date:   2023-07-01 16:13:27 -0500
-tags: [color_theory, data_visualization]
+tags: [designn]
 categories: article
-highlight_home: true
 tagline: "Color Limitations"
 header:
   overlay_image: https://images.unsplash.com/photo-1576153192396-180ecef2a715?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80

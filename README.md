@@ -2,7 +2,7 @@
 * **Jekyll theme documentation:** https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 * **Jekyll theme repo:** https://github.com/mmistakes/minimal-mistakes
 
-## Chapter 1.1
+## Chapter 1.1 Purpose of a Portfolio
 * **Interview questions for developers:** https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/web-developer/interview-questions
 * **Behavioral interview questions:** https://business.linkedin.com/talent-solutions/resources/interviewing-talent/behavioral-interview-questions-important-soft-skills
 
@@ -38,12 +38,18 @@ plugins:
   - jekyll-include-cache
 ```
 
-## Capter 1.3 Components of Jekyll
+## Chapter 1.3 Going Live On GitHub
+No notes.
+
+## Chapter 1.4 Components of Jekyll
 * **YAML:** https://www.linkedin.com/learning/cisco-devnet-associate-200-901-cert-prep-1-software-development-and-design/learn-about-yaml-and-its-usage
 * **Markdown cheat sheet:** https://www.markdownguide.org/cheat-sheet/
 * **Liquid cheat sheet:** https://www.shopify.com/partners/shopify-cheat-sheet
 
 https://www.colourlovers.com/web/trends/websites
+
+## Chapter 2.1 Writing a Bio
+No notes.
 
 ## Chapter 2.2 Adding Skills
 Examples of skills you can list:
@@ -143,17 +149,46 @@ anime({
 });
 ```
 
-## 3.2 Adding Categories Pages
+## Chapter 3.1 Building Layouts
+No notes.
+
+## Chapter 3.2 Adding Categories and Tags
 
 ### Layout changes
 ```html
-  {% assign sorted_tags = site.tags | sort %}
-  {% for tag in sorted_tags %}
-  {% assign cat_tags = tag[1] | where: "categories", "work" | sort %}
-  {% if cat_tags != empty %}
+  <ul class="taxonomy__index">
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag in sorted_tags %}
+    {% assign cat_tags = tag[1] | where: "categories", "article" | sort %}
+    {% if cat_tags != empty %}
+    <li>
+        <a href="#{{ tag[0] | slugify }}">
+            <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+        </a>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
+{% for tag in sorted_tags %}
+{% assign cat_tags = tag[1] | where: "categories", "article" | sort %}
+{% if cat_tags != empty %}
+<section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ tag[0] }}</h2>
+    <div class="entries-{{ entries_layout }}">
+        {% for post in tag.last %}
+        {% include archive-single.html type=entries_layout %}
+        {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }}
+        &uarr;</a>
+</section>
+{% endif %}
+{% endfor %}
 ```
 
-## 3.3 Adding images
+## Chapter 3.3 Adding images
 
 ```markdown
 ![my avatar](assets/images/bioshot.jpeg){: .avatar} 
@@ -168,3 +203,20 @@ header:
   
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ```
+
+## Chapter 3.4 Project Writeups and Articles
+Read articles provided
+
+## Chapter 4.1 Working in Codespaces: Shuffling Cards
+Create repo from zipped project `Shuffling_Cards` in the `zipped_file` folder.
+
+## Chapter 4.2 Working in Codespaces: Piece of Cake
+Create repo from zipped project `Piece_of_Cake` in the `zipped_file` folder.
+
+## Conclusion
+Here are a list of projects you might want to consider for your portfolio:
+* [Getting Started with DevOps](https://www.linkedin.com/learning/paths/getting-started-with-devop)
+* [Become a JavaScript Developer](https://www.linkedin.com/learning/paths/become-a-javascript-developer)
+* [Getting Started with Software Testing](https://www.linkedin.com/learning/paths/getting-started-with-software-testing)
+* [Advance your Node.js Skills](https://www.linkedin.com/learning/paths/advance-your-node-js-skills)
+* [Become a Full-stack Web Developer](https://www.linkedin.com/learning/paths/become-a-full-stack-web-developer)

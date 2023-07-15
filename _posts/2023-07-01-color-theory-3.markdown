@@ -2,7 +2,7 @@
 layout: posts
 title:  "Part 3: Color Theory"
 date:   2023-07-01 16:13:27 -0500
-tags: [color_theory, data_visualization]
+tags: [design]
 categories: article
 tagline: "Tips on Designing a Color Palette"
 header:

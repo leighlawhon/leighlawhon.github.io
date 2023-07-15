@@ -1,8 +1,8 @@
 ---
 layout: posts
-title:  "Lesson: Cake"
+title:  "Lesson: Piece of Cake"
 date:   2023-07-01 16:13:27 -0500
-tags: [javascript]
+tags: [tutorial, javascript]
 categories: work
 highlight_home: true
 tagline: "How to write a function"

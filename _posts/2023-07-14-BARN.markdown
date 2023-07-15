@@ -29,7 +29,7 @@ The Approach section outlines the methodology or approach used to investigate th
 
 **2.) Data analysis:** If applicable, detail the analysis techniques used to interpret the gathered data. This could include statistical methods, qualitative analysis, or any other relevant procedures.
 
-**3.**) Assumptions and limitations:** Acknowledge any assumptions made during the process and highlight the potential limitations. This demonstrates transparency and helps readers evaluate the validity of the results.
+**3.**) Assumptions and limitations:** Acknowledge any assumptions made during the process and highlight the potential limitations. Call out any challenges you faced. This demonstrates transparency and helps readers evaluate the validity of the results.
 
 ## Results:
 The Results section presents the key findings and outcomes of your research or analysis. It is crucial to present this information in a clear and organized manner to facilitate readers' understanding. Consider the following tips:

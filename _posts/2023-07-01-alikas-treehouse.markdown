@@ -2,7 +2,7 @@
 layout: posts
 title:  "Alika's Treehouse"
 date:   2023-07-01 16:13:27 -0500
-tags: [coding_tutorial]
+tags: [tutorial]
 categories: work
 highlight_home: true
 tagline: "An interactive comicbook"
