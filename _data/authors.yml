@@ -1,7 +1,7 @@
 Leigh Stewardson:
   name        : "Leigh Stewardson"
   bio         : "Let's talk about code! Reach out via the links below."
-  avatar      : "https://placehold.co/400"
+  avatar      : "assets/images/hue-d_icon.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
