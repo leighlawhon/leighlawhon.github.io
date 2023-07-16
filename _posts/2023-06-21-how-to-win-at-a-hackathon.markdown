@@ -3,6 +3,8 @@ layout: posts
 title:  "Part 1: How to win at a hackathon"
 date:   2023-06-21 19:15:27 -0500
 tags: [hackathon]
+author_profile: true
+author: Leigh Stewardson
 categories: [article]
 highlight_home: true
 tagline: "Investing in Dots"
