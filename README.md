@@ -1,14 +1,14 @@
 ## Jekyll Theme
-* **Jekyll theme documentation:** https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-* **Jekyll theme repo:** https://github.com/mmistakes/minimal-mistakes
+* [Jekyll theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+* [ekyll theme repo](https://github.com/mmistakes/minimal-mistakes)
 
 ## Chapter 1.1 Purpose of a Portfolio
-* **Interview questions for developers:** https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/web-developer/interview-questions
-* **Behavioral interview questions:** https://business.linkedin.com/talent-solutions/resources/interviewing-talent/behavioral-interview-questions-important-soft-skills
+* [Interview questions for developers](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/web-developer/interview-questions)
+* [Behavioral interview questions](https://business.linkedin.com/talent-solutions/resources/interviewing-talent/behavioral-interview-questions-important-soft-skills)
 
 ## Chapter 1.2 Installing Jekyll
-* **Jekyll tutorial:** https://www.linkedin.com/learning/learning-static-site-building-with-Jekyll
-* **Jekyll documentation**: https://jekyllrb.com/docs/
+* [Jekyll tutorial](https://www.linkedin.com/learning/learning-static-site-building-with-Jekyll)
+* [Jekyll documentation](https://jekyllrb.com/docs/)
 
 ### Gemfile:
 ```yaml
@@ -42,11 +42,11 @@ plugins:
 No notes.
 
 ## Chapter 1.4 Components of Jekyll
-* **YAML:** https://www.linkedin.com/learning/cisco-devnet-associate-200-901-cert-prep-1-software-development-and-design/learn-about-yaml-and-its-usage
-* **Markdown cheat sheet:** https://www.markdownguide.org/cheat-sheet/
-* **Liquid cheat sheet:** https://www.shopify.com/partners/shopify-cheat-sheet
 
-https://www.colourlovers.com/web/trends/websites
+### Links
+* [Learn more about YAML](https://www.linkedin.com/learning/cisco-devnet-associate-200-901-cert-prep-1-software-development-and-design/learn-about-yaml-and-its-usage)
+* [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+* [Liquid cheat sheet](https://www.shopify.com/partners/shopify-cheat-sheet)
 
 ## Chapter 2.1 Writing a Bio
 No notes.
@@ -96,7 +96,8 @@ soft:
 
 ## Chapter 2.3 Site Design
 ### Links
-* https://color.adobe.com/trends
+* [Adobe Color](https://color.adobe.com/trends)
+* [Colour Lovers](https://www.colourlovers.com/web/trends/websites)
 
 ## Chapter 2.4 Customizing your site
 ### Custom.html
@@ -190,12 +191,14 @@ No notes.
 
 ## Chapter 3.3 Adding images
 
+### Adding Images to the Home Page
 ```markdown
 ![my avatar](assets/images/bioshot.jpeg){: .avatar} 
 # Hi! I'm Leigh Stewardson. 
 I am a self-taught programmer, instructor, product manager, game developer, painter and writer. Check out some of my favorite articles and projects below or go to [**My Work**](/mywork) or [**My Writing**](/mywriting) to see a categorized list.
 ```
 
+### Adding images to an Article
 ```markdown
 header:
   overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
@@ -209,6 +212,10 @@ Read articles provided
 
 ## Chapter 4.1 Working in Codespaces: Shuffling Cards
 Create repo from zipped project `Shuffling_Cards` in the `zipped_file` folder.
+
+### Additional Tutorials
+* [GitHub Codespaces for Students](https://www.linkedin.com/learning/github-codespaces-for-students/)
+* [>earnoing GitHub Codespaces for Enterprise](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise)
 
 ## Chapter 4.2 Working in Codespaces: Piece of Cake
 Create repo from zipped project `Piece_of_Cake` in the `zipped_file` folder.
