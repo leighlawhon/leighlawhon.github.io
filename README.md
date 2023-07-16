@@ -1,8 +1,17 @@
+# Chapter Notes
+
 ## Jekyll Theme
 
 ### Links
 * [Jekyll theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 * [Jekyll theme repo](https://github.com/mmistakes/minimal-mistakes)
+
+## Introduction
+* [Minimal Mistakes Quick Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+)
+* [Minimal Mistakes Repository](https://github.com/mmistakes/minimal-mistakes
+)
+* [Michael Rose's website](https://mademistakes.com/)
 
 ## What you Should Know
 * [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-14447912)
