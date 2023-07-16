@@ -5,7 +5,7 @@ tagline: "Professional Services That Transformed My Professional Viability"
 date:   2023-06-21 19:13:27 -0500
 highlight_home: true
 category: article
-tags: [hackathon, leadership]
+tags: [leadership]
 header:
  teaser: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2970&q=80
  overlayimage: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2970&q=80
@@ -23,23 +23,23 @@ For a long time, I believed I could adequately write my own resume. However, I s
 Portfolios are not exclusive to designers; they are relevant for professionals across various industries, including developers. As I transitioned into a developer role, I recognized the importance of showcasing my work through a portfolio. Whether you're a designer, developer, writer, or any other professional, having a portfolio provides tangible evidence of your skills and accomplishments. It offers potential employers a comprehensive view of your capabilities and serves as a testament to your expertise. Check out my video one LinkedIn Learning: [GitHub Portfolios for Developers](), to learn how to build an impressive portfolio that highlights your best work effectively.
 
 # 4. Get a Career Coach
-I waited on this one for awhile, but engaging the services of a career coach can be a game-changer in propelling your career forward. I recently enlisted the expertise of [Virtual Freedom Coaching](http://www.vfcoaching.com), led by Dr. Priya Bains, and it has been a transformative experience. A career coach helps you gain clarity, identify patterns, and unlock your potential. They offer personalized guidance, support, and strategies tailored to your unique circumstances. Whether you're an innovator entrepreneur or a creative professional, a career coach can help you navigate challenges, optimize your strengths, and make meaningful progress towards your goals. 
+I waited on this one for a while, but engaging the services of a career coach can be a game-changer in propelling your career forward. I recently enlisted the expertise of [Virtual Freedom Coaching](http://www.vfcoaching.com), led by Dr. Priya Bains, and it has been a transformative experience. A career coach helps you gain clarity, identify patterns, and unlock your potential. They offer personalized guidance, support, and strategies tailored to your unique circumstances. Whether you're an innovator entrepreneur or a creative professional, a career coach can help you navigate challenges, optimize your strengths, and make meaningful progress towards your goals. 
 
 ## Three Reasons Why You Should Look for a Career Coach:
-I reccommend thouroughly vetting a career coach to make aure they are the right fit for your style. It took me some time to find Priya, who specifically works with creatives and innovative entrepreneurs. Priya is helping me:
+I recommend thoroughly vetting a career coach to make sure they are the right fit for your style. It took me some time to find Priya, who specifically works with creatives and innovative entrepreneurs. Priya is helping me:
 
-* Find focus and remove my entrepreneurial ADHD
+* Find focus and remove my entrepreneurial ADHD.
 * Get out of overwhelm and overwork and transform productive work and long hours into efficient work.
-* Organize my ideas and communicate with clarity to impact stakeholders
-* Transform problems into innovative solutions
+* Organize my ideas and communicate with clarity to impact stakeholders.
+* Transform problems into innovative solutions.
 
 In general, career coaches can help you:
 
-**1.) Gain Insight and Perspective:** A career coach provides an objective viewpoint, helping you identify blind spots, uncover untapped potential, and explore new possibilities. They bring a fresh perspective and offer insights that can propel your career to new heights.
+**1. Gain Insight and Perspective:** A career coach provides an objective viewpoint, helping you identify blind spots, uncover untapped potential, and explore new possibilities. They bring a fresh perspective and offer insights that can propel your career to new heights.
 
-**2.) Enhance Efficiency and Effectiveness:** A career coach helps you streamline your approach, refine your strategies, and optimize your workflows. They assist in identifying areas of improvement, developing new skills, and implementing systems that make you more efficient and effective in your professional endeavors.
+**2. Enhance Efficiency and Effectiveness:** A career coach helps you streamline your approach, refine your strategies, and optimize your workflows. They assist in identifying areas of improvement, developing new skills, and implementing systems that make you more efficient and effective in your professional endeavors.
 
-**3.) Overcome Challenges and Setbacks:** Career coaches provide invaluable support during challenging times. They offer guidance, motivation, and resilience-building techniques to help you navigate setbacks, overcome obstacles, and stay focused on your long-term goals.
+**3. Overcome Challenges and Setbacks:** Career coaches provide invaluable support during challenging times. They offer guidance, motivation, and resilience-building techniques to help you navigate setbacks, overcome obstacles, and stay focused on your long-term goals.
 
 # Conclusion
-Looking back on our careers, it's natural to reflect on the things we wish we had done earlier. The professional services I have mentioned - getting a mentor, having a professionally written resume, creating a portfolio, and engaging a career coach - have undoubtedly accelerated my career trajectory and increased my marketability. Consider incorporating these services into your professional journey, and unlock new opportunities and possibilities in your chosen field. Remember, investing in your career development is an investment in your own success.
+Looking back on our careers, it's natural to reflect on the things we wish we had done earlier. The professional services I have mentioned - getting a mentor, having a professionally written resume, creating a portfolio, and engaging a career coach - have undoubtedly accelerated my career trajectory and increased my marketability. Consider incorporating these services into your professional journey and unlock new opportunities and possibilities in your chosen field. Remember, investing in your career development is an investment in your own success.

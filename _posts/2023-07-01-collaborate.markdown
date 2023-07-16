@@ -25,12 +25,12 @@ My team and I performed research on and tested multiple prototypes with a local 
 Additionally, curriculum was developed to accompany the game.
 
 ## Results
-At the conclusion on the grant, it was decided not to pursue publishing of the game. I felt there was something missing. The mechanics worked well and students collaborated, but it lacked and element of excitement and was too didactic.
+At the conclusion on the grant, it was decided not to pursue publishing of the game. I felt there was something missing. The mechanics worked well, and students collaborated, but it lacked and element of excitement and was too didactic.
 
 ![collboratory old](/assets/images/collaboratory_old.jpeg)
 [Original game promo video](https://youtu.be/vfk5_bkJQFg)
 
 ## Next Steps
- In 2023, I reworked the theme of the game. I simplified the game by combining some of the cards and reduced the number og piece by getting rid of the tokens. Additionally I decided the base game should be general business.
+ In 2023, I reworked the theme of the game. I simplified the game by combining some of the cards and reduced the number of piece by getting rid of the tokens. Additionally, I decided the base game should be general business.
 
  We are invited to the Ed Games Expo, September 19-22, 2023. 

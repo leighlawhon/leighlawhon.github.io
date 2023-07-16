@@ -12,15 +12,9 @@
     margin-top: 0;
 }
 
-.archive ul.taxonomy__list,
-.archive ul.taxonomy__list li {
-    display: inline-block;
-    margin: 2px 0px;
-    padding: 0;
-}
-
-.archive ul.taxonomy__list li a {
-    padding: 5px;
-    background-color: #e2f8ff;
+.taxonomy__index a {
+    border: none;
+    padding: 0 5px;
     border-radius: 5px;
+    background-color: #e2f8ff;
 }

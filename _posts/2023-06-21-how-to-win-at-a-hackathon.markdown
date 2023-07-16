@@ -1,16 +1,15 @@
 ---
 layout: posts
-title:  "How to win at a hackathon"
-date:   2023-06-21 19:13:27 -0500
-tags: [hackathon, leadership]
-categories: article
+title:  "Part 1: How to win at a hackathon"
+date:   2023-06-21 19:15:27 -0500
+tags: [hackathon]
+categories: [article]
 highlight_home: true
-tagline: "Connect the dots"
+tagline: "Investing in Dots"
 header:
-  overlay_image: https://images.unsplash.com/photo-1604658243847-17375af581fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8d2lubmluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=900&q=60
-  teaser: https://images.unsplash.com/photo-1604658243847-17375af581fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8d2lubmluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=900&q=60
-  
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: https://images.unsplash.com/photo-1611444111920-89dfc4a01f43
+  teaser:  https://images.unsplash.com/photo-1611444111920-89dfc4a01f43
+  caption: "Photo credit: [**Unsplash: Marin Tulard**](https://unsplash.com/@mtulard)"
 ---
 I attended the A.team's Generative AI Hackathon last weekend. I hadn't attended one in a few years and it reminded me why I love them. They're a lot of work, but the look of accomplishment on every teams face at the end is well worth the lack of sleep.
 No, you won't find my winning deck or some kind of crazy framework in this article. This is about winning by just going to a hacakthon.

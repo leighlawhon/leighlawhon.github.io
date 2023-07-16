@@ -33,12 +33,17 @@ As the user saves snippets from the lessons, the system builds a SPA (single pag
 Pop Nevin suggests she create a sign for the treehouse while he clears brush. Charles introduces the user to the interface that has a code editor on the left and a live preview on the right (see third screenshot). The preview shows a poster. The user then learns about html tags like H1 and ULs while makings a Clubhouse rules poster for their treehouse. When the user is done with the lesson, they are shown the interactive treehouse they are building. The poster they just created is on the tree (screenshot 4). Eventually, the user will learn things like HTML structure to build the treehouse, CSS to add decorations and furniture. The end product is something they can share and swap "recipes" for.
 
 ## Results
-For the demo day I built a very rudimentary prototype. I have a working editor with the poster example, the interactive treehouse page and a single page of the interactive comic book with amazing art form my friend Mark Mandolia.
+For the demo day I built a very rudimentary prototype. I have a working editor with the poster example, the interactive treehouse page and a single page of the interactive comic book with amazing art form my friend [Mark Mandolia](https://www.linkedin.com/in/mark-mandolia-43866119/).
 
 The work won the hackathon!
 
 ## Next Steps
 In 2018 I had additional stories built out. This included *Radio Dia*, *A World Elsewhere*, and *Ray's Treasure Adventure*. In the future I plan to build a platform that allows these lesson-stories to be built out easily.
 
-![alika1](https://placehold.co/600x400)
-![alika1](https://placehold.co/600x400)
+![alika1](/assets/images/alika1.png)
+
+![alika2](/assets/images/alika2.png)
+
+![alika3](/assets/images/alika3.png)
+
+![alika4](/assets/images/alika4.png)

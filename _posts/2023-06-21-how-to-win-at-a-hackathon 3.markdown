@@ -1,9 +1,17 @@
 ---
 layout: posts
-title:  "How to win at a hackathon"
+title:  "Part 3: How to win at a hackathon"
+tagline: "Casting dots far and wide"
 date:   2023-06-21 19:13:27 -0500
-categories: [hackathon, leadership]
+tags: [hackathon]
+categories: [article]
+header:
+    overlay_image: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
+    teaser: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
+    caption: "Photo credit: [**Unsplash: Firosnv. Photography**](https://unsplash.com/@firosnv)"
+
 ---
+
 I attended the A.team's Generative AI Hackathon last weekend. I hadn't attended one in a few years and it reminded me why I love them. They're a lot of work, but the look of accomplishment on every teams face at the end is well worth the lack of sleep.
 No, you won't find my winning deck or some kind of crazy framework in this article. This is about winning by just going to a hacakthon.
 

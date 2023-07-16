@@ -28,6 +28,4 @@ The results of implementing the cooking analogy in the coding lessons were truly
 The use of the cooking analogy fostered an environment of curiosity, experimentation, and innovation. By relating coding to something as familiar as cooking, the young learners felt empowered to explore and manipulate code, much like aspiring chefs experimenting with recipes in the kitchen. This approach not only enhanced their comprehension of coding principles but also nurtured their problem-solving skills, critical thinking abilities, and self-expression.
 
 ## Next Steps
-
-
-# Conclusion
+I regularly use this code to illustrate functions and varialble for my students. I plan to take it further by creating another story-based tutroial similar to [Alik's Treehouse](https://leighlawhon.github.io/work/2023/07/01/alikas-treehouse.html). 
