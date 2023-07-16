@@ -1,12 +1,18 @@
 ## Jekyll Theme
+
+### Links
 * [Jekyll theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 * [ekyll theme repo](https://github.com/mmistakes/minimal-mistakes)
 
 ## Chapter 1.1 Purpose of a Portfolio
+
+### Links
 * [Interview questions for developers](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/web-developer/interview-questions)
 * [Behavioral interview questions](https://business.linkedin.com/talent-solutions/resources/interviewing-talent/behavioral-interview-questions-important-soft-skills)
 
 ## Chapter 1.2 Installing Jekyll
+
+### Links
 * [Jekyll tutorial](https://www.linkedin.com/learning/learning-static-site-building-with-Jekyll)
 * [Jekyll documentation](https://jekyllrb.com/docs/)
 
@@ -55,11 +61,11 @@ No notes.
 Examples of skills you can list:
 
 ### Programming languages, Frameworks & libraries
-* **Frameworks, libraries, and Programming languages –** JavaScript, TypeScript, HTML5, CSS, PHP, etc.
-* **Technologies –** SQL Server, JAMStack, Gatsby, Netlify, GitHub, etc.
-* **Website builders –** WordPress, Wix, Webflow, Jekyll, etc.
-* **Specialty Skills–** Accessibility, Optimization, Dev ops
-* **Software and tools–** Jira, Figma, Sketch, VSCode, GitHub, Terminal
+* **Frameworks, libraries, and Programming languages:** JavaScript, TypeScript, HTML5, CSS, PHP, etc.
+* **Technologies:** SQL Server, JAMStack, Gatsby, Netlify, GitHub, etc.
+* **Website builders:** WordPress, Wix, Webflow, Jekyll, etc.
+* **Specialty Skills:** Accessibility, Optimization, Dev ops
+* **Software and tools:** Jira, Figma, Sketch, VSCode, GitHub, Terminal
 
 ### Soft Skills
 * Communication, 
@@ -213,12 +219,15 @@ Read articles provided
 ## Chapter 4.1 Working in Codespaces: Shuffling Cards
 Create repo from zipped project `Shuffling_Cards` in the `zipped_file` folder.
 
-### Additional Tutorials
+### Links
 * [GitHub Codespaces for Students](https://www.linkedin.com/learning/github-codespaces-for-students/)
 * [>earnoing GitHub Codespaces for Enterprise](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise)
 
 ## Chapter 4.2 Working in Codespaces: Piece of Cake
 Create repo from zipped project `Piece_of_Cake` in the `zipped_file` folder.
+
+### Links
+* [Hands On Introduction to React](https://www.linkedin.com/learning/hands-on-introduction-react/)
 
 ## Conclusion
 Here are a list of projects you might want to consider for your portfolio:
