@@ -38,10 +38,18 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-header_scripts:
- - assets/css/custom
-footer_scripts:
-  - /assets/js/anime.js
+
+search: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      author: Leigh Stewardson
+      show_date: true
 search: true
 # Exclude from processing.
 # The following items will not be processed, by default.
