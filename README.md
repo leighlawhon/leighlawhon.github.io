@@ -2,7 +2,14 @@
 
 ### Links
 * [Jekyll theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
-* [ekyll theme repo](https://github.com/mmistakes/minimal-mistakes)
+* [Jekyll theme repo](https://github.com/mmistakes/minimal-mistakes)
+
+## What you Should Know
+* [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-14447912)
+* [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training-4)
+* [CSS Fundementals](https://www.linkedin.com/learning/css-fundamentals-unlock-the-power-of-web-styling?u=2125562)
+* [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training?u=2125562)
+* [Learning Node.JS](https://www.linkedin.com/learning/learning-node-js-2017?u=2125562)
 
 ## Chapter 1.1 Purpose of a Portfolio
 

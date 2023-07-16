@@ -7,48 +7,58 @@ author_profile: true
 author: Leigh Stewardson
 categories: [article]
 highlight_home: true
-tagline: "Investing in Dots"
+tagline: "Investing in the 'Dots'"
 header:
   overlay_image: https://images.unsplash.com/photo-1611444111920-89dfc4a01f43
   teaser:  https://images.unsplash.com/photo-1611444111920-89dfc4a01f43
   caption: "Photo credit: [**Unsplash: Marin Tulard**](https://unsplash.com/@mtulard)"
 ---
-I attended the A.team's Generative AI Hackathon last weekend. I hadn't attended one in a few years and it reminded me why I love them. They're a lot of work, but the look of accomplishment on every teams face at the end is well worth the lack of sleep.
-No, you won't find my winning deck or some kind of crazy framework in this article. This is about winning by just going to a hacakthon.
+>Time  and pressure can change almost anything from what it was into what it has become. Time will change,  “Caterpillar into butterflies, sand into pearls,” and pressure will change “coal into diamonds,” both elements work on us too. 
+— (paraphrased from Rick Warren)
 
-Here are 3 reasons why I love hackathons:
+I recently participated in the [A.team](https://www.a.team/)'s [Generative AI Hackathon](https://www.a.team/mission/ai-prototype-hackathon) over the weekend. If you're unfamiliar with hackathons, they bring together a passionate group of individuals, predominantly developers, who collaborate for a weekend to tackle challenges, present code demos and pitch decks of slides, and compete for prizes. Although hackathons require a lot of hard work, the sense of accomplishment on each team members’ face by the end of the competition, makes the sleepless nights worthwhile. More importantly, they are powerful, dense little dots waiting to be connected.
 
-# #1 You'll make new connections
-The last hackathon I attend, A.Teams's Generative AI, I met some amazing people. Hackathons are about connecting.
+If you have ever connected numbered dots to complete a picture, it is plain to see that following the next dot builds upon the one before, thus revealing a recognizable object.
 
-At the beginning of the hackathon we did a few breakout sessions to meet people on other teams. I had never been to a hackathon thta did this and it was a great idea and every hackathon should do it. As you work on your individual projects there is no time to talk to other teams. As these teams are your compition, there is some natural animosity. By introducing us in the beginning, I saw the other teams, not as competitors, but as friends. I learned about what drives them and found some common ground.
+Dots to me, represent meaningful moments and/or experiences in life that help to reveal the next step and/or define my purpose. Hackathons, in particular, have been a reliable source of these “dots” in my life.  They often involve a combination of hard work, learning, camaraderie, and a sense of profound pride in my abilities and pride in my accomplishments.  
 
-This round robin is how I met Henry Duang, a medical professional turned developer. Henry joined the hackathon...[insert Henry's story here]
+I approach hackathons as “dot” moments.  I see these “dots” as powerful, dense moments  in time that have meaning and significance and upon further inspection, are just waiting to be connected.
 
-## Facilitate connections
-It occurred to me that i knew another medical professional turned tech, Bryan Gersham, MD. I had been mentoring Bryan on how to get his idea funded using the SBIR.gov program. How do I know Bryan? He reached out after watching one of my LinkIn Learning videos. Not enough people do this. You never know who will respond. Some people won't. Some people will. In 2016 I reached out to Andy Hunt to ask questions about Agile and his alternative GROWS. He responded. I met with Andy about my board game
-The point is, connect with people you work with. You never know what will come of it in a few years.
+There are three parts to this process of examination and they are:
+* [Part 1: Investing in the “Dots”]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon.html)
+* [Part 2: Connecting the “Dots”]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon-2.html)
+* [Part 3: Casting the “Dots,” wide and far]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon-3.html)
 
-## Reach out
-Speaking of reaching out, During the hackathon I reached out to motor.com, based on a recomendation from my menotr, Rusty Patel. Motor.com had the type of data we needed to integrate into our product. As the Product Manager and team lead, I jumped right in and sent an inquery to motor.com and as it turns out, they had a API Sandbox ready to go! Their brilliant sales rep, Jennie Davis helped my team quickly get access to this information. 
+# Part 1: Investing in the “Dots”
+Participating in hackathons is akin to the process of forming a pearl, or what I like to call a "dot." While hackathons can be challenging and uncomfortable, they have the potential to yield something truly remarkable. By approaching a hackathon with a mindset geared towards learning, establishing connections with fellow competitors, and creating something truly noteworthy, you are guaranteed to emerge victorious every single time.
+Amidst the process of developing my new course for LinkedIn Learning [insert link](), I made a spontaneous decision to participate in a hackathon. Despite the time constraints, I recognized the importance of this opportunity. Having just completed a course on Product Management for Machine Learning at UC Berkeley, I yearned to put my newly acquired skills into practice, even though my current role didn't involve AI. Determined, I embraced the challenge with full dedication.
 
-I talked with Jennie yesterday, and as we are moving forward with the project, I am discussing a contract with her. She might have made a sale and I got my data. win-win.
+During the hackathon, I had the pleasure of meeting exceptional individuals, including Henry Duong and Armagan Amcalar, who were also finalists in the [A.Team](ttps://www.a.team/)) Generative AI Hackathon. It became evident that we shared a common objective: to exercise our respective skill sets, be it new in my case or well-seasoned in Armagan and Henry's.
+Reflecting on the experience, Henry stated, "The work we accomplished provided valuable insights into enhancing existing enterprise data pipelines in both the pre-processing and post-processing stages. The knowledge gained from this endeavor can be applied across various industries, enabling me to deliver improved solutions to the companies I collaborate with."
 
-## Find a co-founder
-During the final presentations, I saw a demo that just blew me away. Armagan Amcalar built a story telling app for kids in hospital. I knew immediately that I had to connect with him. I had another project, Alika's Treehouse (for which I won a hackathon with in 2016) that was similar, as well as a current project where I was trying to do something similar with Generative AI. I had been trying to find someone who could help me write my second SBIR grant that had the background in Generative AI, and Armagan was it!
+Armagan shared his sentiment about using a hackathon as a proving ground, saying, "Although I possess a master's degree in machine learning from 15 years ago, I haven't had many opportunities to apply it effectively. The resurgence of interest in AI, along with technological advancements, has made me feel right at home. DreamKiddo has been an idea I've long desired to develop. I toyed with it a decade ago, but the technology landscape was vastly different back then. I have a genuine passion for creating AI-powered experiences, and the genAI hackathon provided the perfect opportunity to revisit this concept."
 
-# #2 You'll do something new
-## A chance to lead
+If you're considering learning a new skill or technology, I highly recommend participating in hackathons as a means of practice. When I aimed to transition into a management role, hackathons served as a valuable platform to hone my team leadership abilities. Similarly, after completing a course in Product Management for Machine Learning, I put my skills to the test in a generative AI hackathon. Whether you're seeking entry into a new industry or aiming to switch roles, hackathons offer a condensed microcosm in which you can explore and learn. Furthermore, they provide an excellent avenue for establishing connections and networking. To delve deeper into winning strategies at hackathons, be sure to read Part 2: How to win at a hackathon [insert link]().
 
-# #3 You'll have something for your portfolio
-Use you hakathon work to build a portfolio! Should I have a portfolio as a dev? Yes! should I include it if it's a prototype? Yes! Just make sure you give approprite credit to who did wht.
-write article like I did
+## Meet New People
+By meeting and staying in touch with other participants, opportunities to exchange knowledge, share resources, and learn from each other's experiences, continues well after the hackathon is over. Engaging  in discussions, attending future workshops and/or conferences together, and participating in future hackathons together, as a team, will only increase the significance  of the moment or “Dot”. 
 
-# Conclusion
-So what am i doing now that the hackathon is over. Well fisrt I slept, but then it was time to get to work. Preparing an article, creating videos I could use socially and with ivestors and users, getting on the phone to get additional feedback, applying to incubators and pitch competitions.
+These ongoing interactions provide a supportive environment for continuous learning, momentum  to improve technical skills, opportunities to expand knowledge, and the ability to explore new domains.
 
-<!-- https://images.unsplash.com/photo-1604658243847-17375af581fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8d2lubmluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=900&q=60 -->
+## Build Your Portfolio
+Regardless, if I win or lose, I work very hard during a hackathon and  I show that off. 
+Why not use hackathon work as a means to build my portfolio! Should I have a portfolio as a dev? Yes! Should I include it if it's only a prototype? Yes! (Making sure to give appropriate credit to the appropriate source.) 
+Is there a course on how to build a portfolio? Yes! Check out my new course here: [link to course] (See how I connected some dots there.)
 
+Going back to what Henry said when I asked him why he liked hackathons, Henry said that he likes hackathons because, “Tight deadlines and a competitive atmosphere can foster creativity.” Hackathons also allow you  to focus purely on the technology aspects that can drive innovative functionality, with the added benefit of open experimentation. If I can deliver a polished product, even better.” 
 
+When I asked Armagan why he liked hackathons, he said, “The thrill of building something in a short, fixed timeframe. It’s all about pushing yourself to the limit, testing your limits, seeing what you can and can’t do. Seeing what other people come up with. I’m still suffering from imposter syndrome, so the validation feels great.”
+I personally like hackathons because the time crunch forces me to boil a product down to its essence in order to beat the clock. There is little time to decide. I have to go with my gut and whatever tools I have in my toolbelt to get the job done. 
 
+## Conclusion
+If building a portfolio is what you are interested in doing and it’s light on content, attend a hackathon. If you are trying something new, attend a hackathon. If you are looking for a job or need to network…you know the answer. In [Part 2]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon-2.html) we’ll look at how to connect the dots.
 
+## Your Next Steps
+* Find a hackathon that either works with your strengths or involves an area you want to improve. 
+* Talk to participants outside of your group and get their contact information.
+* Use your hackathon pieces to build your portfolio. 
