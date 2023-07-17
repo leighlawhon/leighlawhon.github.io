@@ -12,6 +12,7 @@ header:
   overlay_image: https://images.unsplash.com/photo-1542831371-29b0f74f9713
   teaser: https://images.unsplash.com/photo-1542831371-29b0f74f9713
   caption: "Photo credit: [**Unsplash: Florian Olivio**](https://unsplash.com/@florianolv)"
+description: This article showcases a tutorial that teaches kids how to code.
 ---
 # Alika's Treehouse
 ## Background

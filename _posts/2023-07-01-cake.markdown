@@ -13,6 +13,7 @@ header:
   teaser: https://images.unsplash.com/photo-1464349095431-e9a21285b5f3
   
   caption: "Photo credit: [**Unsplash: Annie Spratt**](https://unsplash.com/@anniespratt)"
+description: This article showcases a tutorial that teaches kids how to code.
 ---
 
 # Piece of Cake

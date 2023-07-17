@@ -14,6 +14,7 @@ header:
   overlay_image: https://images.unsplash.com/photo-1544027993-37dbfe43562a
   teaser: https://images.unsplash.com/photo-1544027993-37dbfe43562a
   caption: "Photo credit: [**Unsplash: Toa Heftiba**](https://unsplash.com/@heftiba)"
+description: This article showcases the game Collaborate and how I build it.
 ---
 
 ## Background

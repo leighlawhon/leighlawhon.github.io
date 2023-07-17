@@ -168,7 +168,7 @@ anime({
 ## Chapter 3.1 Building Layouts
 No notes.
 
-## Chapter 3.2 Adding Categories and Tags
+## Chapter 3.2 Adding Tags and SEO
 
 ### Layout changes
 ```html
@@ -204,6 +204,10 @@ No notes.
 {% endfor %}
 ```
 
+### Adding SEO
+* Install: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md
+* Add `{% seo %}` to the `includes/head/custom.html` file
+
 ## Chapter 3.3 Adding images
 
 ### Adding Images to the Home Page
@@ -218,9 +222,10 @@ I am a self-taught programmer, instructor, product manager, game developer, pain
 header:
   overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8
   teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8
-  
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ```
+### Adding ICO
+* https://www.favicon.cc/?
 
 ## Chapter 3.4 Project Writeups and Articles
 Read articles provided:
