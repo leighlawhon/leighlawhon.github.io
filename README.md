@@ -223,7 +223,11 @@ header:
 ```
 
 ## Chapter 3.4 Project Writeups and Articles
-Read articles provided
+Read articles provided:
+* [Design Basics](https://leighlawhon.github.io/article/2023/07/01/design-basics.html)
+* [Color Theory](https://leighlawhon.github.io/article/2023/07/01/color-theory.html)
+* [How To Win At A Hackathon](https://leighlawhon.github.io/article/2023/06/22/how-to-win-at-a-hackathon.html)
+* [Accelerating Your Career](https://leighlawhon.github.io/article/2023/06/22/professional-services.html)
 
 ## Chapter 4.1 Working in Codespaces: Shuffling Cards
 Create repo from zipped project `Shuffling_Cards` in the `zipped_file` folder.

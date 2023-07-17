@@ -9,13 +9,13 @@ tags: [leadership]
 author_profile: true
 author: Leigh Stewardson
 header:
- teaser: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2970&q=80
- overlayimage: https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2970&q=80
+ teaser: https://images.unsplash.com/photo-1516321318423-f06f85e504b3
+ overlay_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3
 
 ---
 Looking back on my career, there are a few things I wish I had done earlier to boost my career progression and enhance my marketability. In this article, I will share my experience and highlight four professional services that have significantly accelerated my career and improved my standing in the job market.
 
-# 1. Get a Mentor and/or Start Mentoring
+## 1. Get a Mentor and/or Start Mentoring
 I've been mentoring and have been a mentee for years and I have learned so much from the experience. Securing a mentor and becoming a mentor yourself are invaluable steps towards professional growth.  These two practices are not mutually exclusive but complement each other. A mentor offers guidance, wisdom, and support, helping you navigate challenges and make informed decisions. Simultaneously, mentoring others allows you to share your knowledge, expand your leadership skills, and develop a sense of fulfillment. The mentor-mentee relationship fosters personal and professional development, building a strong foundation for success.
 
 # 2. Get Your Resume Professionally Written
