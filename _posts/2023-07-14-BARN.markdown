@@ -12,7 +12,7 @@ header:
   overlay_image: https://images.unsplash.com/photo-1444858291040-58f756a3bdd6
   teaser: https://images.unsplash.com/photo-1444858291040-58f756a3bdd6
   
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Unsplash: Frances Gunn**](https://unsplash.com/@francesgunn)"
 ---
 
 # Introduction
