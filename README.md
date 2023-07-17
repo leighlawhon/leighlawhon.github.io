@@ -228,6 +228,7 @@ Read articles provided:
 * [Color Theory](https://leighlawhon.github.io/article/2023/07/01/color-theory.html)
 * [How To Win At A Hackathon](https://leighlawhon.github.io/article/2023/06/22/how-to-win-at-a-hackathon.html)
 * [Accelerating Your Career](https://leighlawhon.github.io/article/2023/06/22/professional-services.html)
+* [BARN Framework](http://localhost:4000/article/2023/07/14/BARN.html)
 
 ## Chapter 4.1 Working in Codespaces: Shuffling Cards
 Create repo from zipped project `Shuffling_Cards` in the `zipped_file` folder.
