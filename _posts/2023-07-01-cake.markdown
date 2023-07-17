@@ -16,9 +16,12 @@ header:
 ---
 
 # Piece of Cake
-Introducing coding concepts to young minds requires creativity and engaging approaches that resonate with their interests. In my experience teaching kids to code at Generation Code, I discovered that incorporating the analogy of cooking proved to be a highly effective and relatable teaching method. By comparing variables and objects to ingredients and instructions to functions, the young students not only quickly grasped the core concepts but also developed their coding skills, unleashing their creativity in the process.
+
+> To see a preview of this project go to [Piece of Cake on Codespaces](https://leighlawhon-super-happiness-5vrqw6j5q7v27j7v.github.dev/) and select the `index.html` file and then `go live` on the status bar.
 
 ## Background
+Introducing coding concepts to young minds requires creativity and engaging approaches that resonate with their interests. In my experience teaching kids to code at Generation Code, I discovered that incorporating the analogy of cooking proved to be a highly effective and relatable teaching method. By comparing variables and objects to ingredients and instructions to functions, the young students not only quickly grasped the core concepts but also developed their coding skills, unleashing their creativity in the process.
+
 During my tenure at Generation Code, an organization focused on teaching coding to children, I had the opportunity to create a unique lesson that merged two seemingly unrelated worlds: coding and cooking. The goal was to introduce fundamental coding concepts in a manner that would captivate the young learners and make the subject matter more accessible and enjoyable.
 
 ## Approach

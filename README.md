@@ -34,6 +34,7 @@
 
 ### Gemfile:
 ```yaml
+gem "minimal-mistakes-jekyll"
 gem "jekyll-remote-theme"
 group :jekyll_plugins do
   gem "jekyll-paginate"
@@ -147,14 +148,6 @@ soft:
 @import "taxonomy";
 ```
 
-### _config
-```yml
-header_scripts:
- - assets/css/custom
-footer_scripts:
-  - /assets/js/animation.js
-```
-
 ### anime.js
 ```javascript
 anime({
@@ -223,8 +216,8 @@ I am a self-taught programmer, instructor, product manager, game developer, pain
 ### Adding images to an Article
 ```markdown
 header:
-  overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
-  teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
+  overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8
+  teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8
   
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ```
@@ -237,7 +230,7 @@ Create repo from zipped project `Shuffling_Cards` in the `zipped_file` folder.
 
 ### Links
 * [GitHub Codespaces for Students](https://www.linkedin.com/learning/github-codespaces-for-students/)
-* [>earnoing GitHub Codespaces for Enterprise](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise)
+* [Learning GitHub Codespaces for Enterprise](https://www.linkedin.com/learning/learning-github-codespaces-for-enterprise)
 
 ## Chapter 4.2 Working in Codespaces: Piece of Cake
 Create repo from zipped project `Piece_of_Cake` in the `zipped_file` folder.
