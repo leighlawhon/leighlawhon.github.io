@@ -11,8 +11,9 @@ author: Leigh Stewardson
 header:
  teaser: https://images.unsplash.com/photo-1516321318423-f06f85e504b3
  overlay_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3
-
+ caption: "Photo credit: [**Unsplash: John Schnobrich*](https://unsplash.com/@johnschno)"
 ---
+
 Looking back on my career, there are a few things I wish I had done earlier to boost my career progression and enhance my marketability. In this article, I will share my experience and highlight four professional services that have significantly accelerated my career and improved my standing in the job market.
 
 ## 1. Get a Mentor and/or Start Mentoring

@@ -8,10 +8,9 @@ author: Leigh Stewardson
 categories: article
 tagline: "Tips on Designing a Color Palette"
 header:
-  overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
-  teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
-  
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8
+  teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8
+  caption: "Photo credit: [**Unsplash: Robert Katzki**](https://unsplash.com/@ro_ka)"
 ---
 # Tips on Designing a Color Palette
 In the first two sections of this book, Color Limitations and Color and Emotions, we looked at some interesting facts about color and some of the context around their meaning. This provides tips for choosing a harmonious color palette, that will bring your designs and graphics together. In the next section, we will look at when and why choosing color to separate your design and graphics is important.

@@ -9,13 +9,11 @@ categories: work
 highlight_home: true
 tagline: "How to build a card game"
 header:
-  overlay_image: https://images.unsplash.com/photo-1541278107931-e006523892df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80
-  teaser: https://images.unsplash.com/photo-1541278107931-e006523892df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80
+  overlay_image: https://images.unsplash.com/photo-1541278107931-e006523892df
+  teaser: https://images.unsplash.com/photo-1541278107931-e006523892df
   
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Unsplash: Amanda Jones**](https://unsplash.com/@amandagraphc)"
 ---
-
-# Shuffling Cards
 
 > To see a preview of this project go to [Shuffling Cards on Codespaces](https://leighlawhon-studious-space-guacamole-6v5gj6qwgp43rp4q.github.dev/) and select the `index.html` file and then `go live` on the status bar.
 

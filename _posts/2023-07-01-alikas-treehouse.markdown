@@ -9,10 +9,9 @@ categories: work
 highlight_home: true
 tagline: "An interactive comicbook"
 header:
-  overlay_image: https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
-  teaser: https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
-  
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: https://images.unsplash.com/photo-1542831371-29b0f74f9713
+  teaser: https://images.unsplash.com/photo-1542831371-29b0f74f9713
+  caption: "Photo credit: [**Unsplash: Florian Olivio**](https://unsplash.com/@florianolv)"
 ---
 # Alika's Treehouse
 ## Background

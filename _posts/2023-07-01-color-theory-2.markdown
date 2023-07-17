@@ -8,10 +8,9 @@ author: Leigh Stewardson
 categories: article
 tagline: "Color and Emotions"
 header:
-  overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
-  teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
-  
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8
+  teaser: https://images.unsplash.com/photo-1502691876148-a84978e59af8
+  caption: "Photo credit: [**Unsplash: Robert Katzki**](https://unsplash.com/@ro_ka)"
 ---
 # Color and Emotions
 Mention Thanksgiving to any American and they will paint a picture in their head with gold, orange, red, and brown hues. It will also likely invoke a sense of family, gathering, and thankfulness. Colors, and the emotions we associate with them, are not exclusive. If I were to show you a picture of red roses, a champagne bottle with an orange label and a gold foil box of chocolates, you would see the same colors but perhaps think of a different holiday and a different emotion.

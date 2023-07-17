@@ -11,13 +11,11 @@ categories: work
 highlight_home: true
 tagline: "Work together, win the game"
 header:
-  overlay_image: https://images.unsplash.com/photo-1556484687-30636164638b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80
-  teaser: https://images.unsplash.com/photo-1556484687-30636164638b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80
-  
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: https://images.unsplash.com/photo-1544027993-37dbfe43562a
+  teaser: https://images.unsplash.com/photo-1544027993-37dbfe43562a
+  caption: "Photo credit: [**Unsplash: Toa Heftiba**](https://unsplash.com/@heftiba)"
 ---
 
-# Collaborate
 ## Background
 In 2019 I was awarded a Department of Education SBIR grant to build an educational board game about collaboration. Though the game would eventually be a series, focusing on different STEM vocations, the first prototype focused on collaboration in tech.
 
