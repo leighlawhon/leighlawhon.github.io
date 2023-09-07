@@ -1,13 +1,11 @@
 # main links
 main:
-  - title: "Dev Work"
-    url: "/mywork"
-  - title: "Product Design"
-    url: "/productdesign"
+  - title: "Development"
+    url: "/development"
+  - title: "Design"
+    url: "/design"
   - title: "Writing"
-    url: "/mywriting"
-  - title: "Artwork"
-    url: "/artwork"
+    url: "/writing"
   - title: "About Me"
     url: "/about"
   

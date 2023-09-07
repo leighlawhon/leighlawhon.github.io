@@ -1,18 +1,18 @@
 ---
 layout: posts
-title:  "Shuffling Cards"
+title:  "Vanilla JS: Binding and Propagation"
 date:   2023-07-01 16:13:27 -0500
 tags: [tutorial, javascript]
 author_profile: true
 author: Leigh Stewardson
-categories: work
+categories: tutorials
 highlight_home: true
 tagline: "How to build a card game"
 header:
-  overlay_image: https://images.unsplash.com/photo-1541278107931-e006523892df
-  teaser: https://images.unsplash.com/photo-1541278107931-e006523892df
+  overlay_image: /assets/images/prop_binding.png
+  teaser: /assets/images/prop_binding.png
   
-  caption: "Photo credit: [**Unsplash: Amanda Jones**](https://unsplash.com/@amandagraphc)"
+  caption: "Photo credit: [**LinkedIn Learning: Amanda Jones**](https://unsplash.com/@amandagraphc)"
 description: This article showcases a tutorial that teaches learners how to code.
 ---
 

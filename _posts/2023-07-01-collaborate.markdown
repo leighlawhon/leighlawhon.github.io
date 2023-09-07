@@ -7,13 +7,13 @@ author_profile: true
 author: Leigh Stewardson
 author_profile: true
 author: Leigh Stewardson
-categories: work
+categories: product
 highlight_home: true
 tagline: "Work together, win the game"
 header:
-  overlay_image: https://images.unsplash.com/photo-1544027993-37dbfe43562a
-  teaser: https://images.unsplash.com/photo-1544027993-37dbfe43562a
-  caption: "Photo credit: [**Unsplash: Toa Heftiba**](https://unsplash.com/@heftiba)"
+  overlay_image: /assets/images/game_landscape@3x.png
+  teaser:  /assets/images/game_landscape@3x.png
+  caption: "Photo credit: **Leigh STewardson**"
 description: This article showcases the game Collaborate and how I build it.
 ---
 

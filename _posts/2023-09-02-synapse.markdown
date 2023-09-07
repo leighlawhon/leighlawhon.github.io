@@ -1,0 +1,30 @@
+---
+layout: posts
+title:  "Synapse"
+date:   2023-07-01 16:13:27 -0500
+tags: [collaboration]
+author_profile: true
+author: Leigh Stewardson
+author_profile: true
+author: Leigh Stewardson
+categories: product
+highlight_home: true
+tagline: "Work together, win the game"
+header:
+  overlay_image: /assets/images/synapse.png
+  teaser:  /assets/images/synapse.png
+  caption: "Photo credit: **Leigh STewardson**"
+description: This article showcases the game Collaborate and how I build it.
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8c8qVJqvmHQ?si=60A-TwysKQNiihyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Background
+
+
+## Approach
+
+
+## Results
+
+
+## Next Steps

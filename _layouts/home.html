@@ -5,8 +5,6 @@ layout: archive
 {{ content }}
 
 <h2 style="clear:both">My Favourite Work</h2>
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Development" }}
-</h3>
 
 {% if paginator %}
     {% assign posts = paginator.posts %}
@@ -15,6 +13,17 @@ layout: archive
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'grid' %}
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Product Design" }}</h3>
+<div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
+    {% if post.highlight_home and post.categories contains 'product' %}
+    {% include archive-single.html type=entries_layout %}
+    {% endif %}
+    {% endfor %}
+</div>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Development" }}
+</h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
         {% if post.highlight_home and post.categories contains 'work' %}
@@ -22,13 +31,52 @@ layout: archive
         {% endif %}
     {% endfor %}
 </div>
-    
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Tutorials" }}
+</h3>
+<div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
+    {% if post.highlight_home and post.categories contains 'tutorials' %}
+    {% include archive-single.html type=entries_layout %}
+    {% endif %}
+    {% endfor %}
+</div>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Print and Branding" }}
+</h3>
+<div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
+    {% if post.highlight_home and post.categories contains 'print' %}
+    {% include archive-single.html type=entries_layout %}
+    {% endif %}
+    {% endfor %}
+</div>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Video & 3D" }}
+</h3>
+<div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
+    {% if post.highlight_home and post.categories contains 'video' %}
+    {% include archive-single.html type=entries_layout %}
+    {% endif %}
+    {% endfor %}
+</div>
+
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Articles" }}</h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
         {% if post.highlight_home and post.categories contains 'article' %}
             {% include archive-single.html type=entries_layout %}
         {% endif %}
+    {% endfor %}
+</div>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Artwork" }}</h3>
+<div class="entries-{{ entries_layout }} watercolor">
+    {% for post in posts %}
+    {% if post.highlight_home and post.categories contains 'artwork' %}
+    {% include archive-single.html type=entries_layout %}
+    {% endif %}
     {% endfor %}
 </div>
 

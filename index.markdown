@@ -9,4 +9,4 @@ author: Leigh Stewardson
 
 ![leigh avatar](/assets/images/bioshot.jpeg){: .avatar} 
 # Hi! I'm Leigh Stewardson. 
-I am a self-taught programmer, instructor, product manager, game developer, painter, and writer. Check out some of my favorite articles and projects below or go to [**My Work**](/mywork) or [**My Writing**](/mywriting) to see a categorized list.
+I am a multifaceted Product Manager with extensive experience in design and development. Check out some of my favorite projects below or go to [**Development**](/development), [**Design**](/design) or [**Writing**](/writing) to see a categorized list.
