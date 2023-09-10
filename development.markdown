@@ -1,6 +1,6 @@
 ---
 layout: categories_work
-title: My Work
+title: Development Work
 author_profile: true
 author: Leigh Stewardson
 ---

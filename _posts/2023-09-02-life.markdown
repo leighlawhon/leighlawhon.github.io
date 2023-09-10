@@ -2,14 +2,14 @@
 layout: posts
 title:  "Life Technologies"
 date:   2023-07-01 16:13:27 -0500
-tags: [collaboration]
+tags: ["life science"]
 author_profile: true
 author: Leigh Stewardson
 author_profile: true
 author: Leigh Stewardson
 categories: product
 highlight_home: true
-tagline: "Work together, win the game"
+tagline: "Cancer Assay Interface"
 header:
   overlay_image: /assets/images/life.png
   teaser:  /assets/images/life.png
@@ -18,22 +18,13 @@ description: This article showcases the game Collaborate and how I build it.
 ---
 
 ## Background
-In 2019 I was awarded a Department of Education SBIR grant to build an educational board game about collaboration. Though the game would eventually be a series, focusing on different STEM vocations, the first prototype focused on collaboration in tech.
-
-Research shows that the top skill missing from new employees (especially those just out of school) is collaboration. Often students spend their academic career focusing on their own success and grades. When they enter their career, they struggle with shifting to an environment where team success is valued. The aim of the game is to teach students to collaborate and why it’s important.
+The Life Sciences division required a revamp of the outdated Cancer Assay tool interface, necessitating a transition to a more contemporary programming language. Tasked with this project, I initiated a thorough process of user research, which subsequently informed iterative design enhancements.
 
 ## Approach
-My team and I performed research on and tested multiple prototypes with a local school over an 2 month period. Each session we observed game play and collected qualitative and quantitative data and then iterated on the prototype. One observation was that the tokens were very difficult to put away and therefore not suitable for a classroom setting where time can be limited.
-
-Additionally, curriculum was developed to accompany the game.
+In collaboration with the business leads, I conducted comprehensive user research to identify various pain points associated with the existing application. While retaining crucial elements, I overhauled the interface to unveil data in a sequential manner, aligning with users' preferred methods.
 
 ## Results
-At the conclusion on the grant, it was decided not to pursue publishing of the game. I felt there was something missing. The mechanics worked well, and students collaborated, but it lacked and element of excitement and was too didactic.
-
-![collboratory old](/assets/images/collaboratory_old.jpeg)
-[Original game promo video](https://youtu.be/vfk5_bkJQFg)
+The revamped tool was developed by an offshore team under my guidance. The project garnered recognition when presented at an internal conference, securing an innovation award.
 
 ## Next Steps
- In 2023, I reworked the theme of the game. I simplified the game by combining some of the cards and reduced the number of piece by getting rid of the tokens. Additionally, I decided the base game should be general business.
-
- We are invited to the Ed Games Expo, September 19-22, 2023. 
+Ideally, I would have preferred to continue monitoring metrics on this interface and further refine its usability. Unfortunately, due to the conclusion of the contract, I was unable to pursue these improvements.

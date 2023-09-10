@@ -4,7 +4,7 @@ layout: archive
 
 {{ content }}
 
-<h2 style="clear:both">My Favourite Work</h2>
+<h2 style="clear:both">My Best Work</h2>
 
 {% if paginator %}
     {% assign posts = paginator.posts %}
@@ -13,7 +13,8 @@ layout: archive
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'grid' %}
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Product Design" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Product Design and Management"
+    }}</h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
     {% if post.highlight_home and post.categories contains 'product' %}
@@ -22,7 +23,7 @@ layout: archive
     {% endfor %}
 </div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Development" }}
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Development Work" }}
 </h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
@@ -41,17 +42,17 @@ layout: archive
     {% endfor %}
 </div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Print and Branding" }}
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Design and Branding" }}
 </h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
-    {% if post.highlight_home and post.categories contains 'print' %}
+    {% if post.highlight_home and post.categories contains 'design' %}
     {% include archive-single.html type=entries_layout %}
     {% endif %}
     {% endfor %}
 </div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Video & 3D" }}
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Video & 3D Work" }}
 </h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}

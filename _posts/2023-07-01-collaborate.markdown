@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Collaborate the Game"
+title:  "Collaborate Games"
 date:   2023-07-01 16:13:27 -0500
 tags: [collaboration]
 author_profile: true

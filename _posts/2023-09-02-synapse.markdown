@@ -7,24 +7,26 @@ author_profile: true
 author: Leigh Stewardson
 author_profile: true
 author: Leigh Stewardson
-categories: product
+categories: [product, work]
 highlight_home: true
-tagline: "Work together, win the game"
+tagline: "Drug Discovery Tool"
 header:
   overlay_image: /assets/images/synapse.png
   teaser:  /assets/images/synapse.png
   caption: "Photo credit: **Leigh STewardson**"
 description: This article showcases the game Collaborate and how I build it.
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8c8qVJqvmHQ?si=60A-TwysKQNiihyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Background
-
+The client's objective for this prototype was to leverage Natural Language Processing (NLP) for aggregating data from Pub Med articles. The goal was to identify commonalities among articles pertaining to drugs, diseases, and genes, ultimately aiding researchers in uncovering new applications for drugs.
 
 ## Approach
-
+I crafted and implemented this interface utilizing D3JS and Angular. Upon selecting a primary drug, disease, or gene for investigation, a vector graph is generated. Each node within the graph is interactive, providing access to the vector scores indicating the degree of correlation between the two nodes. Subsequently, users can switch to the Documents tab to view a meticulously organized list of related articles sourced from PubMed. The extremes of this list exhibit a stronger association with one of the nodes. In theory, the documents positioned in the middle should bear relevance to both nodes.
 
 ## Results
-
+During testing, the prototype demonstrated commendable performance. The documents closely linked to individual nodes exhibited the anticipated correlations. However, those positioned in the middle displayed looser connections to each node, necessitating further research for true drug discovery.
 
 ## Next Steps
+The subsequent phase for this project entailed implementing a history tracker to enable researchers to trace their research journey. Furthermore, I intended to incorporate functionality for delving deeper into the segmented documents, thereby empowering researchers to unearth related documents within the dataset.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8c8qVJqvmHQ?si=60A-TwysKQNiihyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

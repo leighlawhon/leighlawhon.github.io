@@ -9,7 +9,7 @@ author_profile: true
 author: Leigh Stewardson
 categories: product
 highlight_home: true
-tagline: "Work together, win the game"
+tagline: "Educaition Benefits Platform"
 header:
   overlay_image: /assets/images/wfe.png
   teaser:  /assets/images/wfe.png
@@ -18,14 +18,15 @@ description: This article showcases the game Collaborate and how I build it.
 ---
 
 ## Background
-
+In my role as the Head of Product at WorkForce Edge, I was responsible for formulating the strategy and leading initiatives related to UI design, development, and security. The product catered to three main stakeholders: Sales, Service, and the parent company, SEI Inc. I had to navigate through competing priorities within budget constraints and limited resources. The platform showcased a variety of education providers, both in and out of the network, offering stipends for education to employees. Our aim was to empower students to utilize their benefits according to their preferences, in contrast to competitors who limited options to in-network schools. SEI's objective was to leverage the platform as a sales channel, directing students towards SEI and its partner educational programs. Additionally, there were efforts to highlight programs with high demand. Our business partners were focused on delivering the best possible experience while effectively managing costs. The business model involved providing the platform free of charge.
 
 ## Approach
-
+As a newly launched product, my initial strategy was to prioritize the development of competitive features. This enabled the sales team to secure deals and compete effectively in the market. Once the product had achieved the minimum viable product (MVP) status for competitive features, I shifted the strategy towards growth and enhancing the user experience. Given the B2B2C nature of the product, I faced the challenge of maintaining a strategy that catered to both our business partners and our employee user base. Balancing the goals of encouraging employees to utilize their benefits, promoting in-network schools, and highlighting our own offerings was crucial. Additionally, I took on the responsibility from the Sales team to ensure the platform's security. I established a robust security program and oversaw the selection and management of vendors.
 
 ## Results
+As the company experienced steady growth, the emphasis shifted towards increasing engagement with our in-network partners. During my tenure at WorkForce Edge, I oversaw the implementation of tools for billing and pre-paid tuition, as well as a redesign of the interface to enhance the user experience. Moreover, for our business partners, I introduced an iPaaS solution that streamlined reporting to our business customers and integration with their HRIS systems. This significantly reduced development time from 6 weeks to just 3 days.
 
-
+In 2023, WorkForce Edge achieved SOC2 compliance.
 
 ## Next Steps
-
+The subsequent phase for the product involved establishing a product-led channel that segmented the platform into free and paid tiers. The concept was to offer a basic product for businesses to manage their benefits at no cost, alongside a premium product that provided access to in-network schools and automated tools for billing and reimbursement.
