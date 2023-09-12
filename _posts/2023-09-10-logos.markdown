@@ -11,8 +11,8 @@ categories: design
 highlight_home: true
 tagline: "Various logos"
 header:
-  overlay_image: /assets/images/scitor4.jpeg
-  teaser:  /assets/images/scitor4.jpeg
+  overlay_image: /assets/images/surefire.png
+  teaser:  /assets/images/surefire.png
   caption: "Photo credit: **Leigh Stewardson**"
 description: This article showcases the game Collaborate and how I build it.
 ---
@@ -28,3 +28,5 @@ As a graphic designer I created many logos for companies such as Blackboard, the
 ![Standup](/assets//images/standup.png){:.gallary}
 ![Kickoff](/assets//images/KO.png){:.gallary}
 ![Releigh Gray](/assets//images/rg.png){:.gallary}
+![Surefire](/assets//images/surefire.png){:.gallary}
+[Surefire](/assets//images/melt.gif){:.gallary}
