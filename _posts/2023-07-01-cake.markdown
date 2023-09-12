@@ -16,10 +16,6 @@ header:
 description: This article showcases a tutorial that teaches kids how to code.
 ---
 
-# Piece of Cake
-
-> To see a preview of this project go to [Piece of Cake on Codespaces](https://leighlawhon-super-happiness-5vrqw6j5q7v27j7v.github.dev/) and select the `index.html` file and then `go live` on the status bar.
-
 ## Background
 Introducing coding concepts to young minds requires creativity and engaging approaches that resonate with their interests. In my experience teaching kids to code at Generation Code, I discovered that incorporating the analogy of cooking proved to be a highly effective and relatable teaching method. By comparing variables and objects to ingredients and instructions to functions, the young students not only quickly grasped the core concepts but also developed their coding skills, unleashing their creativity in the process.
 
@@ -35,3 +31,7 @@ The use of the cooking analogy fostered an environment of curiosity, experimenta
 
 ## Next Steps
 I regularly use this code to illustrate functions and varialble for my students. I plan to take it further by creating another story-based tutroial similar to [Alik's Treehouse](https://leighlawhon.github.io/work/2023/07/01/alikas-treehouse.html). 
+
+After witnessing the success of the cooking-inspired coding lesson, I am thrilled to share that I am incorporating the "Piece of Cake" app in my current tutorial, "Creating GitHub Portfolios." This exciting project seamlessly integrates with Codespaces, offering learners a hands-on demonstration of leveraging GitHub portfolios effectively. By including the "Piece of Cake" code, my objective is to enrich the overall learning experience, enabling individuals to showcase their skills with confidence and flair.
+
+> To see a preview of this project go to [Piece of Cake on Codespaces](https://leighlawhon-super-happiness-5vrqw6j5q7v27j7v.github.dev/) and select the `index.html` file and then `go live` on the status bar.
