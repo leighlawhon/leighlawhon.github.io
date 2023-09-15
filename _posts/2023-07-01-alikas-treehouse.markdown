@@ -42,10 +42,20 @@ The work won the hackathon!
 ## Next Steps
 In 2018 I had additional stories built out. This included *Radio Dia*, *A World Elsewhere*, and *Ray's Treasure Adventure*. In the future I plan to build a platform that allows these lesson-stories to be built out easily.
 
-![alika1](/assets/images/alika1.png)
 
-![alika2](/assets/images/alika2.png)
+<div id="nanogallery2"></div>
+<script>
+  $("#nanogallery2").nanogallery2({
+  // ### gallery settings ###
+  thumbnailHeight:  150,
+  thumbnailWidth:   150,
+  itemsBaseURL:     '/assets/images/',
 
-![alika3](/assets/images/alika3.png)
+  // ### gallery content ###
+  items: [
+      { src: 'alika1.png', srct: 'alika1.png' },
+      { src: 'alika2.png', srct: 'alika2.png' },
 
-![alika4](/assets/images/alika4.png)
+  ]
+});
+</script>

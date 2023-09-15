@@ -20,13 +20,32 @@ description: This article showcases the game Collaborate and how I build it.
 ## Introduction
 As a graphic designer I created many logos for companies such as Blackboard, the Scitor and the Smithsonian Institute. Below are some examples of my work.
 
-![rockcreek](/assets/images/rockcreek.png){:.gallary}
-![argo](/assets/images/argo.jpeg){:.gallary}
-![Blackboard](/assets//images/blackboard.jpeg){:.gallary}
-![Gardenfest](/assets/images/gardenfest.jpeg){:.gallary}
-![kenetik](/assets/images/kenetik.png){:.gallary}
-![Standup](/assets//images/standup.png){:.gallary}
-![Kickoff](/assets//images/KO.png){:.gallary}
-![Releigh Gray](/assets//images/rg.png){:.gallary}
-![Surefire](/assets//images/surefire.png){:.gallary}
-[Surefire](/assets//images/melt.gif){:.gallary}
+
+<div id="nanogallery2"></div>
+<script>
+  $("#nanogallery2").nanogallery2({
+  // ### gallery settings ###
+  thumbnailHeight:  150,
+  thumbnailWidth:   150,
+  itemsBaseURL:     '/assets/images/',
+
+  // ### gallery content ###
+  items: [
+      { src: 'rockcreek.png', srct: 'rockcreek.png' },
+      { src: 'argo.jpeg', srct: 'argo.jpeg' },
+      { src: 'blackboard.jpeg', srct: 'blackboard.jpeg' },
+      { src: 'gardenfest.jpeg', srct: 'gardenfest.jpeg' },
+      { src: 'kenetik.png', srct: 'kenetik.png' },
+      { src: 'standup.png', srct: 'standup.png' },
+      { src: 'KO.png', srct: 'KO.png' },
+      { src: 'rg.png', srct: 'rg.png' },
+      { src: 'surefire.png', srct: 'surefire.png' },
+      { src: 'melt.gif', srct: 'melt.gif' },
+
+
+
+
+
+  ]
+});
+</script>

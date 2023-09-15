@@ -28,3 +28,28 @@ The revamped tool was developed by an offshore team under my guidance. The proje
 
 ## Next Steps
 Ideally, I would have preferred to continue monitoring metrics on this interface and further refine its usability. Unfortunately, due to the conclusion of the contract, I was unable to pursue these improvements.
+
+<div id="nanogallery2" >
+    <!-- <a href = "/assets/images/life1.png"   data-ngThumb = "/assets/images/life7_t.png" > Berlin 1 </a>
+    <a href = "/assets/images/life2.png"   data-ngThumb = "/assets/images/life7_t.png" > Berlin 2 </a>
+    <a href = "/assets/images/life3.png"   data-ngThumb = "/assets/images/life7_t.png" > Berlin 3 </a> -->
+</div>
+<script>
+  $("#nanogallery2").nanogallery2({
+  // ### gallery settings ###
+  thumbnailHeight:  150,
+  thumbnailWidth:   150,
+  itemsBaseURL:     '/assets/images/',
+
+  // ### gallery content ###
+  items: [
+      { src: 'life1.png', srct: 'life1.png' },
+      { src: 'life2.png', srct: 'life2.png' },
+      { src: 'life3.png', srct: 'life3.png' },
+      { src: 'life3.png', srct: 'life4.png'},
+      { src: 'life3.png', srct: 'life5.png'},
+      { src: 'life3.png', srct: 'life6.png'},
+      { src: 'life3.png', srct: 'life7.png' }
+  ]
+});
+</script>

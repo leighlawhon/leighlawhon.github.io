@@ -38,3 +38,21 @@ body {
 #main {
     position: relative;
 }
+@media (min-width: 80em) {
+    #main {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 80em) {
+    .sidebar {
+        width: calc(400px - 1em);
+    }
+}
+
+@media (min-width: 80em) {
+    .archive {
+        width: calc(100% - 400px);
+        padding-right: 200px;
+    }
+}

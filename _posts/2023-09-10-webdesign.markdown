@@ -20,10 +20,23 @@ description: This article showcases the game Collaborate and how I build it.
 ## Introduction
 As a graphic designer I created many infographics for companies such as Blackboard, the Scitor and the Smithsonian Institute. Below are some examples of my work.
 
-![ACLU](/assets/images/aclu.jpeg){:.gallary}
-![Kinemetric](/assets/images/kinimetrick.jpeg){:.gallary}
-![lng](/assets//images/lng.png){:.gallary}
-![wfe](/assets/images/wfe.png){:.gallary}
-![colabup](/assets/images/colabup.png){:.gallary}
-![virge](/assets/images/virge.jpeg){:.gallary}
 
+<div id="nanogallery2"></div>
+<script>
+  $("#nanogallery2").nanogallery2({
+  // ### gallery settings ###
+  thumbnailHeight:  150,
+  thumbnailWidth:   150,
+  itemsBaseURL:     '/assets/images/',
+
+  // ### gallery content ###
+  items: [
+      { src: 'aclu.jpeg', srct: 'aclu.jpeg' },
+      { src: 'kinimetrick.jpeg', srct: 'kinimetrick.jpeg' },
+      { src: 'lng.png', srct: 'lng.png' },
+      { src: 'collabup.png', srct: 'collabup.png' },
+      { src: 'virge.jpeg', srct: 'virge.jpeg' },
+
+  ]
+});
+</script>

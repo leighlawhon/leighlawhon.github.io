@@ -30,3 +30,19 @@ In 2023, WorkForce Edge achieved SOC2 compliance.
 
 ## Next Steps
 The subsequent phase for the product involved establishing a product-led channel that segmented the platform into free and paid tiers. The concept was to offer a basic product for businesses to manage their benefits at no cost, alongside a premium product that provided access to in-network schools and automated tools for billing and reimbursement.
+
+<div id="nanogallery2"></div>
+<script>
+  $("#nanogallery2").nanogallery2({
+  // ### gallery settings ###
+  thumbnailHeight:  150,
+  thumbnailWidth:   150,
+  itemsBaseURL:     '/assets/images/',
+
+  // ### gallery content ###
+  items: [
+      { src: 'wfe.png', srct: 'wfe.png' },
+      { src: 'wfe2.png', srct: 'wfe2.png' },
+  ]
+});
+</script>
