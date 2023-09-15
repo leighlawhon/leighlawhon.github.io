@@ -16,10 +16,6 @@ header:
 description: This article showcases a tutorial that teaches learners how to code.
 ---
 
-> To see a preview of this project go to [Shuffling Cards on Codespaces](https://leighlawhon-studious-space-guacamole-6v5gj6qwgp43rp4q.github.dev/) and select the `index.html` file and then `go live` on the status bar.
-
-![go live](/assets/images/golive.png)
-
 ## Background
 This project aimed to teach the concepts of testing the speed of sorting algorithms. Over a span of two months, I meticulously developed the course, and the recording took place at the LinkedIn campus in Carpenteria, CA. 
 
@@ -30,3 +26,8 @@ In all my courses, I strive to create a narrative that complements the learning 
 Upon publication, the course garnered significant attention, accumulating over 6,500 viewers to date. It remains one of my personal favorite tutorials, as it encapsulates my passion for teaching and the JavaScript language.
 
 ## Next Steps
+
+
+> To see a preview of this project go to [Shuffling Cards on Codespaces](https://leighlawhon-studious-space-guacamole-6v5gj6qwgp43rp4q.github.dev/) and select the `index.html` file and then `go live` on the status bar.
+
+![go live](/assets/images/golive.png)

@@ -18,12 +18,25 @@ description: This article showcases the game Collaborate and how I build it.
 ---
 
 ## Introduction
-As a graphic designer I created many infographics for companies such as Blackboard, the Scitor and the Smithsonian Institute. Below are some examples of my work.
+As a graphic designer I created many infographics for companies such as Social Progress Index, the American Society of Interior Designers and the Corporate Executive Board. For each infographic, I focus on the clarity of the information, incorporating shapes, color and contrast. Below are some examples of my work.
 
-![Social Progress](/assets/images/socialprogress.png){:.gallary}
-![Socio Economic](/assets/images/socioeconomic.png){:.gallary}
-![lifetime](/assets//images/lifetime.png){:.gallary}
-![map](/assets/images/map.jpeg){:.gallary}
-![ceb](/assets/images/ceb.png){:.gallary}
-![ceb2](/assets//images/ceb2.png){:.gallary}
-![ceb3](/assets//images/ceb3.png){:.gallary}
+
+<div id="nanogallery2"></div>
+<script>
+  $("#nanogallery2").nanogallery2({
+  // ### gallery settings ###
+  thumbnailHeight:  150,
+  thumbnailWidth:   150,
+  itemsBaseURL:     '/assets/images/',
+
+  // ### gallery content ###
+  items: [
+      { src: 'socialprogress.png', srct: 'socialprogress.png' },
+      { src: 'socioeconomic.png', srct: 'socioeconomic.png' },
+      { src: 'lifetime.png', srct: 'lifetime.png' },
+      { src: 'map.jpeg', srct: 'map.jpeg' },
+      { src: 'ceb.png', srct: 'ceb.png' },
+      { src: 'ceb2.png', srct: 'ceb2.png' },
+      { src: 'ceb3.png', srct: 'ceb3.png' },
+  ]
+});

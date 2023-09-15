@@ -18,7 +18,7 @@ description: This article showcases the game Collaborate and how I build it.
 ---
 
 ## Introduction
-As a graphic designer I created many logos for companies such as Blackboard, the Scitor and the Smithsonian Institute. Below are some examples of my work.
+As a graphic designer I created many logos for companies such as Blackboard, the Scitor and the Smithsonian Institute. For each logo I design, I try to find unique shapes, incorporating negative spce, and look for symbolism that represents my clients. Below are some examples of my work.
 
 
 <div id="nanogallery2"></div>
@@ -41,10 +41,6 @@ As a graphic designer I created many logos for companies such as Blackboard, the
       { src: 'rg.png', srct: 'rg.png' },
       { src: 'surefire.png', srct: 'surefire.png' },
       { src: 'melt.gif', srct: 'melt.gif' },
-
-
-
-
 
   ]
 });
