@@ -9,11 +9,11 @@ author_profile: true
 author: Leigh Stewardson
 categories: [ work]
 highlight_home: true
-tagline: "Summary Search tool"
+tagline: "Summary Search Tool"
 header:
-  overlay_image: /assets/images/synapse.png
-  teaser:  /assets/images/synapse.png
-  caption: "Photo credit: **Leigh STewardson**"
+  overlay_image: /assets/images/highlight.png
+  teaser:  /assets/images/highlight.png
+  caption: "Photo credit: **Leigh Stewardson**"
 description: This article showcases the game Collaborate and how I build it.
 ---
 
