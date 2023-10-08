@@ -18,6 +18,6 @@ description: This article showcases the game Collaborate and how I build it.
 ---
 
 ## Introduction
-As a graphic designer I created many infographics for companies such as Blackboard, the Scitor and the Smithsonian Institute. Below are some examples of my work.
+I produced this video for a competition, overseeing all aspects from filming to design and development, including the incorporation of special effects and 3D elements. My objective was to illustrate the correlation between magazines and our sense of identity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OfBKDwCyi7w?si=U1O5vPJ_5yvMAufz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

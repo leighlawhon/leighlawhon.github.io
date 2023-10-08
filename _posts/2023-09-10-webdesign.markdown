@@ -18,7 +18,7 @@ description: This article showcases the game Collaborate and how I build it.
 ---
 
 ## Introduction
-As a graphic designer I created many infographics for companies such as Blackboard, the Scitor and the Smithsonian Institute. Below are some examples of my work.
+As a designer I designed, developed the User Exeprience and developed many sites. Below are a few of my favorites:
 
 
 <div id="nanogallery2"></div>
