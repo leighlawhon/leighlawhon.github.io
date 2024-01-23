@@ -15,7 +15,7 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 
 ## My Skills
 
-<table width="100%">
+<table style="width:100%">
     <thead>
         <tr>
             <th>Product Management</th>
@@ -27,7 +27,7 @@ I currently looking for work that utilizes my expertise and industry knowledge a
     <tbody>
         <tr>
             <td>{% include productskills.markdown %}</td>
-            <td>{% include technicalskills.markdown %}
+            <td>{% include technicalskills.markdown %}</td>
             <td>{% include designskills.markdown %}</td>
             <td>{% include softskills.markdown %}</td>
         </tr>
