@@ -1,4 +1,3 @@
-| | |
 | ---- | ---- |
 {% assign skills = site.data.skills.design | sort: "title" -%}
 {% for skill in skills -%}
