@@ -1,3 +1,5 @@
+### Business
+
 | Skill | Level |
 | ---- | ---- |
 {% assign skills = site.data.skills.soft | sort: "title" -%}
