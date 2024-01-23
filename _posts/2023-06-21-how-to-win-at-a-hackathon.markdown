@@ -26,9 +26,9 @@ Dots to me, represent meaningful moments and/or experiences in life that help to
 I approach hackathons as “dot” moments.  I see these “dots” as powerful, dense moments  in time that have meaning and significance and upon further inspection, are just waiting to be connected.
 
 There are three parts to this process of examination and they are:
-* [Part 1: Investing in the “Dots”]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon.html)
-* [Part 2: Connecting the “Dots”]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon-2.html)
-* [Part 3: Casting the “Dots,” wide and far]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon-3.html)
+* [Part 1: Investing in the “Dots”]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon.html)
+* [Part 2: Connecting the “Dots”]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon-2.html)
+* [Part 3: Casting the “Dots,” wide and far]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon-3.html)
 
 # Part 1: Investing in the “Dots”
 Participating in hackathons is akin to the process of forming a pearl, or what I like to call a "dot." While hackathons can be challenging and uncomfortable, they have the potential to yield something truly remarkable. By approaching a hackathon with a mindset geared towards learning, establishing connections with fellow competitors, and creating something truly noteworthy, you are guaranteed to emerge victorious every single time.

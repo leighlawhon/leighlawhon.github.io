@@ -17,7 +17,7 @@ description: This series of articles explores how to win at a hackathon even if 
 —Steve Jobs, 
 Aug 10, 2018
 
-TESTIn [Part 1]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon.html) of How to win at a hackathon, we looked at what to do in a hackathon. In this article, we’ll look at setting your dots up for the future. 
+In [Part 1]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon.html) of How to win at a hackathon, we looked at what to do in a hackathon. In this article, we’ll look at setting your dots up for the future. 
 
 # Part 2: Connecting the “Dots”
 Dots need people. They are seeds waiting to grow (I know I said they were pearls, but imagine what would grow if a pearl were a seed!). People are the fertilizer and water that help a dot strengthen, bloom and connect to other dots.
@@ -25,7 +25,7 @@ Dots need people. They are seeds waiting to grow (I know I said they were pearls
 ## Network
 There are a ton of amazing people at hackathons. At the beginning of the hackathon that I recently attended, we, the participants, did a few breakout sessions to meet people on other teams. As I worked on my individual projects there is next to no time to talk to other teams. Additionally, as these teams are the competition, there is some natural (hopefully, light-hearted) animosity between teams.
 
-Don’t fall into this. I realized by competing in a hackathon, I was in a unique environment with kindred spirits. Why miss out on the opportunity to connect. Making connections is crucial for the next step in [Part 3]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon-3.html). The more people that I connect with, the farther my dots go, meaning more opportunities for me in the future. (Trust Steve Jobs on this.)
+Don’t fall into this. I realized by competing in a hackathon, I was in a unique environment with kindred spirits. Why miss out on the opportunity to connect. Making connections is crucial for the next step in [Part 3]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon-3.html). The more people that I connect with, the farther my dots go, meaning more opportunities for me in the future. (Trust Steve Jobs on this.)
 
 ## Connect matching dots
 I met Henry Duong, a medical professional turned serial founder and CTO, during the round robin ice breaker. It occurred to me that I knew another medical professional turned tech, Bryan Gersham, MD. I had been mentoring Bryan on how to get his idea funded using the SBIR.gov program. When this happens, take a note or jump on  [LinkedIn](https://www.linkedin.com/) and connect the dots. Do I get anything out of it? Good karma maybe, but my goal is to connect like-minded people. Who knows what will come of it?

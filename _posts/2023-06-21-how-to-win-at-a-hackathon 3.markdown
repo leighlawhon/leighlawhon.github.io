@@ -19,7 +19,7 @@ description: This series of articles explores how to win at a hackathon even if 
 >"No struggle, no success! The strongest thunder strikes often bring the heaviest rainfall! The weight of your fulfillment depends on how wide you cast your nets! If you are trying to look clean, neat and avoid casting your nets in troubled waters, you will catch no fish." 
 ― Israelmore Ayivor, Daily Drive 365
 
-In [Part 2]() of How to win at a hackathon, we looked at why it’s important to connect the dots through networking. In this article, we’ll look at what steps you can take after the weeknd is over.
+In [Part 2]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon-2.html) of How to win at a hackathon, we looked at why it’s important to connect the dots through networking. In this article, we’ll look at what steps you can take after the weeknd is over.
 
 # Part 3: Casting the "Dots" wide and far
 So what am I doing now that the hackathon is over? 
@@ -44,8 +44,9 @@ Embrace the power of social media as a tool to inspire, connect, and showcase yo
 
 ## Your Next Steps
 * Create a shareable article about your experience and publish it in as many places as you can.
+* Ask your connections to share your article
 * Reach out to businesses and influencers about your work
 * Apply to incubators and additional pitch competitions
-* Spend some time polishing it up and write an article, using the BARN framework. Learn more about that here [insert link]()
+* Spend some time polishing it up and write an article, using the BARN framework. Learn more about that here [BARN]({{base_url}}/article/2023/07/14/BARN.html)
 
-Ask your connections to share your article
+
