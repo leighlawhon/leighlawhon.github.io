@@ -17,7 +17,7 @@ description: This series of articles explores how to win at a hackathon even if 
 —Steve Jobs, 
 Aug 10, 2018
 
-In [Part 1]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon.html) of How to win at a hackathon, we looked at what to do in a hackathon. In this article, we’ll look at setting your dots up for the future. 
+TESTIn [Part 1]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon.html) of How to win at a hackathon, we looked at what to do in a hackathon. In this article, we’ll look at setting your dots up for the future. 
 
 # Part 2: Connecting the “Dots”
 Dots need people. They are seeds waiting to grow (I know I said they were pearls, but imagine what would grow if a pearl were a seed!). People are the fertilizer and water that help a dot strengthen, bloom and connect to other dots.
