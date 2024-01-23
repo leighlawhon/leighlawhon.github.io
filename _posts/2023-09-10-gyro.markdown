@@ -1,8 +1,8 @@
 ---
 layout: posts
-title:  "Scitor Gyroscope"
+title:  "Scitor Videos"
 date:   2023-07-01 16:13:27 -0500
-tags: [print]
+tags: [video]
 author_profile: true
 author: Leigh Stewardson
 author_profile: true
@@ -18,6 +18,8 @@ description: This article showcases the game Collaborate and how I build it.
 ---
 
 ## Introduction
-As a graphic designer I created many infographics for companies such as Blackboard, the Scitor and the Smithsonian Institute. Below are some examples of my work.
+As an Information Specialist at Scitor Corporation, I created in-house videos and 3D animations.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8-6ddXqW9W4?si=a4JN1Dp34OP5aPkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yiSOaidlxSQ?si=8Tw5fhrKxzK9R0MR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

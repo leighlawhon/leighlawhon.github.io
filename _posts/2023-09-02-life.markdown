@@ -18,7 +18,7 @@ description: This article showcases the game Collaborate and how I build it.
 ---
 
 ## Background
-The Life Sciences division required a revamp of the outdated Cancer Assay tool interface, necessitating a transition to a more contemporary programming language. Tasked with this project, I initiated a thorough process of user research, which subsequently informed iterative design enhancements.
+The Life Sciences division required a revamp of the outdated Cancer Assay interface, necessitating a transition to a more contemporary programming language. Tasked with this project, I initiated a thorough process of user research, which subsequently informed iterative design enhancements.
 
 ## Approach
 In collaboration with the business leads, I conducted comprehensive user research to identify various pain points associated with the existing application. While retaining crucial elements, I overhauled the interface to unveil data in a sequential manner, aligning with users' preferred methods.

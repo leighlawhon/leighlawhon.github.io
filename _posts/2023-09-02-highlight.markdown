@@ -2,7 +2,7 @@
 layout: posts
 title:  "Summary Highlight"
 date:   2023-07-01 16:13:27 -0500
-tags: [data]
+tags: ["data visualization"]
 author_profile: true
 author: Leigh Stewardson
 author_profile: true
