@@ -14,20 +14,23 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 <a href="https://leighlawhon.github.io/assets/leigh-stewardson-resume-24.pdf" target="_blank">Click here for my resume</a>
 
 ## My Skills
+<div>
 
-### Product Management Skills
+### Product Management 
 
 {% include productskills.markdown %}
 
-### Software Development Skills
+### Software Development 
 
 {% include technicalskills.markdown %}
 
-### Design Skills
+</div>
+
+### Design 
 
 {% include designskills.markdown %}
 
-### Soft Skills
+### Soft 
 
 {% include softskills.markdown %}
 
