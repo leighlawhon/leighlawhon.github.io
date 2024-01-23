@@ -11,7 +11,7 @@ I’m passionate about building beautiful and user-centric products for the web.
 
 I currently looking for work that utilizes my expertise and industry knowledge and allows me to grow as a Product Manager and strategist.
 
-<a href="https://leighlawhon.github.io/assets/leigh-stewardson-resume-24.pdf" target="_blank">Click here for my resume</a>
+<a href="https://leighlawhon.github.io/assets/leigh-stewardson-resume-24.pdf" target="_blank"><strong>Click here for my resume</strong></a>
 
 ### My Skills
 

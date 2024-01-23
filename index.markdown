@@ -9,4 +9,4 @@ author: Leigh Stewardson
 
 ![leigh avatar](/assets/images/bioshot.jpeg){: .avatar} 
 # Hi! I'm Leigh Stewardson. 
-I am a multifaceted Product Manager with extensive experience in design, development and teaching. Check out some of my favorite projects below or go to [**Development**](/development), [**Design**](/design) or [**Writing**](/writing) to see a categorized list.
+I am a multifaceted Product Manager with extensive experience in design, development and teaching. Check out some of my favorite projects below or go to [**My Work**](/mywork) or [**My Writing**](/writing) to see a categorized list.
