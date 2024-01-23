@@ -9,7 +9,7 @@ author_profile: true
 author: Leigh Stewardson
 categories: video
 highlight_home: true
-tagline: "Various Web Designs"
+tagline: "Video Competition"
 header:
   overlay_image: /assets/images/yourlife.png
   teaser:  /assets/images/yourlife.png

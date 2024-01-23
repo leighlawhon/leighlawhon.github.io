@@ -9,7 +9,7 @@ author_profile: true
 author: Leigh Stewardson
 categories: design
 highlight_home: true
-tagline: "Various print ads and posters"
+tagline: "Various Print Ads and Posters"
 header:
   overlay_image: /assets/images/scitor4.jpeg
   teaser:  /assets/images/scitor4.jpeg

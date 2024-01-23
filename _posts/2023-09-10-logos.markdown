@@ -9,7 +9,7 @@ author_profile: true
 author: Leigh Stewardson
 categories: design
 highlight_home: true
-tagline: "Various logos"
+tagline: "Various Logos"
 header:
   overlay_image: /assets/images/surefire.png
   teaser:  /assets/images/surefire.png

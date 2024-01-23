@@ -9,7 +9,7 @@ author_profile: true
 author: Leigh Stewardson
 categories: video
 highlight_home: true
-tagline: "Various Web Designs"
+tagline: "Various Video and 3D Projects"
 header:
   overlay_image: /assets/images/gyro.png
   teaser:  /assets/images/gyro.png

@@ -9,7 +9,7 @@ author_profile: true
 author: Leigh Stewardson
 categories: design
 highlight_home: true
-tagline: "Various infographics"
+tagline: "Various Infographics"
 header:
   overlay_image: /assets/images/socialprogress.png
   teaser:  /assets/images/socialprogress.png
