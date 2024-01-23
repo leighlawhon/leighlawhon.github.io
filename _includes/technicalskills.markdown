@@ -1,7 +1,4 @@
-<div>
-
-### Software Development 
-
+ 
 | Skill | Level |
 | ---- | ---- |
 {% assign skills = site.data.skills.technical | sort: "title" -%}
@@ -9,4 +6,3 @@
 | {{skill.title}} | {{skill.level}} |
 {%endfor%}
 
-</div>

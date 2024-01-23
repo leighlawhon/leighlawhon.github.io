@@ -1,7 +1,3 @@
-<div>
-
-
-### Product Management
 
 | Skill | Level |
 | ---- | ---- |
@@ -10,5 +6,3 @@
 | {{skill.title}} | {{skill.level}} |
 {%endfor%}
 
-
-</div>

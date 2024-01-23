@@ -1,6 +1,4 @@
-<div>
 
-### Design 
 
 | Skill | Level |
 | ---- | ---- |
@@ -9,4 +7,3 @@
 | {{skill.title}} | {{skill.level}} |
 {%endfor%}
 
-</div>
