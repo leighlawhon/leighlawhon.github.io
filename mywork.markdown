@@ -1,5 +1,5 @@
 ---
-layout: categories_design
+layout: categories_mywork
 title: Design and Artwork
 author_profile: true
 author: Leigh Stewardson
