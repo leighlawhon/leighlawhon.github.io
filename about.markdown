@@ -17,7 +17,7 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 
 | Product Management | Development | Design | Business |
 | ---- | ---- | ---- | ---- |
-| {% include productskills.markdown %}{: .float-left} | {% include technicalskills.markdown %}{: .float-left} | {% include designskills.markdown %}{: .float-left} | {% include softskills.markdown %}{: .float-left}|
+| {% include productskills.markdown %} | {% include technicalskills.markdown %} | {% include designskills.markdown %} | {% include softskills.markdown %} |
 
 
 
