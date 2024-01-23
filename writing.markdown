@@ -1,6 +1,6 @@
 ---
 layout: categories_article
-title: Writing
+title: My Writing
 author_profile: true
 author: Leigh Stewardson
 ---
