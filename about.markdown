@@ -14,7 +14,6 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 <a href="https://leighlawhon.github.io/assets/leigh-stewardson-resume-24.pdf" target="_blank">Click here for my resume</a>
 
 ## My Skills
-<div>
 
 ### Product Management Skills
 
@@ -24,10 +23,6 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 
 {% include technicalskills.markdown %}
 
-</div>
-
-<div>
-
 ### Design Skills
 
 {% include designskills.markdown %}
@@ -36,7 +31,6 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 
 {% include softskills.markdown %}
 
-</div>
 
 
 
