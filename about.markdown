@@ -13,11 +13,11 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 
 <a href="https://leighlawhon.github.io/assets/leigh-stewardson-resume-24.pdf" target="_blank">Click here for my resume</a>
 
-## My Skills TEST
+## My Skills
 
 | Product Management | Development | Design | Business |
 | ---- | ---- | ---- | ---- |
-| {%- include productskills.markdown -%} | {%- include technicalskills.markdown -%} | {%- include designskills.markdown -%} | {% include softskills.markdown -%} |
+| {% include productskills.markdown %} | {% include technicalskills.markdown %} | {% include designskills.markdown %} | {% include softskills.markdown %} |
 
 
 

@@ -1,4 +1,4 @@
 {% assign skills = site.data.skills.design | sort: "title" -%}
 {% for skill in skills -%}
-- {{skill.title}}{: .{{skill.level}} }
+<div class={{skill.level}}>{{skill.title}}</div>
 {%endfor%}
