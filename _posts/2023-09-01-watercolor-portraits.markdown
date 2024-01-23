@@ -2,7 +2,7 @@
 layout: posts
 title:  "Watercolour Portraits"
 date:   2023-09-01 16:13:27 -0500
-tags: [portraits]
+tags: [Portraits]
 author_profile: true
 author: Leigh Stewardson
 categories: artwork

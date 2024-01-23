@@ -17,17 +17,17 @@ layout: archive
     }}</h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
-    {% if post.highlight_home and post.categories contains 'product' %}
+    {% if post.highlight_home and post.categories contains 'work' and post.tags contains "Product Management"%}
     {% include archive-single.html type=entries_layout %}
     {% endif %}
     {% endfor %}
 </div>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Development Work" }}
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Data Visualization" }}
 </h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
-        {% if post.highlight_home and post.categories contains 'work' %}
+        {% if post.highlight_home and post.categories contains 'work' and post.tags contains 'Data Visualization' %}
         {% include archive-single.html type=entries_layout %}
         {% endif %}
     {% endfor %}
@@ -36,7 +36,7 @@ layout: archive
 </h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
-    {% if post.highlight_home and post.categories contains 'design' %}
+    {% if post.highlight_home and post.categories contains 'work' and post.tags contains 'Print' %}
     {% include archive-single.html type=entries_layout %}
     {% endif %}
     {% endfor %}
@@ -46,7 +46,7 @@ layout: archive
 </h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
-    {% if post.highlight_home and post.categories contains 'video' %}
+    {% if post.highlight_home and post.categories contains 'work' and post.tags contains 'Video'%}
     {% include archive-single.html type=entries_layout %}
     {% endif %}
     {% endfor %}
@@ -56,12 +56,12 @@ layout: archive
 </h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
-    {% if post.highlight_home and post.categories contains 'tutorials' %}
+    {% if post.highlight_home and post.categories contains 'work' and post.tags contains 'Tutorials' %}
     {% include archive-single.html type=entries_layout %}
     {% endif %}
     {% endfor %}
 </div>
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Articles" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Writing" }}</h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
         {% if post.highlight_home and post.categories contains 'article' %}

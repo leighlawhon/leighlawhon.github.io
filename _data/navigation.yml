@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Development"
-    url: "/development"
-  - title: "Design"
-    url: "/design"
+  - title: "My Work"
+    url: "/mywork"
   - title: "Writing"
     url: "/writing"
   - title: "About Me"

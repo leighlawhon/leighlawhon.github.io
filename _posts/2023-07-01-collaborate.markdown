@@ -2,12 +2,12 @@
 layout: posts
 title:  "Collaborate Games"
 date:   2023-07-01 16:13:27 -0500
-tags: [collaboration]
+tags: ["Product Management"]
 author_profile: true
 author: Leigh Stewardson
 author_profile: true
 author: Leigh Stewardson
-categories: product
+categories: work
 highlight_home: true
 tagline: "Work together, win the game"
 header:

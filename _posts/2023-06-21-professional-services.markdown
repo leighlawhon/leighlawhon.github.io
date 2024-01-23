@@ -5,7 +5,7 @@ tagline: "Professional Services That Transformed My Professional Viability"
 date:   2023-06-21 19:13:27 -0500
 highlight_home: true
 category: article
-tags: [leadership]
+tags: [Career]
 author_profile: true
 author: Leigh Stewardson
 header:

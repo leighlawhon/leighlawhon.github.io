@@ -2,12 +2,12 @@
 layout: posts
 title:  "Web Design"
 date:   2023-07-01 16:13:27 -0500
-tags: [websites]
+tags: [Websites]
 author_profile: true
 author: Leigh Stewardson
 author_profile: true
 author: Leigh Stewardson
-categories: design
+categories: work
 highlight_home: true
 tagline: "Various Web Designs"
 header:

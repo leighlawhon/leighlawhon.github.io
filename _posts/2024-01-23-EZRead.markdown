@@ -1,15 +1,15 @@
 ---
 layout: posts
-title:  "Your Life Ad"
-date:   2023-07-01 16:13:27 -0500
-tags: [Print]
+title:  "EZ-Read"
+date:   2023-01-23 16:13:27 -0500
+tags: [EdTech]
 author_profile: true
 author: Leigh Stewardson
 author_profile: true
 author: Leigh Stewardson
 categories: work
 highlight_home: true
-tagline: "Video Competition"
+tagline: "2024 Department of education SBIR grant proposal"
 header:
   overlay_image: /assets/images/yourlife.png
   teaser:  /assets/images/yourlife.png
