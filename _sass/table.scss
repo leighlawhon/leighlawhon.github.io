@@ -1,0 +1,19 @@
+#skills_table {
+    width: 100%;
+    table-layout: fixed;
+    overflow-wrap: break-word;
+
+    tbody {
+        width: 100%;
+
+        td {
+            vertical-align: top;
+            width: 25%;
+
+            tbody {
+                width: 100%;
+            }
+        }
+    }
+
+}
