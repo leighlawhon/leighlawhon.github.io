@@ -1,3 +1,5 @@
+<div>
+
 ### Software Development 
 
 | Skill | Level |
@@ -6,3 +8,5 @@
 {% for skill in skills -%}
 | {{skill.title}} | {{skill.level}} |
 {%endfor%}
+
+</div>
