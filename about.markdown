@@ -13,7 +13,7 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 
 <a href="https://leighlawhon.github.io/assets/leigh-stewardson-resume-24.pdf" target="_blank">Click here for my resume</a>
 
-## My Skills
+### My Skills
 
 <table id="skills_table">
     <thead>

@@ -13,13 +13,35 @@ technical:
 product:
  - title: Roadmaps
    level: Advanved
+ - title: Discovery
+   level: Advanved
+ - title: Competitive analysis
+   level: Advanved
+ - title: Product design 
+   level: Advanved
 
 design:
  - title: Page layout
    level: Advanved
+ - title: Illustration
+   level: Advanved
+ - title: Charts and graphs
+   level: Advanved
+ - title: Presentations
+   level: Advanced
 
 soft:
  - title: Writing
    level: Intermediate
+ - title: Leadership
+   level: Advanced
+ - title: Strategy
+   level: Advanced
+ - title: Budgeting
+   level: Advanced
+ - title: Research
+   level: Advanced
+ - title: Proposals
+   level: Advanced
  - title: Leadership
    level: Advanced
