@@ -7,7 +7,7 @@ author_profile: true
 author: Leigh Stewardson
 author_profile: true
 author: Leigh Stewardson
-categories: [product, work]
+categories: [work]
 highlight_home: true
 tagline: "Drug Discovery Tool"
 header:
