@@ -15,10 +15,22 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 
 ## My Skills
 
-| Product Management | Development | Design | Business |
-| ---- | ---- | ---- | ---- |
-| {% include productskills.markdown %} | {% include technicalskills.markdown %} | {% include designskills.markdown %} | {% include softskills.markdown %} |
-
+<table>
+<th>
+<td>Product Management</td>
+<td>Development</td>
+<td>Design</td>
+<td>Business</td>
+</th>
+<tbody>
+<tr>
+<td>{% include productskills.markdown %}</td>
+<td>{% include technicalskills.markdown %}
+<td>{% include designskills.markdown %}</td>
+<td>{% include softskills.markdown %}</td>
+</tr>
+</tbody>
+</table>
 
 
 
