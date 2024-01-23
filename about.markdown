@@ -13,11 +13,46 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 
 [Click here for my resume](/assets/leigh-stewardson-resume-24.pdf)
 
+### Product Management Skills
+
+{% include productskills.markdown %}
+
 ## My Skills
-### Technical Skills
+<table>
+<tr>
+<td>
+
+### Product Management Skills
+
+{% include productskills.markdown %}
+
+
+</td>
+<td>
+
+### Software Development Skills
 
 {% include technicalskills.markdown %}
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Design Skills
+
+{% include designskills.markdown %}
+</td>
+<td>
 
 ### Soft Skills
 
 {% include softskills.markdown %}
+</td>
+</tr>
+</table>
+
+
+
+
+

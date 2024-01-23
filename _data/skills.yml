@@ -1,15 +1,25 @@
 technical:
  - title: CSS and SCSS
-   level: Intermediate
+   level: Advanced
  - title: HTML5
-   level: Intermediate
+   level: Advanced
  - title: JavaScrpt
    level: Advanced
  - title: ReactJS
-   level: Advanced
+   level: Intermediate
+ - title: SQL
+   level: Intermediate
+
+product:
+ - title: Roadmaps
+   level: Advanved
+
+design:
+ - title: Page layout
+   level: Advanved
 
 soft:
  - title: Writing
    level: Intermediate
  - title: Leadership
-   level: Intermediate
+   level: Advanced
