@@ -15,7 +15,7 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 
 ## My Skills
 
-<table>
+<table width="100%">
     <thead>
         <tr>
             <th>Product Management</th>
