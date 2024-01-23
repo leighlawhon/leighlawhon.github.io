@@ -26,10 +26,10 @@ I currently looking for work that utilizes my expertise and industry knowledge a
     </thead>
     <tbody>
         <tr>
-            <td>{% include productskills.markdown %}</td>
-            <td>{% include technicalskills.markdown %}</td>
-            <td>{% include designskills.markdown %}</td>
-            <td>{% include softskills.markdown %}</td>
+            <td style="vertical-align: top;">{% include productskills.markdown %}</td>
+            <td style="vertical-align: top;">{% include technicalskills.markdown %}</td>
+            <td style="vertical-align: top;">{% include designskills.markdown %}</td>
+            <td style="vertical-align: top;">{% include softskills.markdown %}</td>
         </tr>
     </tbody>
 </table>

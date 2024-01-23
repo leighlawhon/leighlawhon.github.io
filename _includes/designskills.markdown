@@ -1,6 +1,6 @@
-<ul>
+<table>
 {% assign skills = site.data.skills.design | sort: "title" %}
 {% for skill in skills %}
-<li class={{skill.level}}>{{skill.title}}</li>
+<tr><td class={{skill.level}}>{{skill.title}}</td></tr>
 {%endfor%}
-</ul>
+</table>
