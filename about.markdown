@@ -18,7 +18,7 @@ I currently looking for work that utilizes my expertise and industry knowledge a
 
 ### Product Management 
 
-{% include productskills.markdown %}
+{%- include productskills.markdown -%}
 
 ### Software Development 
 
