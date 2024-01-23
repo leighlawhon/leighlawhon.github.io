@@ -11,47 +11,32 @@ I’m passionate about building beautiful and user-centric products for the web.
 
 I currently looking for work that utilizes my expertise and industry knowledge and allows me to grow as a Product Manager and strategist.
 
-[Click here for my resume](/assets/leigh-stewardson-resume-24.pdf)
-
-### Product Management Skills
-
-{% include productskills.markdown %}
+<a href="https://leighlawhon.github.io/assets/leigh-stewardson-resume-24.pdf" target="_blank">Click here for my resume</a>
 
 ## My Skills
-<table>
-<tr>
-<td>
+<div>
 
 ### Product Management Skills
 
 {% include productskills.markdown %}
-
-
-</td>
-<td>
 
 ### Software Development Skills
 
 {% include technicalskills.markdown %}
-</td>
-</tr>
 
-<tr>
-<td>
+</div>
+
+<div>
 
 ### Design Skills
 
 {% include designskills.markdown %}
-</td>
-<td>
 
 ### Soft Skills
 
 {% include softskills.markdown %}
-</td>
-</tr>
-</table>
 
+</div>
 
 
 
