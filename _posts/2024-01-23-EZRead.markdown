@@ -9,15 +9,23 @@ author_profile: true
 author: Leigh Stewardson
 categories: work
 highlight_home: true
-tagline: "2024 Department of education SBIR grant proposal"
+tagline: "AI-driven tool that converts text-only literature to graphic novels"
 header:
-  overlay_image: /assets/images/yourlife.png
+  overlay_image: /assets/images/greatgatsby.png
   teaser:  /assets/images/yourlife.png
-  caption: "Photo credit: **Leigh Stewardson**"
-description: This article showcases the game Collaborate and how I build it.
+  caption: "Photo credit: **Da;l-E**"
+description: This article showcases a prototype for EZ-Read.
 ---
 
-## Introduction
-I produced this video for a competition, overseeing all aspects from filming to design and development, including the incorporation of special effects and 3D elements. My objective was to illustrate the correlation between magazines and our sense of identity.
+## Background
+In 2024 I submitted a Department of education SBIR grant proposal for EZ-Read, an AI-driven tool that converts text-only literature to graphic novels.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OfBKDwCyi7w?si=U1O5vPJ_5yvMAufz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Approach
+
+## Results
+
+## Next Steps
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l8yRzoVEfgo?si=wZLQ2Lft3OQTBF2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![](/assets/images/Aufero.PhaseIA.EZRead_narative.pdf)
