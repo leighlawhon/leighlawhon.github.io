@@ -6,7 +6,6 @@ tags: [Design]
 author_profile: true
 author: Leigh Stewardson
 categories: article
-highlight_home: true
 tagline: "Color Limitations"
 header:
   overlay_image: https://images.unsplash.com/photo-1502691876148-a84978e59af8
@@ -17,11 +16,6 @@ description: This series of articles explains basic color theory. The first post
 
 >“Color does not add a pleasant quality to design—it reinforces it.”
 — Pierre Bonnard
-
-This article is written in three parts. You can find the entire series here:
-* [Part 1: Color Limitations]()
-* [Part 2: Color and Emotions]()
-* [Part 3: Color Paletts]()
 
 # Overview
 The application of color will make or break a brand, website, brochure, logo, or even what we wear on a date or to a business meeting. The same goes for how we present data. The more complex the data, the more important color becomes in guiding the participant through its visualization.
