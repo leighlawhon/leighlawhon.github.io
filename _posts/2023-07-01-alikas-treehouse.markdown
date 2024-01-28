@@ -2,7 +2,7 @@
 layout: posts
 title:  "Alika's Treehouse"
 date:   2023-07-01 16:13:27 -0500
-tags: [Tutorials]
+tags: [Tutorials, EdTech]
 author_profile: true
 author: Leigh Stewardson
 categories: work
@@ -14,9 +14,9 @@ header:
   caption: "Photo credit: [**Unsplash: Florian Olivio**](https://unsplash.com/@florianolv)"
 description: This article showcases a tutorial that teaches kids how to code.
 ---
-# Alika's Treehouse
+
 ## Background
-This project won the Capital One Women In Tech Demo Day. The challenge, “Help young women of color see themselves as a Computer Scientist," was sponsored by Black Girls Code. I deeply related to this challenge, as my father is in the tech industry but it took me until my 30s to see myself as someone who could be a developer.
+This project won the Capital One Women in Tech Demo Day. The challenge, “Help young women of color see themselves as a Computer Scientist," was sponsored by Black Girls Code. I deeply related to this challenge, as my father is in the tech industry but it took me until my 30s to see myself as someone who could be a developer.
 
 ## Approach
 My solution to the problem was "Alika's Treehouse," a digital comic book about a young girl from New York who spends the summer in Savannah with her widower grandfather Nevin building a treehouse. The story is roughly based on Alice In Wonderland. Throughout the story, Alika's is challenged and encouraged by pop Nevin (the name of the White Rabbit in the Disney Adaptation) to question her assumptions.
@@ -28,7 +28,7 @@ Dialog Example
 
 
 ### Interface and Coding Lessons
-The interface has three parts: 1.) an interactive comic with animations and inputs that a user can play with and get curious about; 2.) an interactive code editor that teaches coding and displays visuals of what the user is building; and 3.) a cat named Charles (reference to Alice In Wonderland author’s original name) navigates the user between the story and the lessons.
+The interface has three parts: 1.) an interactive comic with animations and inputs that a user can play with and get curious about; 2.) an interactive code editor that teaches coding and displays visuals of what the user is building; and 3.) a cat named Charles (reference to Alice in Wonderland author’s original name) navigates the user between the story and the lessons.
 As the user saves snippets from the lessons, the system builds a SPA (single page application) that becomes and interactive Treehouse, designed by the user.
 
 ### Comic and Lesson Interaction Example

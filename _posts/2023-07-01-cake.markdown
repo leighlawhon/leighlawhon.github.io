@@ -30,8 +30,6 @@ The results of implementing the cooking analogy in the coding lessons were truly
 The use of the cooking analogy fostered an environment of curiosity, experimentation, and innovation. By relating coding to something as familiar as cooking, the young learners felt empowered to explore and manipulate code, much like aspiring chefs experimenting with recipes in the kitchen. This approach not only enhanced their comprehension of coding principles but also nurtured their problem-solving skills, critical thinking abilities, and self-expression.
 
 ## Next Steps
-I regularly use this code to illustrate functions and varialble for my students. I plan to take it further by creating another story-based tutroial similar to [Alik's Treehouse](https://leighlawhon.github.io/work/2023/07/01/alikas-treehouse.html). 
-
-After witnessing the success of the cooking-inspired coding lesson, I am thrilled to share that I am incorporating the "Piece of Cake" app in my current tutorial, "Creating GitHub Portfolios." This exciting project seamlessly integrates with Codespaces, offering learners a hands-on demonstration of leveraging GitHub portfolios effectively. By including the "Piece of Cake" code, my objective is to enrich the overall learning experience, enabling individuals to showcase their skills with confidence and flair.
+I regularly use this code to illustrate functions and variable for my students. I plan to take it further by creating another story-based tutorial similar to [Alik's Treehouse](https://leighlawhon.github.io/work/2023/07/01/alikas-treehouse.html). 
 
 > To see a preview of this project go to [Piece of Cake on Codespaces](https://leighlawhon-super-happiness-5vrqw6j5q7v27j7v.github.dev/) and select the `index.html` file and then `go live` on the status bar.

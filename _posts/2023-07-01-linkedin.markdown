@@ -1,0 +1,34 @@
+---
+layout: posts
+title:  "LinkedIn Learning Courses"
+date:   2023-07-01 16:13:27 -0500
+tags: [Tutorials]
+author_profile: true
+author: Leigh Stewardson
+categories: work
+highlight_home: true
+tagline: "JavaScript and Jekyll Portfolio tutorials"
+header:
+  overlay_image: /assets/images/prop_binding.png
+  teaser: /assets/images/prop_binding.png
+  
+  caption: "Photo credit: [**LinkedIn Learning: Amanda Jones**](https://unsplash.com/@amandagraphc)"
+description: This article showcases a tutorial that teaches learners how to code.
+---
+
+# Background
+Since 2017, I have had the opportunity to build an tutorials for LinkedIn Learning. My projects aim to teach  concepts of JavaScript to beginner and intermediate developers, using narrative and project-based learning. 
+
+For each project, I developed (2-3 months) and the recorded the course (1 week).
+
+## Approach
+In all my courses, I strive to create a narrative that complements the learning objectives. In the case of this project, I found that using cards as an analogy was a natural fit. By leveraging this analogy, I was able to elucidate complex JavaScript concepts in a simplified and easily understandable format for learners.
+
+## Results
+Upon publication, my courses have attracted many learners and have the following results:
+![LinkedIn Stats](/assets/images/LinkedIn_stats.png)
+
+## Next Steps
+I continue to develop how narrative-driven, project-based tutorials and explore the impact of story in education. You can find my latest course [here](https://www.linkedin.com/learning/instructors/leigh-lawhon).
+
+![go live](/assets/images/golive.png)
