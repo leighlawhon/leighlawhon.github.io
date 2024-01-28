@@ -30,14 +30,14 @@ EZ-Read aims to revolutionize reading for neurodivergent individuals by creating
 Early demos of the prototype and surveys produced the following NPS:
 
 **Neurodivergent readers:**
-• 0 responses were in the 0–6 range (Detractors)
-• 3 responses were in the 7–8 range (Passives)
-• 10 responses were in the 9–10 range (Promoters)
+- 0 responses were in the 0–6 range (Detractors)
+- 3 responses were in the 7–8 range (Passives)
+- 10 responses were in the 9–10 range (Promoters)
 
 **Educators:**
-• 1 response were in the 0–6 range (Detractors)
-• 1 response were in the 7–8 range (Passives)
-• 4 responses were in the 9–10 range (Promoters)
+- 1 response were in the 0–6 range (Detractors)
+- 1 response were in the 7–8 range (Passives)
+- 4 responses were in the 9–10 range (Promoters)
 
 ## Next Steps
 I am currently building the team and securing financial support for the product. If awarded the 2024 SBIR grant, R&D efforts will begin in June 2024 and the pilot research will begin in September of 2024.
