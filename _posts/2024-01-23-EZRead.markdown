@@ -12,19 +12,37 @@ highlight_home: true
 tagline: "AI-driven tool that converts text-only literature to graphic novels"
 header:
   overlay_image: /assets/images/greatgatsby.png
-  teaser:  /assets/images/yourlife.png
-  caption: "Photo credit: **Da;l-E**"
+  teaser:  /assets/images/greatgatsby.png
+  caption: "Photo credit: **Dall-E**"
 description: This article showcases a prototype for EZ-Read.
 ---
 
 ## Background
-In 2024 I submitted a Department of education SBIR grant proposal for EZ-Read, an AI-driven tool that converts text-only literature to graphic novels.
+In 2024 I submitted a Department of Education SBIR grant proposal for EZ-Read, an AI-driven tool that converts text-only literature to graphic novels. The goal of this R&D project is to assess this tool and whether it improves reading comprehension for neurodivergent users.
+
+### Problem Statement
+Despite the proven benefits of graphic novels in supporting neurodivergence, the high cost and complexity of producing them limit their availability. Reading tools, such as e-books and web-based content, provide assistive technology for individuals with physical disabilities, but neglect neurodivergent users.
 
 ## Approach
+EZ-Read aims to revolutionize reading for neurodivergent individuals by creating accessible graphic novels from text-only literature. EZ-Read leverages Generative AI and NLP to simplify text and dynamically generate personalized, graphic novels images, assessments, and analytics. Additionally, the platform prioritizes legal and ethical considerations, ensuring content is licensed or falls under fair use and respects copyright laws. By adapting content to be more accessible, EZ-Read supports legal frameworks for disability accommodations, aiming to become a vital tool for individuals with learning disabilities and a resource for publishers, authors, and educational systems.
 
 ## Results
+Early demos of the prototype and surveys produced the following NPS:
+
+**Neurodivergent readers:**
+• 0 responses were in the 0–6 range (Detractors)
+• 3 responses were in the 7–8 range (Passives)
+• 10 responses were in the 9–10 range (Promoters)
+
+**Educators:**
+• 1 response were in the 0–6 range (Detractors)
+• 1 response were in the 7–8 range (Passives)
+• 4 responses were in the 9–10 range (Promoters)
 
 ## Next Steps
+I am currently building the team and securing financial support for the product. If awarded the 2024 SBIR grant, R&D efforts will begin in June 2024 and the pilot research will begin in September of 2024.
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l8yRzoVEfgo?si=wZLQ2Lft3OQTBF2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
