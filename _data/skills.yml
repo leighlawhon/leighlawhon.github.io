@@ -9,6 +9,14 @@ technical:
    level: Intermediate
  - title: SQL
    level: Intermediate
+ - title: Python
+   level: Intermediate
+  - title: Git
+   level: Intermediate
+  - title: NodeJS
+   level: Beginner
+  - title: Jira
+    level: Advanced
 
 product:
  - title: Roadmaps
@@ -18,6 +26,22 @@ product:
  - title: Competitive analysis
    level: Advanved
  - title: Product design 
+   level: Advanved
+ - title: Product management
+   level: Advanved
+ - title: Product strategy
+    level: Advanved
+ - title: Product marketing
+   level: Begiinner
+ - title: Product development
+   level: Advanved
+ - title: User research
+   level: Advanved
+ - title: User testing
+   level: Advanved  
+ - title: User experience
+   level: Advanved
+ - title: Market research
    level: Advanved
 
 design:
@@ -29,6 +53,22 @@ design:
    level: Advanved
  - title: Presentations
    level: Advanced
+  - title: Typography
+   level: Advanced
+  - title: Color theory 
+   level: Advanced  
+  - title: Branding
+    level: Advanced
+  - title: Wireframing
+    level: Advanced
+  - title: Prototyping  
+    level: Advanced
+  - title: Mockups
+    level: Advanced
+  - title: User flows
+    level: Advanced
+  - title: User personas
+    level: Advanced
 
 soft:
  - title: Writing
@@ -42,6 +82,4 @@ soft:
  - title: Research
    level: Advanced
  - title: Proposals
-   level: Advanced
- - title: Leadership
    level: Advanced
