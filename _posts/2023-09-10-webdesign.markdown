@@ -18,7 +18,7 @@ description: This article showcases the game Collaborate and how I build it.
 ---
 
 ## Introduction
-As a designer I designed, developed the User Exeprience and developed many sites. Below are a few of my favorites:
+As a UX Engineer I designed, conducted UX research and developed many websites. Most of these sites were developed using WordPress and Jekyll. Below are a few of my favorites:
 
 
 <div id="nanogallery2"></div>
