@@ -46,4 +46,4 @@ I am currently building the team and securing financial support for the product.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l8yRzoVEfgo?si=wZLQ2Lft3OQTBF2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![RFP narative](/assets/images/Aufero.PhaseIA.EZRead_narative.pdf)
+[RFP narative](/assets/images/Aufero.PhaseIA.EZRead_narative.pdf)
