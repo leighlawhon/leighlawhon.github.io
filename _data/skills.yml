@@ -11,11 +11,11 @@ technical:
    level: Intermediate
  - title: Python
    level: Intermediate
-  - title: Git
+ - title: Git
    level: Intermediate
-  - title: NodeJS
+ - title: NodeJS
    level: Beginner
-  - title: Jira
+ - title: Jira
     level: Advanced
 
 product:
@@ -53,21 +53,21 @@ design:
    level: Advanved
  - title: Presentations
    level: Advanced
-  - title: Typography
+ - title: Typography
    level: Advanced
-  - title: Color theory 
+ - title: Color theory 
    level: Advanced  
-  - title: Branding
+ - title: Branding
     level: Advanced
-  - title: Wireframing
+ - title: Wireframing
     level: Advanced
-  - title: Prototyping  
+ - title: Prototyping  
     level: Advanced
-  - title: Mockups
+ - title: Mockups
     level: Advanced
-  - title: User flows
+ - title: User flows
     level: Advanced
-  - title: User personas
+ - title: User personas
     level: Advanced
 
 soft:
@@ -83,15 +83,15 @@ soft:
    level: Advanced
  - title: Proposals
    level: Advanced
-  - title: Presentations  
+ - title: Presentations  
    level: Advanced
-  - title: Public speaking  
+ - title: Public speaking  
    level: Advanced  
-  - title: Teamwork
+ - title: Teamwork
     level: Advanced 
-  - title: Communication  
+ - title: Communication  
     level: Advanced 
-  - title: Problem solving  
+ - title: Problem solving  
     level: Advanced
-  - title: Business analytics  
+ - title: Business analytics  
     level: Advanced
