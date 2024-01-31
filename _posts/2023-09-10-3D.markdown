@@ -1,0 +1,41 @@
+---
+layout: posts
+title:  "3D Models"
+date:   2023-07-01 16:13:27 -0500
+tags: ["3D and Motion Graphics"]
+author_profile: true
+author: Leigh Stewardson
+author_profile: true
+author: Leigh Stewardson
+categories: work
+highlight_home: true
+tagline: "Highlights of my 3D work"
+header:
+  overlay_image: /assets/images/yourlife.png
+  teaser:  /assets/images/yourlife.png
+  caption: "Photo credit: **Leigh Stewardson**"
+description: "Highlights of my 3D work."
+---
+
+## Introduction
+I have designed and built many 3D models usign Cinema 4D which can be seen below.
+
+<div id="nanogallery2"></div>
+<script>
+  $("#nanogallery2").nanogallery2({
+  // ### gallery settings ###
+  thumbnailHeight:  150,
+  thumbnailWidth:   150,
+  itemsBaseURL:     '/assets/images/',
+
+  // ### gallery content ###
+  items: [
+      { src: 'fish.jpeg', srct: 'fish.jpeg' },
+      { src: 'gyro.jpeg', srct: 'gyro.jpeg' },
+      { src: 'i.jpeg', srct: 'i.jpeg' },
+      { src: 'magazone_stand.jpeg', srct: 'magazone_stand.jpeg' },
+      { src: 'probe.jpeg', srct: 'probe.jpeg' },
+
+  ]
+});
+</script>

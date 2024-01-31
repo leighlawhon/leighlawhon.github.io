@@ -2,7 +2,7 @@
 layout: posts
 title:  "Scitor Videos"
 date:   2023-07-01 16:13:27 -0500
-tags: [Video]
+tags: ["3D and Motion Graphics"]
 author_profile: true
 author: Leigh Stewardson
 author_profile: true
@@ -14,7 +14,7 @@ header:
   overlay_image: /assets/images/gyro.png
   teaser:  /assets/images/gyro.png
   caption: "Photo credit: **Leigh Stewardson**"
-description: This article showcases the game Collaborate and how I build it.
+description: "This article showcases the game Collaborate and how I build it."
 ---
 
 ## Introduction
