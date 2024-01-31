@@ -16,7 +16,7 @@ technical:
  - title: NodeJS
    level: Beginner
  - title: Jira
-    level: Advanced
+   level: Advanced
 
 product:
  - title: Roadmaps
@@ -30,7 +30,7 @@ product:
  - title: Product management
    level: Advanved
  - title: Product strategy
-    level: Advanved
+   level: Advanved
  - title: Product marketing
    level: Begiinner
  - title: Product development
@@ -58,17 +58,17 @@ design:
  - title: Color theory 
    level: Advanced  
  - title: Branding
-    level: Advanced
+   level: Advanced
  - title: Wireframing
-    level: Advanced
+   level: Advanced
  - title: Prototyping  
-    level: Advanced
+   level: Advanced
  - title: Mockups
-    level: Advanced
+   level: Advanced
  - title: User flows
-    level: Advanced
+   level: Advanced
  - title: User personas
-    level: Advanced
+   level: Advanced
 
 soft:
  - title: Writing
@@ -88,10 +88,10 @@ soft:
  - title: Public speaking  
    level: Advanced  
  - title: Teamwork
-    level: Advanced 
+   level: Advanced 
  - title: Communication  
-    level: Advanced 
+   level: Advanced 
  - title: Problem solving  
-    level: Advanced
+   level: Advanced
  - title: Business analytics  
-    level: Advanced
+   level: Advanced
