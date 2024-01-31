@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/images/AE_screen.png
   teaser: /assets/images/AE_screen.png
   
-  caption: "Photo credit: [**LinkedIn Learning: Amanda Jones**](https://unsplash.com/@amandagraphc)"
+  caption: "Photo credit: **Leigh Lawhon**"
 description: This article showcases a tutorial that teaches how to create motion graphics in After Effects.
 ---
 
