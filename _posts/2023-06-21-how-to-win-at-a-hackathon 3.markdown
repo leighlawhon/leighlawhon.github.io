@@ -3,7 +3,7 @@ layout: posts
 title:  "Part 3: How to win at a hackathon"
 tagline: "Casting the 'Dots'wide and far"
 date:   2023-06-21 19:13:27 -0500
-tags: [Career]
+tags: [Career, Part]
 author_profile: true
 author: Leigh Stewardson
 author_profile: true

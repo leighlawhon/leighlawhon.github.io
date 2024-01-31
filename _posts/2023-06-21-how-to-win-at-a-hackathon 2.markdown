@@ -3,7 +3,7 @@ layout: posts
 title:  "Part 2: How to win at a hackathon"
 date:   2023-06-21 19:14:27 -0500
 tagline: "Connecting the 'Dots'"
-tags: [Career]
+tags: [Career, Part]
 author_profile: true
 author: Leigh Stewardson
 categories: [article]
