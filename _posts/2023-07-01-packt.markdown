@@ -1,0 +1,29 @@
+---
+layout: posts
+title:  "Packt Publishing Course"
+date:   2023-07-01 16:13:27 -0500
+tags: [Tutorials]
+author_profile: true
+author: Leigh Stewardson
+categories: work
+highlight_home: true
+tagline: "After Effects tutorial"
+header:
+  overlay_image: /assets/images/AE_screen.png
+  teaser: /assets/images/AE_screen.png
+  
+  caption: "Photo credit: [**LinkedIn Learning: Amanda Jones**](https://unsplash.com/@amandagraphc)"
+description: This article showcases a tutorial that teaches how to create motion graphics in After Effects.
+---
+
+# Background
+In 2018, I designed and devloped a tutorial that teaches learners how to create motion graphics in Adobe After Effects.
+
+The course can be found here: [After Effects 2019](https://www.packtpub.com/en-us/product/getting-started-with-adobe-after-effects-cc-2019-9781838986841)
+
+## Results
+Upon publication, my courses have attracted many learners and have the following results:
+![LinkedIn Stats](/assets/images/Packt_royalties.png)
+
+## Next Steps
+I continue to develop how narrative-driven, project-based tutorials and explore the impact of story in education. 

@@ -22,7 +22,7 @@ Since 2017, I have had the opportunity to build an tutorials for LinkedIn Learni
 For each project, I developed (2-3 months) and the recorded the course (1 week).
 
 ## Approach
-In all my courses, I strive to create a narrative that complements the learning objectives. In the case of this project, I found that using cards as an analogy was a natural fit. By leveraging this analogy, I was able to elucidate complex JavaScript concepts in a simplified and easily understandable format for learners.
+In all my courses, I strive to create a narrative that complements the learning objectives. By leveraging analogies, I am able to elucidate complex JavaScript concepts in a simplified and easily understandable format for learners.
 
 ## Results
 Upon publication, my courses have attracted many learners and have the following results:
@@ -30,5 +30,3 @@ Upon publication, my courses have attracted many learners and have the following
 
 ## Next Steps
 I continue to develop how narrative-driven, project-based tutorials and explore the impact of story in education. You can find my latest course [here](https://www.linkedin.com/learning/instructors/leigh-lawhon).
-
-![go live](/assets/images/golive.png)
