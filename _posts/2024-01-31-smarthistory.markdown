@@ -66,9 +66,9 @@ Unlike other products in the market, SmartHistory focuses on the path knowledge 
 </script>
 
 ### Personas
-<div id="nanogallery2"></div>
+<div id="nanogallery1"></div>
 <script>
-  $("#nanogallery2").nanogallery2({
+  $("#nanogallery1").nanogallery2({
     // ### gallery settings ###
     thumbnailHeight:  150,
     thumbnailWidth:   150,
