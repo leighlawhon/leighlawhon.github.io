@@ -28,7 +28,7 @@ Searching the internet for work, hobies, projects and interests is a dialy occur
 ### Vision
 Unlike other products in the market, SmartHistory focuses on the path knowledge workers take on project. It automatically tags page content and the type of site. Tagged content can then be cross referenced across multiple projects, creating an up-to-date, flexible bookmarking system that meets the needs of modern internet users.
 
-div id="nanogallery4"></div>
+<div id="nanogallery4"></div>
 <script>
   $("#nanogallery4").nanogallery2({
     // ### gallery settings ###
