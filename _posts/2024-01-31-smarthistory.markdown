@@ -40,8 +40,6 @@ Unlike other products in the market, SmartHistory focuses on the path knowledge 
     items: [
         { src: 'vision.png', srct: 'vision.png' },
         { src: 'howwhatwhy.png', srct: 'howwhatwhy.png' },
-        { src: '5C.png', srct: '5C.png' },
-        { src: 'Competitive Analysis.png', srct: 'Competitive Analysis.png' },
 
     ]
     });
