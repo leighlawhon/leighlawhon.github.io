@@ -138,10 +138,6 @@ A successful go-to-market (GTM) strategy for SmartHistory, given its unique valu
 - **Freemium:** Offers core functionalities for free, encouraging adoption and user growth.
 - **Pro Model:** Enhanced analytics, unlimited project groups, and advanced privacy controls, to convert engaged users into paying customers.
 
-#### 6. **Feedback Loop and Continuous Improvement**
-- **Collect User Feedback:** Regularly gather user feedback through surveys, social media, and direct communication to understand user needs and pain points.
-- **Iterate Product Features:** Use feedback to guide continuous product development, ensuring SmartHistory evolves in line with user expectations and emerging online research trends.
-
 ### Roadmap
 
 ## Results
