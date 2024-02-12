@@ -35,7 +35,7 @@ Using the internet for work, hobies, projects and interests is a dialy occurance
 
     // ### gallery content ###
     items: [
-        { src: 'vison.png', srct: 'vison.png' },
+        { src: 'vision.png', srct: 'vision.png' },
 
     ]
     });
