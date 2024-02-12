@@ -107,7 +107,17 @@ Unlike other products in the market, SmartHistory focuses on the path knowledge 
 
 ### Product Market Fit
 #### Hypothesis
+SmartHistory is an essential tool for individuals in academia, research, and knowledge-intensive professions by significantly improving their efficiency and effectiveness in managing and utilizing online research materials. By automatically tagging, categorizing, and grouping website visits based on site type and content, SmartHistory will reduce the time users spend organizing their research, thereby increasing their productivity. This will lead to a high adoption rate among students, researchers, and professionals who require a sophisticated level of digital organization for their work or studies. The ease of accessing and retrieving organized information will not only enhance individual productivity but also foster collaborative projects and learning environments.
 
+**Key Assumptions:**
+1. **There is a significant need among students, researchers, and professionals for a more efficient way to manage and retrieve online research materials.**
+2. **Current solutions do not adequately address the complexity and volume of information that users interact with daily.**
+3. **Users prioritize time-saving tools that seamlessly integrate into their existing workflows without requiring significant behavior changes.**
+4. **Privacy and data security are critical concerns for users when adopting new tools for managing online activities.**
+
+**Validation :**
+1. **Surveys and Interviews:** Feedback was gathered from target user segments to understand their pain points with current tools and the potential interest in SmartHistory’s offerings.
+2. **Prototype Testing:** MVP clickable prototypes were devloped and provide to a select group of users for testing.
 
 
 ### Go-To-Market Strategy
