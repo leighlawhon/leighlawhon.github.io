@@ -2,7 +2,7 @@
 layout: posts
 title:  "SmartHistory"
 tagline: A tool that tracks and tags your site visits"
-date:   2023-06-21 19:13:27 -0500
+date:   2024-01-21 19:13:27 -0500
 highlight_home: true
 category: work
 tags: [AI, "Product Management"]
