@@ -28,6 +28,25 @@ Searching the internet for work, hobies, projects and interests is a dialy occur
 ### Vision
 Unlike other products in the market, SmartHistory focuses on the path knowledge workers take on project. It automatically tags page content and the type of site. Tagged content can then be cross referenced across multiple projects, creating an up-to-date, flexible bookmarking system that meets the needs of modern internet users.
 
+div id="nanogallery4"></div>
+<script>
+  $("#nanogallery4").nanogallery2({
+    // ### gallery settings ###
+    thumbnailHeight:  150,
+    thumbnailWidth:   150,
+    itemsBaseURL:     '/assets/images/',
+
+    // ### gallery content ###
+    items: [
+        { src: 'vision.png', srct: 'vision.png' },
+        { src: 'howwhatwhy.png', srct: 'howwhatwhy.png' },
+        { src: '5C.png', srct: '5C.png' },
+        { src: 'Competitive Analysis.png', srct: 'Competitive Analysis.png' },
+
+    ]
+    });
+</script>
+
 ### Market Analysis
 <div id="nanogallery3"></div>
 <script>
@@ -39,9 +58,7 @@ Unlike other products in the market, SmartHistory focuses on the path knowledge 
 
     // ### gallery content ###
     items: [
-        { src: 'vision.png', srct: 'vision.png' },
-        { src: 'howwhatwhy.png', srct: 'howwhatwhy.png' },
-        { src: '5c.png', srct: '5c.png' },
+        { src: '5C.png', srct: '5C.png' },
         { src: 'Competitive Analysis.png', srct: 'Competitive Analysis.png' },
 
     ]
