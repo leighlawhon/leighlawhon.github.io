@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "SmartHistory"
-tagline: A tool that tracks and tags your site visits"
+tagline: A tool that organizes your site visits"
 date:   2024-01-21 19:13:27 -0500
 highlight_home: true
 category: work
@@ -22,8 +22,11 @@ Being in the tech industry for more than 20 years, my Chrome bookmarks are out o
 
 Additionally, when working on [Synapse]({{base_url}}/work/2023/07/01/synapse.html), there was a feature frequest for a history tracker, allowing researchers to see the progression of their research. I saw a similar need for my own work, as I am interested in researching how I learn a topic. You can learn more about my approach to organic learning in my article [Project-Based, Organic Learning]({{base_url}}/article/2024/01/31/project_based_organic_learning.html)
 
+### Problem Statement
+Searching the internet for work, hobies, projects and interests is a dialy occurance. Site History contains a wealth of knowledge, but is unstructures. Manual bookmarks, the current solution, quickly become outdated and unmanageable.
+
 ### Vision
-Using the internet for work, hobies, projects and interests is a dialy occurance. Site History contains a wealth of knowledge, but is unstructures and manual bookmarks quickly become outdated and unmanageable. Unlike other products in the market, SmartHistory focuses on the path you take on project and automatically tags page content to be referenced across mutiple projects.
+Unlike other products in the market, SmartHistory focuses on the path knowledge workers take on project. It automatically tags page content and the type of site. Tagged content can then be cross referenced across multiple projects, creating an up-to-date, flexible bookmarking system that meets the needs of modern internet users.
 
 <div id="nanogallery3"></div>
 <script>
@@ -36,6 +39,7 @@ Using the internet for work, hobies, projects and interests is a dialy occurance
     // ### gallery content ###
     items: [
         { src: 'vision.png', srct: 'vision.png' },
+        { src: 'howwhatwhy.png', srct: 'howwhatwhy.png' },
 
     ]
     });
@@ -56,6 +60,25 @@ Using the internet for work, hobies, projects and interests is a dialy occurance
         { src: 'UIDesign.png', srct: 'UIDesign.png' },
         { src: 'General.png', srct: 'General.png' },
         { src: 'Research.png', srct: 'Research.png' },
+
+    ]
+    });
+</script>
+
+### Personas
+<div id="nanogallery2"></div>
+<script>
+  $("#nanogallery2").nanogallery2({
+    // ### gallery settings ###
+    thumbnailHeight:  150,
+    thumbnailWidth:   150,
+    itemsBaseURL:     '/assets/images/',
+
+    // ### gallery content ###
+    items: [
+        { src: 'Joy.png', srct: 'Joy.png' },
+        { src: 'Bob.png', srct: 'Bob.png' },
+        { src: 'Janine.png', srct: 'Janine.png' },
 
     ]
     });
