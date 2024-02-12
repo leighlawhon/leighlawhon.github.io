@@ -112,5 +112,10 @@ Unlike other products in the market, SmartHistory focuses on the path knowledge 
 
 
 
-### Strategy
+### Go-To-Market Strategy
 
+### Roadmap
+
+## Results
+
+## Next Steps
