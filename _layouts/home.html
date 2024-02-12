@@ -23,6 +23,16 @@ layout: archive
     {% endfor %}
 </div>
 
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Artificial Intelligence" }}
+</h3>
+<div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
+    {% if post.highlight_home and post.categories contains 'work' and post.tags contains 'AI' %}
+    {% include archive-single.html type=entries_layout %}
+    {% endif %}
+    {% endfor %}
+</div>
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Data Visualization" }}
 </h3>
 <div class="entries-{{ entries_layout }}">
