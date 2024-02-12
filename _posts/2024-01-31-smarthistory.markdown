@@ -26,7 +26,7 @@ Additionally, when working on [Synapse]({{base_url}}/work/2023/07/01/synapse.htm
 Using the internet for work, hobies, projects and interests is a dialy occurance. Site History contains a wealth of knowledge, but is unstructures and manual bookmarks quickly become outdated and unmanageable. Unlike other products in the market, SmartHistory focuses on the path you take on project and automatically tags page content to be referenced across mutiple projects.
 
 <script>
-  $("#nanogallery2").nanogallery2({
+  $("#nanogallery3").nanogallery2({
     // ### gallery settings ###
     thumbnailHeight:  150,
     thumbnailWidth:   150,
@@ -52,7 +52,7 @@ Using the internet for work, hobies, projects and interests is a dialy occurance
 
     // ### gallery content ###
     items: [
-        { src: 'UIdesign.png', srct: 'UIdesign.png' },
+        { src: 'UIDesign.png', srct: 'UIDesign.png' },
         { src: 'General.png', srct: 'General.png' },
         { src: 'Research.png', srct: 'Research.png' },
 
