@@ -16,7 +16,7 @@ header:
 ---
 
 ## Background
-I have always believed in "perspective learning." Since my first coding endeavour with Python/Django I learned quickly that not all tutorials are up to date or explain every aspect well. I also am a believer and build my courses around "project-based learning," and prefer to build a project as I learn so that I can translate the concepts I learn into tangible products.
+I have always believed in Project-Based learning. Since my first coding endeavour with Python/Django I learned quickly that not all tutorials are up to date or explain every aspect well. I also am a believer and build my courses around "project-based learning," and prefer to build a project as I learn so that I can translate the concepts I learn into tangible products.
 
 Jump into a course, every one starts from a different starting point
 
