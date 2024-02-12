@@ -25,6 +25,7 @@ Additionally, when working on [Synapse]({{base_url}}/work/2023/07/01/synapse.htm
 ### Vision
 Using the internet for work, hobies, projects and interests is a dialy occurance. Site History contains a wealth of knowledge, but is unstructures and manual bookmarks quickly become outdated and unmanageable. Unlike other products in the market, SmartHistory focuses on the path you take on project and automatically tags page content to be referenced across mutiple projects.
 
+<div id="nanogallery3"></div>
 <script>
   $("#nanogallery3").nanogallery2({
     // ### gallery settings ###
