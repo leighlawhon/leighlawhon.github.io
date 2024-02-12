@@ -5,7 +5,7 @@ tagline: A tool that tracks and tags your site visits"
 date:   2023-06-21 19:13:27 -0500
 highlight_home: true
 category: article
-tags: [AI]
+tags: [AI, "Product Management"]
 author_profile: true
 author: Leigh Stewardson
 header:
