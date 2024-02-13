@@ -5,7 +5,7 @@ tagline: "My approach to teaching and learning"
 date:   2023-06-21 19:13:27 -0500
 highlight_home: true
 category: article
-tags: [AI]
+tags: [EdTEch]
 author_profile: true
 author: Leigh Stewardson
 header:
