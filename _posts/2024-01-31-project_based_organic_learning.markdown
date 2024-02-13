@@ -16,12 +16,18 @@ header:
 ---
 
 ## Background
-I have always believed in Project-Based learning. Since my first coding endeavour with Python/Django I learned quickly that not all tutorials are up to date or explain every aspect well. I also am a believer and build my courses around "project-based learning," and prefer to build a project as I learn so that I can translate the concepts I learn into tangible products.
+We all learn differntly, at different rates, from different cultures and perspectives, and from different levels of understanding. Additionally, trends in education like self-paced, onlie courses, and micro-credentials are changing the way we learn. 
 
-Jump into a course, every one starts from a different starting point
+I, for instance, have always believed in Project-Based learning. I typically learn something new when I have a product I want to build. It's typically a digital product and starts from sketches and designs, as that is my background. I am experienced JavaScript coder, so rather than taking a full course in Python to learn a new language, I quickly teach myself the concepts from resources on the internet.
+
+With these new ways of learning, I question whether "HOW we build curriculmn" is still valid. What if curiculm was approached in the same way software was, for example, using:
+• Small compents that had one fuction that could be reused and shared
+• Separation of concerns that decoupled the objectives, activities, and context
+• Machine Learning to orchestrate and monitor the lesson constructs
 
 ## Approach
-Teaching is one of the most complex activities I've ever had the pleasure of taking part in. It has many variable. For exmple, you may be teaching someone (Persona) about a something (Subject) and you can teach it in various ways (Themes) that relate to your personas or context. 
+Teaching is one of the most complex activities I've ever had the pleasure of taking part in. It has many variable. A simple equation might look like this: 
+    You may be teaching someone (Persona) about a something (Subject) and you can teach it in various ways (Themes). 
 
 To account for these variables, my approach is to break traditional curriculumn into components that can be mixed and matched dynamiclaly, allowing teacher to personalize lessons. 
 
