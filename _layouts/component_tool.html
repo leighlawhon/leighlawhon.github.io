@@ -12,30 +12,16 @@ layout: archive
 
 <div class="container text-center">
     <div class="row">
+        {% for data in site.data.component_learning_select %}
         <div class="col">
-            <select id="persona_select" class="form-select" aria-label="Default select example">
-                <option selected>Select a persona</option>
-                <option value="beginner">Beginner</option>
-                <option value="advanced">Advanced</option>
+            <select id= "{{data.name}}_select" class="form-select" aria-label="Default select example">
+                {% for select in data.selects %}
+                <option selected>{{select}}</option>
+                {%endfor%}
             </select>
         </div>
-        <div class="col">
-            <select id="subject_select" class="form-select" aria-label="Default select example">
-                <option selected>Select a subject</option>
-                <option value="equations">Math: Equations</option>
-                <option value="biology">Science: Biology</option>
-                <option value="la">Language Arts: The Great Gatsby</option>
-                <option value="coding">Coding: Loops</option>
-            </select>
-        </div>
-        <div class="col">
-            <select id="theme_select" class="form-select" aria-label="Default select example">
-                <option selected>Select a theme</option>
-                <option value="summer">Activity: Outdoor Summer Camp</option>
-                <option value="story">Story-based: The Great Gatsby</option>
-                <option value="persona">Persona: Interests</option>
-            </select>
-        </div>
+        {%endfor%}
+
         <div class="col">
             <select id="summer_sub_select" class="form-select" aria-label="Default select example">
                 <option selected>Select a sub-theme</option>

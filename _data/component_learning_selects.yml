@@ -1,0 +1,15 @@
+- name: persona
+  selects:
+  - Beginner
+  - Advanced
+- name: subject
+  selects:
+  - "Math: Equations"
+  - "Science: Biology"
+  - "Language Arts: The Great Gatsby"
+  - "Coding: Loops"
+- name: theme
+  selects:
+  - "Activity: Outdoor Summer Camp"
+  - "Story-based: The Great Gatsby"
+  - "Persona: Interests"
