@@ -55,11 +55,11 @@ layout: archive
             <h4>Related Topics</h4>
         </td>
     </tr>
-    {%- asign learning_objective = site.data.component_learning_lo -%}
-    {%- asign steps = site.data.component_learning_steps -%}
-    {%- asign activities = site.data.component_learning_activities -%}
-    {%- asign theme = site.data.component_learning_theme -%}
-    {%- asign related_topics = site.data.component_learning_related_topics -%}
+    {%- assign learning_objective = site.data.component_learning_lo -%}
+    {%- assign steps = site.data.component_learning_steps -%}
+    {%- assign activities = site.data.component_learning_activities -%}
+    {%- assign theme = site.data.component_learning_theme -%}
+    {%- assign related_topics = site.data.component_learning_related_topics -%}
     {% for objective in learning_objective %}
     <tr>
         <td>
