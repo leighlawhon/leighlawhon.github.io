@@ -20,9 +20,12 @@ layout: archive
 <table>
     <thead>
         <td>Team</td>
+        <td>Fetaure</td>
+        <td>Goal</td>
+        <td>Deadline</td>
     </thead>
+    {% for feature in features%}
     <tr>
-        {% for feature in features%}
         <td>
             {{feature.org}}
         </td>
@@ -35,9 +38,9 @@ layout: archive
         <td>
             {{feature.deadline}}
         </td>
-        {%endfor%}
-
+        
     </tr>
+    {%endfor%}
 </table>
 
 <div class="container text-right">
