@@ -1,24 +1,16 @@
 - name: biology
-  lo:
+  list:
     - Introduce sholars to the life cycle of living things
     - Understand the importance of habitat and what living things need to survive.
-  steps:
-    -
 - name: la
-  lo:
+  list:
     - Introduce sholars to the historical context of the 1920s in America.
     - Discuss themes of dreams, aspirations, and the importance of honesty.
-  steps:
-    -
 - name: equations
-  lo:
+  list:
     - Introduce scholars to what an equation is
     - Identify each part of the equation
-  steps:
-    -
 - name: coding
-  lo:
+  list:
     - Introduce scholars to basic concepts of programming sequences, looping, and events.
     - Teach sholars how to create a simple animation.
-  steps:
-    -

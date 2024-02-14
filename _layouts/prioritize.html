@@ -16,7 +16,8 @@ layout: archive
     </div>
 </div>
 
-{%- assign features = site.data.prioritize | upcase -%}
+{%- assign features = site.data.prioritize -%}
+{{features.length}} Test
 <table>
     <thead>
         <td>Team</td>
@@ -24,23 +25,26 @@ layout: archive
         <td>Goal</td>
         <td>Deadline</td>
     </thead>
-    {% for feature in features%}
-    <tr>
-        <td>
-            {{feature.org}}
-        </td>
-        <td>
-            {{feature.feature}}
-        </td>
-        <td>
-            {{feature.goal}}
-        </td>
-        <td>
-            {{feature.deadline}}
-        </td>
+    <tbody>
+
+        {% for feature in features%}
+        <tr>
+            <td>
+                {{feature.org}}
+            </td>
+            <td>
+                {{feature.feature}}
+            </td>
+            <td>
+                {{feature.goal}}
+            </td>
+            <td>
+                {{feature.deadline}}
+            </td>
         
-    </tr>
-    {%endfor%}
+        </tr>
+        {%endfor%}
+    </tbody>
 </table>
 
 <div class="container text-right">

@@ -37,39 +37,39 @@ layout: archive
     </div>
 </div>
 
-<div class="container text-center">
-    <div class="row">
-        <div class="col">
-            <h3>Learning Objective</h3>
-            {% for obj in site.data.component_learning_lo %}
-            <ul id="{{data.name}}">
-                {% for objective in obj.list %}
-                <li>{{objective}}</li>
-                {%endfor%}
-            </ul>
-            {%endfor%}
-            </div>
-        <div class="col">
-            <h3>Lesson Steps</h3>
-            {% for step in site.data.component_learning_steps %}
-            <ul id="{{step.name}}">
-                {% for step in step.list %}
-                <li>{{step}}</li>
-                {%endfor%}
-            </ul>
-            {%endfor%}
-        </div>
-        <div class="col">
-            <h3>Activities</h3>
-        </div>
-        <div class="col">
-            <h3>Theme</h3>
-        </div>
-        <div class="col">
-            <h3>Related Topics</h3>
-        </div>
-    </div>
-</div>
+<table>
+    <tr>
+        <td>
+            <h4>Learning Objective</h4>
+        </td>
+        <td>
+            <h4>Lesson Steps</h4>
+        </td>
+        <td>
+            <h4>Activities</h4>
+        </td>
+        <td>
+            <h4>Theme</h4>
+        </td>
+        <td>
+            <h4>Related Topics</h4>
+        </td>
+    </tr>
+    {%- asign learning_objective = site.data.component_learning_lo -%}
+    {%- asign steps = site.data.component_learning_steps -%}
+    {%- asign activities = site.data.component_learning_activities -%}
+    {%- asign theme = site.data.component_learning_theme -%}
+    {%- asign related_topics = site.data.component_learning_related_topics -%}
+    {% for objective in learning_objective %}
+    <tr>
+        <td>
+            {{objective.objective}}
+        </td>
+        <td>
+            {{steps[index0]}}
+        </td>
+
+</table>
 
 <div class="container text-right">
     <div class="row">
