@@ -1,0 +1,74 @@
+- name: type
+  selects:
+  - Ratios
+  - Linear
+  - Pivots
+- org_teams:
+  - "Product"
+  - "Developers"
+  - "Marketing"
+  - "Sales"
+  - "Service"
+- name: stakeholers
+  selects:
+  - org: "Sales"
+    goals: "To close contracts and grow user base"
+    deadline: "Q1 2022 Conference"
+    features:
+    - "Billing and Invoicing management"
+    teams: 
+      - name: Product
+        tasks: 
+        - Customer discovery
+        - UI design
+      - name: Developers
+        tasks: 
+        - Backend development
+        - Frontend development
+        - Database development
+        - Testing
+      - name: Marketing
+        tasks:
+        - Launch materials
+  - org: "Service"
+    goals: "To reduce swivel-chairing and improve time to task completion"
+    deadline: "no deadline"
+    features:
+    - "CRM integration"
+    teams: 
+      - name: Product
+        tasks: 
+        - Service Associate/process discovery
+      - name: Developers
+        tasks: 
+        - Backend development
+        - Testing
+      - name: Sales
+        tasks:
+        - Sales materials
+  - org: "Marketing"
+    deadline: "Launch waiting on feature release"
+    goals: "To increase brand awareness and user engagement"
+    features:
+    - "Content/Video for products"
+    teams: 
+      - name: Developers
+        tasks: 
+        - Frontend development
+        - Backend development
+        - Testing
+      - name: Marketing
+        tasks:
+        - Launch materials
+        - Content creation
+  - org: "Developers"
+    deadline: "no deadline"
+    goals: "Reduce technical debt and improve performance"
+    features:
+    - "Databse restructure"
+    teams:
+      - name: Developers
+        tasks: 
+        - Backend development
+        - Testing
+        - Database development

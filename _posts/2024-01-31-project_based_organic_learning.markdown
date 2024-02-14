@@ -64,4 +64,4 @@ Notice how each subject can be taught with multiple themes, customized to an Act
 Notice how each lesson can lead to other topics, either for deeper understanding, or addional interests
 
 ## Reults
-{{include component_tool.html}}
+

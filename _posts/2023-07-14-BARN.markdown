@@ -6,7 +6,6 @@ tags: [Writing]
 author_profile: true
 author: Leigh Stewardson
 categories: article
-highlight_home: true
 tagline: "How to write about your projects"
 header:
   overlay_image: https://images.unsplash.com/photo-1444858291040-58f756a3bdd6
