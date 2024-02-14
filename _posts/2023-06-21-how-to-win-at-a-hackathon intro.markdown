@@ -6,7 +6,6 @@ tags: [Career]
 author_profile: true
 author: Leigh Stewardson
 categories: [article]
-highlight_home: true
 tagline: "Investing in the 'Dots'"
 header:
   overlay_image: https://images.unsplash.com/photo-1611444111920-89dfc4a01f43

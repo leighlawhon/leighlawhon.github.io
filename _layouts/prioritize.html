@@ -1,0 +1,49 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<div class="container text-right">
+    <div class="row">
+        <div class="col">
+            <select id="summer_sub_select" class="form-select" aria-label="Default select example">
+                <option value="linear">Linear</option>
+                <option value="ratio">Ratio</option>
+                <option value="pivot">Pivots</option>
+            </select>
+        </div>
+    </div>
+</div>
+
+{%- assign features = site.data.prioritize | upcase -%}
+<table>
+    <thead>
+        <td>Team</td>
+    </thead>
+    <tr>
+        {% for feature in features%}
+        <td>
+            {{feature.org}}
+        </td>
+        <td>
+            {{feature.feature}}
+        </td>
+        <td>
+            {{feature.goal}}
+        </td>
+        <td>
+            {{feature.deadline}}
+        </td>
+        {%endfor%}
+
+    </tr>
+</table>
+
+<div class="container text-right">
+    <div class="row">
+        <div class="col">
+            <button id="reset" type="button" class="btn">Reset</button>
+        </div>
+    </div>
+</div>
