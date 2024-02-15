@@ -3,7 +3,7 @@ layout: component_tool
 title:  "Project-Based, Organic Education"
 tagline: "My approach to teaching and learning"
 date:   2023-06-21 19:13:27 -0500
-highlight_home: true
+
 category: article
 tags: [EdTEch]
 author_profile: true
