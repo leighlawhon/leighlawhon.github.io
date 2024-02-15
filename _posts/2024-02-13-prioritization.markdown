@@ -1,7 +1,7 @@
 ---
 layout: prioritize
 title:  "Prioritization"
-tagline: "My approach to teaching and learning"
+tagline: "Prioritizing with competing stakeholders"
 date:   2024-02-13 19:13:27 -0500
 highlight_home: true
 category: article
