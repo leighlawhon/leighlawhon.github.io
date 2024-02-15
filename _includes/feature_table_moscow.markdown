@@ -9,9 +9,8 @@
     </thead>
     <tbody>
 
-        {% for index, feature in features%}
+        {% for feature in features%}
         <tr>
-            <td>{{index}}</td>
             <td>
                 {{feature.org}}
             </td>

@@ -18,22 +18,42 @@ header:
 ## Background
 Working at a SaaS startup can introduce unique prioritization challenges. You typically work with a small dev team, have many features to execute, on and have many stakeholders competing for their work. There are several ways to approach prioritization, but inevitably you will run into a situation where stakeholders and their work will have equal priority and you will have to make a call. 
 
-In this article, I present my approach to prioritization and what to do when there is a stalemate. To illustrate this, I will use the following list of features for a fake SaaS Startup:
+In this article, I present my approach to prioritization and what to do when there is a stalemate. To illustrate this, I will use the following FIFO (first in first out) prioritized list of features for a fake SaaS Startup:
 
 {% include feature_table.markdown%}
 
 ## Approach
-
+Let's start with two basic prioritization techniques, MoSCoW and BRICE, to get an idea of how to prioritize when there is a clear hierarchy.
 
 ### Basic Prioritization Methods
+The following frameworks help Product Managers put metrics around feature requests and cumminicate prioritization. Not only do these frame works allow PdMs to create a roadmap (when things will get done), they can help your stakehodlers understand why their work is prioritized the way it is. 
 
 #### MoSCoW
+MoSCoW, or Must, Should, Could, Wont (right now) is an easy to uderstand framework that can quickly sequence your feature requests. In my exeprience, I bucket requests in the following ways (note this can change depending on the company goals):
+- **Must Do:** 
+  - Something is broken and preventing usage of the app
+  - There is a deadline that is enforced by a contract or compliance
+  - The request is preventing another team from completing their work
+- **Should Do:**
+  - Something is broken, but there is a good workaround
+  - The request will have a large impact (see BRICE)
+- **Could Do:**
+  - The exeprience can be improved, but is currently working
+  - The request will have a small impact (see BRICE)
+- **Wont Do (right now):**
+  - No evidence of improvement to the experience and needs to be tested
+  - The request will have a no noticable impact (see BRICE)
+
+Below is how our feature list is prioritized with MoSCoW:
+
+
+
 
 #### BRICE
 
 
 ### Competing Stakeholders and Features
-There are several ways you can manage competing OKRs and organizational teams. You can prioritize in the following ways:
+When prioritizing there will be conflict, where two or more stakeholders or features compete for the same spot. So what do you do then? In my experience, I first lean of leadership for guidance. However, when you are in a start up environmentn, company goals may be unclear, for example all stakeholders are fighting for your time to execute on their solutions to complete comapny OKRs. When this happens, I use the follwoing approaches and ask for buy in from the stake holders.
 
 - **Linear:** Have the competing stakeholders rank and then complete features end-to-end and then move on to the next.
     - Benefit: Keeps the development team focused.
