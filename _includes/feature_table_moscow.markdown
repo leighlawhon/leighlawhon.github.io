@@ -14,7 +14,7 @@
             {% for feature in features%}
                 {%if letter = feature.moscow%}
                 <tr>
-                    <td>{{index}}</td>
+                    <td>{{letter}}</td>
                     <td>
                         {{feature.org}}
                     </td>
