@@ -20,7 +20,7 @@ Working at a SaaS startup can introduce unique prioritization challenges. You ty
 
 In this article, I present my approach to prioritization and what to do when there is a stalemate. To illustrate this, I will use the following list of features for a fake SaaS Startup:
 
-{% include feature_table%}
+{% include feature_table.markdown%}
 
 ## Approach
 
