@@ -10,7 +10,7 @@
     </thead>
     <tbody>
         {% for feature in features%}
-        {% increment index %}
+        {% assign index = increment %}
         <tr>
             <td>{{index}}</td>
             <td>

@@ -44,7 +44,7 @@ MoSCoW, or Must, Should, Could, Wont (right now) is an easy to uderstand framewo
   - No evidence of improvement to the experience and needs to be tested
   - The request will have a no noticable impact (see BRICE)
 
-Below is how our feature list is prioritized with MoSCoW:
+Below is how our feature list is prioritized with **MoSCoW**:
 {% include feature_table_moscow.markdown%}
 
 
