@@ -11,7 +11,9 @@
     <tbody>
         {%- assign moscow = ["M","S","C","W"] -%}
         {% for letter in moscow %}
+            {{letter}}
             {% for feature in features%}
+                {{feature.moscow}}
                 {%if letter = feature.moscow%}
                 <tr>
                     <td>{{letter}}</td>
