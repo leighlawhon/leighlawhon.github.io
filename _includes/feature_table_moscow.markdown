@@ -28,7 +28,8 @@
                         {{feature.deadline}}
                     </td>
                 </tr>
-            {%endfor%}
-        {%endfor%}
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
     </tbody>
 </table>
