@@ -1,5 +1,5 @@
 ---
-layout: prioritize
+layout: post
 title:  "Prioritization"
 tagline: "Prioritizing with competing stakeholders"
 date:   2024-02-13 19:13:27 -0500
@@ -16,20 +16,47 @@ header:
 ---
 
 ## Background
-If you are a product manager working with a small team (ex. 1 product manager, 1 designer,and 8 developers), prioritization is crucial, especially if you are working with company stakeholders with competing priorities. Ideally, you are guided by well structured company OKRs, but often in a SaaS company, multiple teams have a dependency on the developer and product teams to achieve their OKRs.
+Working at a SaaS startup can introduce unique prioritization challenges. You typically work with a small dev team, have many features to execute, on and have many stakeholders competing for their work. There are several ways to approach prioritization, but inevitably you will run into a situation where stakeholders and their work will have equal priority and you will have to make a call. 
 
-In this example, for a fake startup, the comapny OKRs might look like this:
+In this article, I present my approach to prioritization and what to do when there is a stalemate. To illustrate this, I will use the following list of features for a fake SaaS Startup:
 
-- **Objective 1**: Grow user base
-    - **Key result:** Close 50 contracts by the end of Q1
-    - **Key result:** Hit an average deal size of $100k
-    - **Key result:** Obtain 100 new inbound leads by the end of Q1.
+{%- assign features = site.data.prioritize -%}
+<table>
+    <thead>
+        <td>Org Team</td>
+        <td>Fetaure</td>
+        <td>Goal</td>
+        <td>Deadline</td>
+    </thead>
+    <tbody>
 
-- **Objective 2**: Improve user retention
-    - **Key result:** Reduce time to service each user by 10%
-    - **Key result:** Improve engagement with products by 20%
+        {% for feature in features%}
+        <tr>
+            <td>
+                {{feature.org}}
+            </td>
+            <td>
+                {{feature.feature}}
+            </td>
+            <td>
+                {{feature.goal}}
+            </td>
+            <td>
+                {{feature.deadline}}
+            </td>
+        
+        </tr>
+        {%endfor%}
+    </tbody>
+</table>
 
 ## Approach
+
+
+### Basic Prioritization Methods
+
+
+### Competing Stakeholders and Features
 There are several ways you can manage competing OKRs and organizational teams. You can prioritize in the following ways:
 
 - **Linear:** Have the competing stakeholders rank and then complete features end-to-end and then move on to the next.
