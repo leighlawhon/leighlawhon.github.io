@@ -18,7 +18,7 @@ header:
 ## Background
 Working at a SaaS startup can introduce unique prioritization challenges. You typically work with a small dev team, have many features to execute, on and have many stakeholders competing for their work. There are several ways to approach prioritization, but inevitably you will run into a situation where stakeholders and their work will have equal priority and you will have to make a call. 
 
-In this article, I present my approach to prioritization and what to do when there is a stalemate. To illustrate this, I will use the following FIFO (first in first out) prioritized list of features for a fake SaaS Startup:
+In this article, I present my approach to prioritization and what to do when there is a stalemate. To illustrate this, I will use the following **FIFO** (first in first out) prioritized list of features for a fake SaaS Startup:
 
 {% include feature_table.markdown%}
 
@@ -45,7 +45,7 @@ MoSCoW, or Must, Should, Could, Wont (right now) is an easy to uderstand framewo
   - The request will have a no noticable impact (see BRICE)
 
 Below is how our feature list is prioritized with MoSCoW:
-
+{% include feature_table_moscow.markdown%}
 
 
 
