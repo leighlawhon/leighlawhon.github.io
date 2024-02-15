@@ -20,35 +20,7 @@ Working at a SaaS startup can introduce unique prioritization challenges. You ty
 
 In this article, I present my approach to prioritization and what to do when there is a stalemate. To illustrate this, I will use the following list of features for a fake SaaS Startup:
 
-{%- assign features = site.data.prioritize -%}
-<table>
-    <thead>
-        <td>Org Team</td>
-        <td>Fetaure</td>
-        <td>Goal</td>
-        <td>Deadline</td>
-    </thead>
-    <tbody>
-
-        {% for feature in features%}
-        <tr>
-            <td>
-                {{feature.org}}
-            </td>
-            <td>
-                {{feature.feature}}
-            </td>
-            <td>
-                {{feature.goal}}
-            </td>
-            <td>
-                {{feature.deadline}}
-            </td>
-        
-        </tr>
-        {%endfor%}
-    </tbody>
-</table>
+{% include feature_table%}
 
 ## Approach
 
