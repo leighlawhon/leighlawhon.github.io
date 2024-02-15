@@ -55,6 +55,10 @@ In this article, I present my approach to prioritization and what to do when the
 
 ### Basic Prioritization Methods
 
+#### MoSCoW
+
+#### BRICE
+
 
 ### Competing Stakeholders and Features
 There are several ways you can manage competing OKRs and organizational teams. You can prioritize in the following ways:
