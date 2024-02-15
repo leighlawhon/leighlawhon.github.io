@@ -4,46 +4,18 @@
   goal: "To close contracts and grow user base"
   deadline: "Q1 2022 Conference"
   feature: "Billing and Invoicing management"
-  
 - org: "Service"
   okr: 2
   goal: "To reduce swivel-chairing and improve time to task completion"
   deadline: "no deadline"
   feature: "CRM integration"
-  teams: 
-    - name: Product
-      tasks: 
-      - Service Associate/process discovery
-    - name: Developers
-      tasks: 
-      - Backend development
-      - Testing
-    - name: Sales
-      tasks:
-      - Sales materials
 - org: "Marketing"
   deadline: "Launch waiting on feature release"
   okr: 2
   goal: "To increase brand awareness and user engagement"
   feature: "Content/Video for products"
-  teams: 
-    - name: Developers
-      tasks: 
-      - Frontend development
-      - Backend development
-      - Testing
-    - name: Marketing
-      tasks:
-      - Launch materials
-      - Content creation
 - org: "Developers"
   deadline: "no deadline"
   okr: 0
   goal: "Reduce technical debt and improve performance"
   feature: "Databse restructure"
-  teams:
-    - name: Developers
-      tasks: 
-      - Backend development
-      - Testing
-      - Database development
