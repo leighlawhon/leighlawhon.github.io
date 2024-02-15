@@ -63,25 +63,25 @@ layout: archive
             <td>Dec</td>
         </tr>
     </thead>
-    <tbody>
+    <!-- <tbody>
         {% for feature in site.data.prioritize_linear %}
         <tr>
             <td>{{feature.feature}}</td>
             {% for i in range (1...12) %}
-            {% for tasks in feature.feature_tasks %}
-            {% if tasks.mo_start == i %}
-            <td>
-                <ul>
-                    <li>{{tasks.task}}</li>
-                    <li>{{tasks.team}}</li>
-                </ul>
-            </td>
-            {% else %}
-            <td></td>
-            {% endif %}
-            {%endfor%}
+                {% for team in feature.team %}
+                {% if tasks.mo_start == i %}
+                <td>
+                    <ul>
+                        <li>{{tasks.task}}</li>
+                        <li>{{tasks.team}}</li>
+                    </ul>
+                </td>
+                {% else %}
+                <td></td>
+                {% endif %}
+                {%endfor%}
             {%endfor%}
         </tr>
         {% endfor %}
-    </tbody>
+    </tbody> -->
 </table>
