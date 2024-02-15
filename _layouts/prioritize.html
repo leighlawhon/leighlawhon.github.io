@@ -4,18 +4,6 @@ layout: archive
 
 {{ content }}
 
-<div class="container text-right">
-    <div class="row">
-        <div class="col">
-            <select id="summer_sub_select" class="form-select" aria-label="Default select example">
-                <option value="linear">Linear</option>
-                <option value="ratio">Ratio</option>
-                <option value="pivot">Pivots</option>
-            </select>
-        </div>
-    </div>
-</div>
-
 {%- assign features = site.data.prioritize -%}
 <table>
     <thead>
@@ -45,6 +33,18 @@ layout: archive
         {%endfor%}
     </tbody>
 </table>
+<h3>Prioritization Options</h3>
+<div class="container text-right">
+    <div class="row">
+        <div class="col">
+            <select id="summer_sub_select" class="form-select" aria-label="Default select example">
+                <option value="linear">Linear</option>
+                <option value="ratio">Ratio</option>
+                <option value="pivot">Pivots</option>
+            </select>
+        </div>
+    </div>
+</div>
 <table>
     <thead>
         <tr>
@@ -85,11 +85,3 @@ layout: archive
         {% endfor %}
     </tbody>
 </table>
-
-<div class="container text-right">
-    <div class="row">
-        <div class="col">
-            <button id="reset" type="button" class="btn">Reset</button>
-        </div>
-    </div>
-</div>

@@ -9,9 +9,9 @@ tags: [AI, "Product Management"]
 author_profile: true
 author: Leigh Stewardson
 header:
- teaser: https://images.unsplash.com/photo-1516321318423-f06f85e504b3
- overlay_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3
- caption: "Photo credit: [**Unsplash: John Schnobrich*](https://unsplash.com/@johnschno)"
+ teaser: https://images.unsplash.com/photo-1477013743164-ffc3a5e556da
+ overlay_image: https://images.unsplash.com/photo-1477013743164-ffc3a5e556da
+ caption: "Photo credit: [**Unsplash: Edho Pratama*](https://unsplash.com/@edhoradic)"
  description: This article covers my exploration of Machine Learning Course.
 ---
 

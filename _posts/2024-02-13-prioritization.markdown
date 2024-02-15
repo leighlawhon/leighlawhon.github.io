@@ -20,14 +20,14 @@ If you are a product manager working with a small team (ex. 1 product manager, 1
 
 In this example, for a fake startup, the comapny OKRs might look like this:
 
-**Objective 1**: Grow user base
-• **Key result:** Close 50 contracts by the end of Q1
-• **Key result:** Hit an average deal size of $100k
-• **Key result:** Obtain 100 new inbound leads by the end of Q1.
+- **Objective 1**: Grow user base
+    - **Key result:** Close 50 contracts by the end of Q1
+    - **Key result:** Hit an average deal size of $100k
+    - **Key result:** Obtain 100 new inbound leads by the end of Q1.
 
-**Objective 2**: Improve user retention
-• **Key result:** Reduce time to service each user by 10%
-• **Key result:** Improve engagement with products by 20%
+- **Objective 2**: Improve user retention
+    - **Key result:** Reduce time to service each user by 10%
+    - **Key result:** Improve engagement with products by 20%
 
 ## Approach
 There are several ways you can manage competing OKRs and organizational teams. You can prioritize in the following ways:
