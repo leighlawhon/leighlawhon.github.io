@@ -1,27 +1,27 @@
-- feature: "Billing and Invoicing management"
-  feature_tasks: 
-    - team: Product
-      - task: Customer discovery
-        mo_start: 1
-        mo_end: 1
-      - task: UI design
-        team: Design
-        mo_start: 1
-        mo_end: 1
-    - team: Developers
-      - task: Backend development
-        mo_start: 2
-        mo_end: 3
-      - task: Frontend development
-        mo_start: 2
-        mo_end: 3
-      - task: Database development
-        mo_start: 2
-        mo_end: 3
-      - task: Testing
-        mo_start: 2
-        mo_end: 3
-    - team: Marketing
-      - task: Launch materials
-        mo_start: 3
-        mo_end: 3
+# - feature: "Billing and Invoicing management"
+#   feature_tasks: 
+#     - team: Product
+#       - task: Customer discovery
+#         mo_start: 1
+#         mo_end: 1
+#       - task: UI design
+#         team: Design
+#         mo_start: 1
+#         mo_end: 1
+#     - team: Developers
+#       - task: Backend development
+#         mo_start: 2
+#         mo_end: 3
+#       - task: Frontend development
+#         mo_start: 2
+#         mo_end: 3
+#       - task: Database development
+#         mo_start: 2
+#         mo_end: 3
+#       - task: Testing
+#         mo_start: 2
+#         mo_end: 3
+#     - team: Marketing
+#       - task: Launch materials
+#         mo_start: 3
+#         mo_end: 3
