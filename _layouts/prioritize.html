@@ -17,10 +17,9 @@ layout: archive
 </div>
 
 {%- assign features = site.data.prioritize -%}
-{{features.length}} Test
 <table>
     <thead>
-        <td>Team</td>
+        <td>Org Team</td>
         <td>Fetaure</td>
         <td>Goal</td>
         <td>Deadline</td>
@@ -44,6 +43,46 @@ layout: archive
         
         </tr>
         {%endfor%}
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <td>Feature</td>
+            <td>Jan</td>
+            <td>Feb</td>
+            <td>Mar</td>
+            <td>Apr</td>
+            <td>May</td>
+            <td>Jun</td>
+            <td>Jul</td>
+            <td>Aug</td>
+            <td>Sep</td>
+            <td>Oct</td>
+            <td>Nov</td>
+            <td>Dec</td>
+        </tr>
+    </thead>
+    <tbody>
+        {% for feature in site.data.prioritize_linear %}
+        <tr>
+            <td>{{feature.feature}}</td>
+            {% for i in range (1...12) %}
+            {% for tasks in feature.feature_tasks %}
+            {% if tasks.mo_start == i %}
+            <td>
+                <ul>
+                    <li>{{tasks.task}}</li>
+                    <li>{{tasks.team}}</li>
+                </ul>
+            </td>
+            {% else %}
+            <td></td>
+            {% endif %}
+            {%endfor%}
+            {%endfor%}
+        </tr>
+        {% endfor %}
     </tbody>
 </table>
 
