@@ -12,7 +12,7 @@
         {% for priority in moscow %}
             {% for feature in features%}
                 {{feature.moscow}}
-                {%if priority.letter = feature.moscow%}
+                {%if priority.letter == feature.moscow%}
                 <tr>
                     <td>{{priority.name}}</td>
                     <td>
