@@ -9,6 +9,7 @@
         <td>SP 5</td>
         <td>SP 6</td>
         <td>SP 7</td>
+        <td>SP 8</td>
     </thead>
     <tbody>
         <tr>
@@ -29,7 +30,8 @@
             <td>DEV</td>
             <td>DEV</td>
             <td>DEV</td>
-            <td>DEV, DPL </td>
+            <td>DEV</td>
+            <td>DPL</td>
         </tr>
         <tr>
             <td>Rank and promote partner products</td>
@@ -39,7 +41,8 @@
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td>DEV, DPL </td>
+            <td>DEV</td>
+            <td>DPL</td>
         </tr>
     </tbody>
 </table>
