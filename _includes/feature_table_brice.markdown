@@ -1,4 +1,4 @@
-{%- assign features = site.data.prioritize -%}
+{%- assign features = site.data.prioritize  | sort: "brice" -%}
 <table>
     <thead>
         <td>Priority</td>
@@ -8,11 +8,11 @@
         <td>Deadline</td>
     </thead>
     <tbody>
-        {% for feature in features | sort: "brice" %}
+        {% for feature in features%}
             <tr>
                 <td> 
-                     {{feature.brice | round: 2}}
-                    <br/><small>{{feature.b}} + {{feature.r}} + {{feature.i}} + {{feature.c}} / {{feature.e}}</small></td>
+                     {{feature.brice}}
+                    <br/><small>({{feature.b}} + {{feature.r}} + {{feature.i}} + {{feature.c}}) / {{feature.e}}</small></td>
                 <td>
                     {{feature.org}}
                 </td>

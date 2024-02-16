@@ -5,12 +5,12 @@
   deadline: "Q1 2022 contract"
   feature: "Billing and Invoicing management"
   moscow: "M"
-  brice: 1.35
+  brice: 1.5
   b: 3
-  r: 0.7
-  i: 0.9
-  c: 0.8
-  e: 4
+  r: 1
+  i: 1
+  c: 1
+  e: 1
 - org: "Service"
   okr: 2
   goal: "To reduce swivel-chairing and improve time to task completion"
