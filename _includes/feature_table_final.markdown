@@ -14,8 +14,8 @@
     <tbody>
         <tr>
             <td>Databse restructure</td>
-            <td>Development</td>
-            <td>Development (1), Deployment (1)</td>
+            <td>DEV</td>
+            <td>DEV, DPL </td>
             <td>--</td>
             <td>--</td>
             <td>--</td>
@@ -24,23 +24,23 @@
         </tr>
         <tr>
             <td>Billing and Invoicing management</td>
-            <td>Discovery</td>
-            <td>Discover (1), Design(1)</td>
-            <td>Design(1), Development (1)</td>
-            <td>Development</td>
-            <td>Development</td>
-            <td>Development</td>
-            <td>Development (1), Deployment (1)</td>
+            <td>DISC</td>
+            <td>Discover (1), DSG</td>
+            <td>DSG, DEV </td>
+            <td>DEV</td>
+            <td>DEV</td>
+            <td>DEV</td>
+            <td>DEV, DPL </td>
         </tr>
         <tr>
             <td>Rank and promote partner products</td>
             <td>--</td>
-            <td>Discovery (1)</td>
-            <td>Design(0.5)</td>
+            <td>DISC </td>
+            <td>DSG(0.5)</td>
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td>Development (1), Deployment (1)</td>
+            <td>DEV, DPL </td>
         </tr>
     </tbody>
 </table>
