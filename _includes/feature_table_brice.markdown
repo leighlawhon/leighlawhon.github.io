@@ -24,7 +24,6 @@
                     {{feature.deadline}}
                 </td>
             </tr>
-            {% endif %}
         {% endfor %}
     </tbody>
 </table>
