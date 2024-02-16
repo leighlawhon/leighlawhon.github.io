@@ -9,7 +9,6 @@
         <td>Sprint 5</td>
         <td>Sprint 6</td>
         <td>Sprint 7</td>
-        <td>Sprint 8</td>
     </thead>
     <tbody>
         <tr>
@@ -25,7 +24,7 @@
         <tr>
             <td>Billing and Invoicing management</td>
             <td>DISC</td>
-            <td>Discover (1), DSG</td>
+            <td>DISC, DSG</td>
             <td>DSG, DEV </td>
             <td>DEV</td>
             <td>DEV</td>
@@ -36,7 +35,7 @@
             <td>Rank and promote partner products</td>
             <td>--</td>
             <td>DISC </td>
-            <td>DSG(0.5)</td>
+            <td>DSG</td>
             <td>--</td>
             <td>--</td>
             <td>--</td>
