@@ -10,9 +10,8 @@
     </thead>
     <tbody>
         {% for feature in features%}
-        {% assign index = increment %}
         <tr>
-            <td>{{index}}</td>
+            <td>{{forloop.index}}</td>
             <td>
                 {{feature.org}}
             </td>
