@@ -9,15 +9,15 @@
         <td>Deadline</td>
     </thead>
     <tbody>
-        {% for feature in features%}
+        {% for feature in features | sort "b" %}
             <tr>
                 <td> {%- assign sum = sum | plus: feature.b -%}
                      {%- assign sum = sum | plus: feature.r -%}
                      {%- assign sum = sum | plus: feature.i -%}
                      {%- assign sum = sum | plus: feature.c -%}
                      {%- assign sum = sum | divided_by: feature.e %}
-                     {{sum}}
-                    <br/><small>{{feature.brice}} <br/>{{feature.b}} + {{feature.r}} + {{feature.i}} + {{feature.c}} / {{fetaure.e}}</small></td>
+                     {{sum | round: 2}}
+                    <br/><small>{{feature.brice}} + {{feature.b}} + {{feature.r}} + {{feature.i}} + {{feature.c}} / {{feature.e}}</small></td>
                 <td>
                     {{feature.org}}
                 </td>

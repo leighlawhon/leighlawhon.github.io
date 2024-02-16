@@ -5,9 +5,9 @@
   deadline: "Q1 2022 contract"
   feature: "Billing and Invoicing management"
   moscow: "M"
-  b: 3
-  r: 70
-  i: 2
+  b: 1
+  r: 0.7
+  i: 0.9
   c: 0.8
   e: 4
 - org: "Service"
@@ -17,7 +17,7 @@
   feature: "CRM integration"
   moscow: "C"
   b: 0
-  r: 50
+  r: 0.5
   i: 0.5
   c: 0.9
   e: 2
@@ -28,9 +28,9 @@
   feature: "Rank and promote partner products"
   moscow: "W"
   b: 2
-  r: 100
+  r: 1
   i: 1
-  c: 0.8
+  c: 0
   e: 1
 - org: "Developers"
   deadline: "no deadline"
@@ -39,7 +39,7 @@
   feature: "Databse restructure"
   moscow: "W"
   b: 1
-  r: 50
+  r: 0.5
   i: 0.2
   c: 0.5
   e: 3
