@@ -75,9 +75,11 @@ With this new perspective, our ranking changes a bit:
 The BRICE (with the appropriate emphasis) seems to work. However, there is other things to consider, before we take these features in order of BRICE. 
 
 ### Tradeoffs
+Good communication with your stakeholders is key to prioritization. Let's take the feaure request from the Servicing team. Their goal is to reduce the amount of time they take to service a client. Let's assume all clients call into the Service team to get advice on products and manage their billing and invoices. The team believes that integrating their CRM with financial and product data from the the SaaS product will improve their times to service a customer. But notice, the Sales feature, and the marketing feature, which are self-service, also achieve a percentage of these goals by reducing the amount of requests the Service team recieves. Developing 4 features is time consuming and the company is concerned about getting the work out quickly. 
 
+This is where your influence and communication become crucial. Often requests can be made in isolation, without the knowledge of another team's request. The approach here may be to cut the Service feature request and revisit their needs once the other features are released.
 
-### Prioritizing the Work
+### Prioritizing the Work In Phases
 Each feature has a development lifecycle that we can leverage:
 - Discovery/Plan
 - Design
