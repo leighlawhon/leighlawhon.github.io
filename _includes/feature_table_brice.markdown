@@ -11,7 +11,7 @@
         {% for feature in features | sort "brice" %}
             <tr>
                 <td> 
-                     {{sum | round: 2}}
+                     {{feature.brice | round: 2}}
                     <br/><small>{{feature.b}} + {{feature.r}} + {{feature.i}} + {{feature.c}} / {{feature.e}}</small></td>
                 <td>
                     {{feature.org}}
