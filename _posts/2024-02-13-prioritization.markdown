@@ -79,13 +79,20 @@ Good communication with your stakeholders is key to prioritization. Let's take t
 
 This is where your influence and communication become crucial. Often requests can be made in isolation, without the knowledge of another team's request. The approach here may be to cut the Service feature request and revisit their needs once the other features are released.
 
-### Prioritizing the Work In Phases
-Each feature has a development lifecycle that we can leverage:
+### Prioritizing for Development
+Each feature has a software development lifecycle (SDLC) that we can leverage:
 - Discovery/Plan
+    - Assumption: Discovery is performed by the Product Team
 - Design
 - Development/Implement
-- Testing
+    Assumption: Development includes testing
 - Deploy
+    - Deployment happens every 2 weeks
+
+Depending on the feature, each phase can take a different length of time. Here is the revised list (minus the Servicing request) and the length of time for each phase in the SDLC.
+
+{% include feature_table_sdlc.markdown %}
+
 <!-- 
 When prioritizing there will be conflict, where two or more stakeholders or features compete for the same spot. So what do you do then? In my experience, I first lean of leadership for guidance. However, when you are in a start up environmentn, company goals may be unclear, for example all stakeholders are fighting for your time to execute on their solutions to complete comapny OKRs. When this happens, I use the follwoing approaches and ask for buy in from the stake holders.
 

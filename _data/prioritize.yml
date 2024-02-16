@@ -11,6 +11,10 @@
   i: 1
   c: 1
   e: 1
+  sdlc:
+    discovery: 3
+    design: 2
+    development: 8
 - org: "Service"
   okr: 2
   goal: "To reduce swivel-chairing and improve time to task completion"
@@ -35,6 +39,10 @@
   i: 1
   c: 0
   e: 1
+  sdlc: 
+    discovery: 1
+    design: 0.5
+    development: 1
 - org: "Developers"
   deadline: "no deadline"
   okr: 0
@@ -47,3 +55,7 @@
   i: 0.2
   c: 0.5
   e: 3
+  sdlc:
+    discovery: 0
+    design: 0
+    development: 8
