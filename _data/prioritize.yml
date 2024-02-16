@@ -5,8 +5,8 @@
   deadline: "Q1 2022 contract"
   feature: "Billing and Invoicing management"
   moscow: "M"
-  brice: 0.85
-  b: 1
+  brice: 1.35
+  b: 3
   r: 0.7
   i: 0.9
   c: 0.8
