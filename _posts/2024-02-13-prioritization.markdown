@@ -59,13 +59,13 @@ BRICE (or RICE if you choose to take out the business value) is an acronym for B
 
 Let's look at what our ranking looks like with our new framework to think this through. To calculate this, we'll need the fake company's very simple, ranked OKRs for the year (usually this is done quarterly):
 
-1. **Key Objective:** Grow user base
+**Key Objective:** Grow user base
 - **Result:** 5x customers by End of Year
 - **Business Value:** 3
-2. **Key Objective:** Improve partner profit margins
+**Key Objective:** Improve partner profit margins
 - **Result:** Increase partner product engagement by 30%
 - **Business Value:** 2
-3. **Key Objective:** Grow development team
+**Key Objective:** Grow development team
 - **Result:** Decrease atrition in by 20%
 - **Business Value:** 1
 
