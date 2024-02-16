@@ -9,6 +9,7 @@
     </thead>
     <tbody>
         {% for feature in features%}
+            {% if feature.sdlc %}
             <tr>
                 <td> 
                     {{feature.brice}}
@@ -17,15 +18,16 @@
                     {{feature.feature}}
                 </td>
                 <td>
-                    {{feature.discovery}}
+                    {{feature.sdlc.discovery}}
                 </td>
                 <td>
-                    {{feature.design}}
+                    {{feature.sdlc.design}}
                 </td>
                 <td>
-                    {{feature.development}}
+                    {{feature.sdlc.development}}
                 </td>
             </tr>
+            {% endif %}
         {% endfor %}
     </tbody>
 </table>
