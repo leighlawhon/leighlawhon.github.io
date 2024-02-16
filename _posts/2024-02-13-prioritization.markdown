@@ -81,17 +81,16 @@ This is where your influence and communication become crucial. Often requests ca
 
 ### Prioritizing for Development
 Each feature has a software development lifecycle (SDLC) that we can leverage:
-- Discovery/Plan
-    - Assumption: Discovery is performed by the Product Team
+- Discovery/Plan (assumption: Discovery is performed by the Product Team)
 - Design
-- Development/Implement
-    Assumption: Development includes testing
-- Deploy
-    - Deployment happens every 2 weeks
+- Development/Implement (assumption: Development includes testing)
+- Deploy (happens every 2 weeks)
 
-Depending on the feature, each phase can take a different length of time. Here is the revised list (minus the Servicing request) and the length of time for each phase in the SDLC.
+Depending on the feature, each phase can take a different length of time. Here is the revised list (minus the Servicing request) and the length of time for each phase in the SDLC. This is where your partnership with you development team is crucial. They can provide you with high-level estimates and help you prioritize in a way which keeps the development team working efficiently.
 
 {% include feature_table_sdlc.markdown %}
 
 ## Reults
+The final prioritization looks like this:
 
+{% include feature_table_final.markdown %}

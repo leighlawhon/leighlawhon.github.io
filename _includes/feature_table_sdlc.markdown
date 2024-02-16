@@ -18,13 +18,13 @@
                     {{feature.feature}}
                 </td>
                 <td>
-                    {{feature.sdlc.discovery}}
+                    {{feature.sdlc.discovery}} weeks
                 </td>
                 <td>
-                    {{feature.sdlc.design}}
+                    {{feature.sdlc.design}} weeks
                 </td>
                 <td>
-                    {{feature.sdlc.development}}
+                    {{feature.sdlc.development}} weeks
                 </td>
             </tr>
             {% endif %}
