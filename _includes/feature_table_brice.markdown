@@ -8,7 +8,7 @@
         <td>Deadline</td>
     </thead>
     <tbody>
-        {% for feature in features | sort "brice" %}
+        {% for feature in features | sort: "brice" %}
             <tr>
                 <td> 
                      {{feature.brice | round: 2}}
