@@ -29,27 +29,46 @@ Let's start with two basic prioritization techniques, MoSCoW and BRICE, to get a
 The following frameworks help Product Managers put metrics around feature requests and cumminicate prioritization. Not only do these frame works allow PdMs to create a roadmap (when things will get done), they can help your stakehodlers understand why their work is prioritized the way it is. 
 
 #### MoSCoW
-MoSCoW, or Must, Should, Could, Wont (right now) is an easy to uderstand framework that can quickly sequence your feature requests. In my exeprience, I bucket requests in the following ways (note this can change depending on the company goals):
+MoSCoW, or Must, Should, Could, Wont (right now) is an easy to uderstand framework that can quickly sequence your feature requests. *For simplicity,* I will bucket the requests in the following ways (Note: there are mutlple ways to buckets and they often depend on company goals):
 - **Must Do:** 
-  - Something is broken and preventing usage of the app
+  - A feature is broken and preventing usage of the app
   - There is a deadline that is enforced by a contract or compliance
   - The request is preventing another team from completing their work
 - **Should Do:**
-  - Something is broken, but there is a good workaround
-  - The request will have a large impact (see BRICE)
+  - A feature is broken, but there is a good workaround
+  - A feature is missing and pushing users to a competitor
 - **Could Do:**
-  - The exeprience can be improved, but is currently working
-  - The request will have a small impact (see BRICE)
+  - The exeprience can be improved, but the feature is currently working as designed
+  - A feature is at the MVP stage, has clear feedback, and is ready for an itteration
 - **Wont Do (right now):**
   - No evidence of improvement to the experience and needs to be tested
-  - The request will have a no noticable impact (see BRICE)
 
 Below is how our feature list is prioritized with **MoSCoW**:
 {% include feature_table_moscow.markdown%}
 
+So, you may be wondering why I ranked these the way I did. Below is the reasoning for my buckets:
+- **Sales:** There is a clearly defined deadline, and even if there wasn't, this feature might fall into the "Should" column.
+- **Service:** One might argue that this could go in the "Should" column, but I dropped it to the "Could" colum because of the ability to rely on a human interface, the Service team. Though not a great exeprience for the team, which could lead to attrition, there is little to no impact for the user.
+- **Marketing:** This one is interesting. It sounds good, but if you dig deeper, a ranking system is problematic. If you are buying a carton of milk FIFO (first in first out) works. However, if you are shopping for non-perishable items, there are other variables that influence your decisions. You will notice sites like Amazon don't just rank their products, they highlight shiping time, ratings, and savings/price (the things that would influence a decision). Additionally, they use media/advertising at the top of the page to promote brands. I put this one in "Won't" because I don't believe that simply putting our partners at the top of a list will achieve the goal of getting more sales for them and adding a ranking system to our data will be hard to manage and become quickly outdated. The idea needs more research.
+- **Developers:** The poor development team rarely gets love in these situations. As  SaaS products grow and teams evolve, technical debt accumulates. This can lead to slow performace for the product and slower development times and poor experiences for the developers, which could lead to attrition.
 
+MoSCow becomes more complicated when you start asking questions such as, "impact and/or experience for who?" Should a product manager only focus on exepriences for the user? Or should they also consider exepriences for the staff? Additionally, should a product manager only be concerned with getting features out, or should they also be looking at performance and business goals like promoting preferred vendor products to improve partnerships. To address these concerns, we'll next look at BRICE.
 
 #### BRICE
+BRICE (or RICE if you choose to take out the business value) is an acronym for Business Value (1-3), Reach (0-100%), Impact (0.25-3), Confidence (0-1), Effort (1-4). The formula is simple: **(B x R x I x C)/E**. It measures the features overall importance breakes it down to units of the over all effort it takes to complete. If the overall importance/effort of feature A is 107/1 and feature be is 107/3, feature A gets done first, as it has a higher score. But notice how this formula emphasizes reach and under values projects with a high effort? Let's look at what our ranking looks like with our new framework to think this through.
+
+To calculate this, we'll need the fake company's very simple, ranked OKRs for the year (usually this is done quarterly):
+1. Grow user base
+- 5x customers by End of Year
+2. Improve partner profit margins
+- Increase partner product engagement by 30%
+3. Improve user retention
+- Decrease load times by 30%
+4. Grow development team
+- Decrease atrition in by 20%
+
+With this new perspective, our ranking changes a bit:
+{{include feature_table_brice.markdown}}
 
 
 ### Competing Stakeholders and Features

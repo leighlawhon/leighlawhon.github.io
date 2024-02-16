@@ -5,21 +5,41 @@
   deadline: "Q1 2022 contract"
   feature: "Billing and Invoicing management"
   moscow: "M"
+  b: 3
+  r: 70
+  i: 2
+  c: 80
+  e: 4
 - org: "Service"
   okr: 2
   goal: "To reduce swivel-chairing and improve time to task completion"
   deadline: "no deadline"
   feature: "CRM integration"
   moscow: "C"
+  b: 
+  r:
+  i:
+  c:
+  e:
 - org: "Marketing"
   deadline: "Launch waiting on feature release"
   okr: 2
   goal: "Promote top products and increase sales"
-  feature: "Ranking system for products"
+  feature: "Rank and promote partner products"
   moscow: "W"
+  b: 
+  r:
+  i:
+  c:
+  e:
 - org: "Developers"
   deadline: "no deadline"
   okr: 0
   goal: "Reduce technical debt and improve performance"
   feature: "Databse restructure"
   moscow: "W"
+  b: 
+  r:
+  i:
+  c:
+  e:
