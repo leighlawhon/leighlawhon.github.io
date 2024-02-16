@@ -18,7 +18,7 @@ header:
 ## Background
 Working at a SaaS startup can introduce unique prioritization challenges. You typically work with a small dev team, have many features to execute, on and have many stakeholders competing for their work. There are several ways to approach prioritization, but inevitably you will run into a situation where stakeholders and their work will have equal priority and you will have to make a call. 
 
-In this article, I present my approach to prioritization and what to do when there is a stalemate. To illustrate this, I will use the following **FIFO** (first in first out) prioritized list of features for a fake SaaS Startup:
+In this article, I present my approach to prioritization and what to do when there is a stalemate. To illustrate this, I will use the following **FIFO** (first in first out) prioritized list of features for a fake SaaS Startup in the Growth stage:
 
 {% include feature_table.markdown%}
 
@@ -31,25 +31,25 @@ The following frameworks help Product Managers put metrics around feature reques
 #### MoSCoW
 MoSCoW, or Must, Should, Could, Wont (right now) is an easy to uderstand framework that can quickly sequence your feature requests. *For simplicity,* I will bucket the requests in the following ways (Note: there are mutlple ways to buckets and they often depend on company goals):
 - **Must Do:** 
-  - A feature is broken and preventing usage of the app
-  - There is a deadline that is enforced by a contract or compliance
-  - The request is preventing another team from completing their work
+  - A feature is broken and preventing usage of the app.
+  - There is a deadline that is enforced by a contract or compliance.
+  - The request is preventing another team from completing their work.
 - **Should Do:**
-  - A feature is broken, but there is a good workaround
-  - A feature is missing and pushing users to a competitor
+  - A feature is broken, but there is a good workaround.
+  - A feature is missing and pushing users to a competitor.
 - **Could Do:**
-  - The exeprience can be improved, but the feature is currently working as designed
-  - A feature is at the MVP stage, has clear feedback, and is ready for an itteration
+  - The exeprience can be improved, but the feature is currently working as designed.
+  - A feature is at the MVP stage, has clear feedback, and is ready for an itteration.
 - **Wont Do (right now):**
-  - No evidence of improvement to the experience and needs to be tested
+  - No evidence of improvement to the experience and needs to be tested.
 
 Below is how our feature list is prioritized with **MoSCoW**:
 {% include feature_table_moscow.markdown%}
 
 So, you may be wondering why I ranked these the way I did. Below is the reasoning for my buckets:
 - **Sales:** There is a clearly defined deadline, and even if there wasn't, this feature might fall into the "Should" column.
-- **Service:** One might argue that this could go in the "Should" column, but I dropped it to the "Could" colum because of the ability to rely on a human interface, the Service team. Though not a great exeprience for the team, which could lead to attrition, there is little to no impact for the user.
-- **Marketing:** This one is interesting. It sounds good, but if you dig deeper, the ranking system is problematic. If you are buying a carton of milk FIFO (first in first out) works. However, if you are shopping for non-perishable items, there are other variables that influence your decisions. You will notice sites like Amazon don't just rank their products, they highlight shiping time, ratings, and savings/price (the things that would influence a decision). Additionally, they use media/advertising at the top of the page to promote brands. I put this one in "Won't" because I don't believe that simply putting our partners at the top of a list will achieve the goal of getting more sales for them and adding a ranking system to our data will be hard to manage and become quickly outdated. The idea needs more research.
+- **Service:** One might argue that this could go in the "Should" column, but I dropped it to the "Could" colum because of the ability to rely on a human interface, the Service team. Though not a great exeprience for the team, which could lead to attrition, there is little to no impact for the user. 
+- **Marketing:** This one is interesting. It sounds good, but if you dig deeper, the ranking system is problematic. If you are buying a carton of milk FIFO (first in first out) works. However, if you are shopping for non-perishable items, there are other variables that influence your decisions. You will notice sites like Amazon don't just rank their products, they highlight shiping time, ratings, and savings/price (the things that would influence a decision). Additionally, they use media/advertising at the top of the page to promote brands. I put this one in "Won't (Right Now)" because I don't believe that simply putting our partners at the top of a list will achieve the goal of getting more sales for them and adding a ranking system to our data will be hard to manage and become quickly outdated. The idea needs more research.
 - **Developers:** The poor development team rarely gets love in these situations. As  SaaS products grow and teams evolve, technical debt accumulates. This can lead to slow performace for the product and slower development times and poor experiences for the developers, which could lead to attrition.
 
 MoSCow becomes more complicated when you start asking questions such as, "impact and/or experience for who?" Should a product manager only focus on exepriences for the user? Or should they also consider exepriences for the staff? Additionally, should a product manager only be concerned with getting features out, or should they also be looking at performance and business goals like promoting preferred vendor products to improve partnerships. To address these concerns, we'll next look at BRICE.
@@ -72,8 +72,19 @@ Let's look at what our ranking looks like with our new framework to think this t
 With this new perspective, our ranking changes a bit:
 {% include feature_table_brice.markdown %}
 
+The BRICE (with the appropriate emphasis) seems to work. However, there is other things to consider, before we take these features in order of BRICE. 
 
-### Competing Stakeholders and Features
+### Tradeoffs
+
+
+### Prioritizing the Work
+Each feature has a development lifecycle that we can leverage:
+- Discovery/Plan
+- Design
+- Development/Implement
+- Testing
+- Deploy
+<!-- 
 When prioritizing there will be conflict, where two or more stakeholders or features compete for the same spot. So what do you do then? In my experience, I first lean of leadership for guidance. However, when you are in a start up environmentn, company goals may be unclear, for example all stakeholders are fighting for your time to execute on their solutions to complete comapny OKRs. When this happens, I use the follwoing approaches and ask for buy in from the stake holders.
 
 - **Linear:** Have the competing stakeholders rank and then complete features end-to-end and then move on to the next.
@@ -84,7 +95,7 @@ When prioritizing there will be conflict, where two or more stakeholders or feat
     - Drawback: The work get's done slower
 - **Pivots:** Split the year and work on OKR's sequetially, pivoting to the next after MVP is complete.
     - Benefit: This can work well with early startups, 
-    - Drawback: Sacrificing quarterly progress on one OKR. You must make sure you can address multiple OKRs in a year.
+    - Drawback: Sacrificing quarterly progress on one OKR. You must make sure you can address multiple OKRs in a year. -->
 
 ## Reults
 
