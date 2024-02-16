@@ -62,9 +62,7 @@ To calculate this, we'll need the fake company's very simple, ranked OKRs for th
 - 5x customers by End of Year
 2. Improve partner profit margins
 - Increase partner product engagement by 30%
-3. Improve user retention
-- Decrease load times by 30%
-4. Grow development team
+3. Grow development team
 - Decrease atrition in by 20%
 
 With this new perspective, our ranking changes a bit:
