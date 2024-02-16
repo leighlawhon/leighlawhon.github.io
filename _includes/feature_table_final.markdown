@@ -24,8 +24,8 @@
         <tr>
             <td>Billing and Invoicing management</td>
             <td>DISC</td>
-            <td>DISC, DSG</td>
-            <td>DSG, DEV </td>
+            <td>DISC, DSN</td>
+            <td>DSN, DEV </td>
             <td>DEV</td>
             <td>DEV</td>
             <td>DEV</td>
@@ -35,7 +35,7 @@
             <td>Rank and promote partner products</td>
             <td>--</td>
             <td>DISC </td>
-            <td>DSG</td>
+            <td>DSN</td>
             <td>--</td>
             <td>--</td>
             <td>--</td>
