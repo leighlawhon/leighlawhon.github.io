@@ -10,13 +10,13 @@
   goal: "To reduce swivel-chairing and improve time to task completion"
   deadline: "no deadline"
   feature: "CRM integration"
-  moscow: "W"
+  moscow: "C"
 - org: "Marketing"
   deadline: "Launch waiting on feature release"
   okr: 2
-  goal: "To increase brand awareness and user engagement"
-  feature: "Content/Video for products"
-  moscow: "S"
+  goal: "Promote top products and increase sales"
+  feature: "Ranking system for products"
+  moscow: "W"
 - org: "Developers"
   deadline: "no deadline"
   okr: 0
