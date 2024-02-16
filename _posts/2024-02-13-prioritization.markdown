@@ -55,18 +55,18 @@ So, you may be wondering why I ranked these the way I did. Below is the reasonin
 MoSCow becomes more complicated when you start asking questions such as, "impact and/or experience for who?" Should a product manager only focus on exepriences for the user? Or should they also consider exepriences for the staff? Additionally, should a product manager only be concerned with getting features out, or should they also be looking at performance and business goals like promoting preferred vendor products to improve partnerships. To address these concerns, we'll next look at BRICE.
 
 #### BRICE
-BRICE (or RICE if you choose to take out the business value) is an acronym for Business Value (1-3), Reach (0-100%), Impact (0.25-3), Confidence (0-1), Effort (1-4). The formula is simple: **(B x R x I x C)/E**. It measures the features overall importance breakes it down to units of the over all effort it takes to complete. If the overall importance/effort of feature A is 107/1 and feature be is 107/3, feature A gets done first, as it has a higher score. But notice how this formula emphasizes reach and under values projects with a high effort? Let's look at what our ranking looks like with our new framework to think this through.
+BRICE (or RICE if you choose to take out the business value) is an acronym for Business Value (1-3), Reach (0-100%), Impact (0.25-3), Confidence (0-1), Effort (1-4). The formula is simple: **(B x R x I x C)/E**. It measures the features overall importance breakes it down to units of the over all effort it takes to complete. If the overall importance/effort of feature A is 107/1 and feature be is 107/3, feature A gets done first, as it has a higher score. (Note: this formula emphasizes reach and under values projects with a high effort. The emphasis can be modified by changing the range for the value.) Let's look at what our ranking looks like with our new framework to think this through.
 
 To calculate this, we'll need the fake company's very simple, ranked OKRs for the year (usually this is done quarterly):
-1. Grow user base
+1. **Key Objective:** Grow user base
 - 5x customers by End of Year
-2. Improve partner profit margins
+2. **Key Objective:** Improve partner profit margins
 - Increase partner product engagement by 30%
-3. Grow development team
+3. **Key Objective:** Grow development team
 - Decrease atrition in by 20%
 
 With this new perspective, our ranking changes a bit:
-{{include feature_table_brice.markdown}}
+{% include feature_table_brice.markdown %}
 
 
 ### Competing Stakeholders and Features

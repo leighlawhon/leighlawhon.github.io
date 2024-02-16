@@ -10,7 +10,7 @@
     <tbody>
         {% for feature in features%}
             <tr>
-                <td>test</td>
+                <td>{{(fetaure.b + feature.r + feature.i + feature.c)/ fetaure.e}} <br/>{{fetaure.b}} + {{feature.r}} + {{feature.i}} + {{feature.c}}/ {{fetaure.e}}</td>
                 <td>
                     {{feature.org}}
                 </td>
