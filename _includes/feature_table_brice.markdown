@@ -1,5 +1,4 @@
 {%- assign features = site.data.prioritize -%}
-{%- assign sum = 0 -%}
 <table>
     <thead>
         <td>Priority</td>
@@ -9,15 +8,11 @@
         <td>Deadline</td>
     </thead>
     <tbody>
-        {% for feature in features | sort "b" %}
+        {% for feature in features | sort "brice" %}
             <tr>
-                <td> {%- assign sum = sum | plus: feature.b -%}
-                     {%- assign sum = sum | plus: feature.r -%}
-                     {%- assign sum = sum | plus: feature.i -%}
-                     {%- assign sum = sum | plus: feature.c -%}
-                     {%- assign sum = sum | divided_by: feature.e %}
+                <td> 
                      {{sum | round: 2}}
-                    <br/><small>{{feature.brice}} + {{feature.b}} + {{feature.r}} + {{feature.i}} + {{feature.c}} / {{feature.e}}</small></td>
+                    <br/><small>{{feature.b}} + {{feature.r}} + {{feature.i}} + {{feature.c}} / {{feature.e}}</small></td>
                 <td>
                     {{feature.org}}
                 </td>
