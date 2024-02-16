@@ -1,4 +1,4 @@
-{%- assign features = (site.data.prioritize  | sort:"brice") -%}
+{%- assign features = (site.data.prioritize  | sort:"brice" | reverse) -%}
 <table>
     <thead>
         <td>Priority</td>
