@@ -5,7 +5,7 @@
   deadline: "Q1 2022 contract"
   feature: "Billing and Invoicing management"
   moscow: "M"
-  brice: 1.5
+  brice: 6
   b: 3
   r: 1
   i: 1
@@ -17,7 +17,7 @@
   deadline: "no deadline"
   feature: "CRM integration"
   moscow: "C"
-  brice: 1.38
+  brice: 0.95
   b: 0
   r: 0.5
   i: 0.5
@@ -29,7 +29,7 @@
   goal: "Promote top products and increase sales"
   feature: "Rank and promote partner products"
   moscow: "W"
-  brice: 5.38
+  brice: 4
   b: 2
   r: 1
   i: 1
@@ -41,7 +41,7 @@
   goal: "Reduce technical debt and improve performance"
   feature: "Databse restructure"
   moscow: "W"
-  brice: 2.53
+  brice: 0.73
   b: 1
   r: 0.5
   i: 0.2
