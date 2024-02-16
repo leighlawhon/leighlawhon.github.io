@@ -2,13 +2,13 @@
 <table>
     <thead>
         <td>Feature</td>
-        <td>Sprint 1</td>
-        <td>Sprint 2</td>
-        <td>Sprint 3</td>
-        <td>Sprint 4</td>
-        <td>Sprint 5</td>
-        <td>Sprint 6</td>
-        <td>Sprint 7</td>
+        <td>SP 1</td>
+        <td>SP 2</td>
+        <td>SP 3</td>
+        <td>SP 4</td>
+        <td>SP 5</td>
+        <td>SP 6</td>
+        <td>SP 7</td>
     </thead>
     <tbody>
         <tr>
