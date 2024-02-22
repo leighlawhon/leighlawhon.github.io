@@ -5,7 +5,7 @@ tagline: A tool that organizes your site visits"
 date:   2024-01-21 19:13:27 -0500
 highlight_home: true
 categories: work
-tags: [AI, "Product Management"]
+tags: [AI, Product Management]
 author_profile: true
 author: Leigh Stewardson
 header:
