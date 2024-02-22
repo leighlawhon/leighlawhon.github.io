@@ -3,7 +3,6 @@ layout: posts
 title:  "Prioritization"
 tagline: "Prioritizing with competing stakeholders"
 date:   2024-02-13 19:13:27 -0500
-
 categories: article
 tags: ["Product Management"]
 author_profile: true

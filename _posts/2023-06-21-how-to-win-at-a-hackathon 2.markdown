@@ -6,7 +6,7 @@ tagline: "Connecting the 'Dots'"
 tags: [Part]
 author_profile: true
 author: Leigh Stewardson
-categories: [article]
+categories: article
 header:
     overlay_image: https://images.unsplash.com/photo-1512928210967-3dced5ba507b
     teaser: https://images.unsplash.com/photo-1512928210967-3dced5ba507b

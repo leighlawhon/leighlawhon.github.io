@@ -2,7 +2,7 @@
 layout: posts
 title:  "Part 3: Color Theory"
 date:   2023-07-01 16:13:27 -0500
-tags: [ Part]
+tags: [Part]
 author_profile: true
 author: Leigh Stewardson
 categories: article

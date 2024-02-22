@@ -5,7 +5,7 @@ date:   2023-06-21 19:15:27 -0500
 tags: [Part]
 author_profile: true
 author: Leigh Stewardson
-categories: [article]
+categories: article
 tagline: "Investing in the 'Dots'"
 header:
   overlay_image: https://images.unsplash.com/photo-1611444111920-89dfc4a01f43

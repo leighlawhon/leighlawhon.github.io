@@ -5,9 +5,7 @@ date:   2023-07-01 16:13:27 -0500
 tags: ["Data Visualization", AI]
 author_profile: true
 author: Leigh Stewardson
-author_profile: true
-author: Leigh Stewardson
-categories: [ work]
+categories: work
 highlight_home: true
 tagline: "Summary Search Tool"
 header:

@@ -8,7 +8,7 @@ author_profile: true
 author: Leigh Stewardson
 author_profile: true
 author: Leigh Stewardson
-categories: [article]
+categories: article
 header:
     overlay_image: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
     teaser: https://images.unsplash.com/photo-1574664620916-fb955a65cab3
