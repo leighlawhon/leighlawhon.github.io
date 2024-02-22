@@ -4,7 +4,7 @@ title:  "Data Driven Product management"
 tagline: "My approach to teaching and learning"
 date:   2023-06-21 19:13:27 -0500
 highlight_home: true
-category: article
+categories: article
 tags: [AI]
 author_profile: true
 author: Leigh Stewardson

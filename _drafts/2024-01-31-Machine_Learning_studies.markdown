@@ -4,7 +4,7 @@ title:  "Machine Learning"
 tagline: "My exploration of Machine Learning Courses"
 date:   2023-06-21 19:13:27 -0500
 highlight_home: true
-category: article
+categories: article
 tags: [AI]
 author_profile: true
 author: Leigh Stewardson
