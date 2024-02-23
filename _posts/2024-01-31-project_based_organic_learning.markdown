@@ -4,7 +4,7 @@ title:  "Project-Based, Organic Education"
 tagline: "My approach to teaching and learning"
 date:   2023-06-21 19:13:27 -0500
 categories: article
-tags: [EdTEch]
+tags: [Education]
 author_profile: true
 author: Leigh Stewardson
 header:
