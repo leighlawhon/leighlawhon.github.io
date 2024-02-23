@@ -21,9 +21,6 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'grid' %}
 {% for tag in sorted_tags %}
-{{tag[0]}}
-{{tag[1]}}
-test
 {% assign cat_tags = tag[1] | where: "categories", "work" | sort %}
 {% if cat_tags != empty %}
 <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
