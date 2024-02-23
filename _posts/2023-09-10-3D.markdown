@@ -9,8 +9,8 @@ categories: work
 highlight_home: true
 tagline: "Highlights of my 3D work"
 header:
-  overlay_image: /assets/images/yourlife.png
-  teaser:  /assets/images/yourlife.png
+  overlay_image: /assets/images/fish.jpeg
+  teaser:  /assets/images/fish.jpeg
   caption: "Photo credit: **Leigh Stewardson**"
 description: "Highlights of my 3D work."
 ---

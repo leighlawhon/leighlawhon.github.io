@@ -16,7 +16,7 @@ description: This article showcases the game Collaborate and how I build it.
 ---
 
 ## Background
-
+This tool was built as an interface for an Natural Language Processing (NLP) platform. The tool 
 
 ## Approach
 
