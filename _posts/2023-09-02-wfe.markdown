@@ -86,12 +86,14 @@ The next phase aimed to transition the platform to a product-led model with segm
 
 
 <div id="nanogallery2"></div>
+
 <script>
-  $("#nanogallery2").nanogallery2({
+$("#nanogallery2").nanogallery2({
   thumbnailHeight:  150,
   thumbnailWidth:   150,
   itemsBaseURL:     '/assets/images/',
 
+  // ### gallery content ###
   items: [
       { src: 'wfe.png', srct: 'wfe.png', title: "Program Select" },
       { src: 'wfe2.png', srct: 'wfe2.png', title: "Program Selector — Before" },
@@ -103,5 +105,7 @@ The next phase aimed to transition the platform to a product-led model with segm
       { src: 'payments-wfe.png', srct: 'payments-wfe.png', title: "Payments" },
       { src: 'employerdash-wfe.png', srct: 'employerdash-wfe.png', title: "Employer Dashboard" },
   ]
-  });
+});
+
+
 </script>
