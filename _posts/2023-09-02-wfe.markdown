@@ -12,26 +12,83 @@ header:
   overlay_image: /assets/images/wfe.png
   teaser:  /assets/images/wfe.png
   caption: "Photo credit: **Leigh Stewardson**"
-description: This article showcases an education benefits platform I manged.
+description: This article showcases an education benefits platform I manged
 ---
 
 ## Background
-In my role as the Head of Product at WorkForce Edge, I was responsible for formulating the strategy and leading initiatives related to UI design, development, and security. During my tenure at WorkForce Edge, I oversaw the launch of features for: billing; program filtering with a focus on high-demand and select education providers; and pre-paid tuition. Additionally, I lead the initiative to redesign the interface to enhance the user experience.
 
-The product had to three internal stakeholders: Sales, Service, and the parent company, SEI Inc; and three user personas: employees, employers, and education providers. I had to navigate through competing priorities within budget constraints and limited resources. The platform showcased a variety of education providers, both in and out of the network, offering stipends for education to employees. Our aim was to empower students to utilize their benefits according to their preferences, in contrast to competitors who limited options to in-network schools. SEI's objective was to leverage the free platform as a sales channel, directing students towards SEI and its partner educational programs. As the company experienced steady growth, the emphasis shifted towards increasing engagement with our in-network partners.
+As Head of Product at WorkForce Edge, I led strategic initiatives across UI design, development, and security. My efforts included launching impactful features such as billing systems, program filtering tailored to high-demand education providers, and pre-paid tuition. Additionally, I spearheaded a comprehensive redesign of the platform’s interface to enhance user experience and engagement.
+
+## Target Users
+
+- **Employers**: HR teams managing education benefits, requiring streamlined workflows and insightful reporting.  
+- **Education Providers**: Institutions (in-network and out-of-network) seeking visibility and collaboration opportunities.  
+- **Employees**: Individuals accessing educational benefits, needing intuitive tools to explore and utilize learning opportunities.
 
 ## Approach
-As a newly launched product, my initial strategy was to prioritize the development of competitive features. This enabled the sales team to secure deals and compete effectively in the market. Once the product had achieved the minimum viable product (MVP) status for competitive features, I shifted the strategy towards growth and enhancing the user experience. Given the B2B2C nature of the product, I faced the challenge of maintaining a strategy that catered to both our business partners and our employee user base. Balancing the goals of encouraging employees to utilize their benefits, promoting in-network schools, and highlighting our own offerings was crucial. Additionally, I took on the responsibility from the Sales team to ensure the platform's security. I established a robust security program and oversaw the selection and management of vendors.
 
-## Results
-- Average NPS score increase from 6 to 8
-- Improved accessibility using UserWay to adhere to business and school compliance
-- Developed SaaS Security Program to achieve SOC2 compliance
-- Introduced an iPaaS solution that streamlined reporting to our business customers and integration with their HRIS systems, significantly reduced development time from 6 weeks to just 3 days
-- Improved student engagement with select education providers by introducing a video and content spotlights and program filtering
+### Prioritization  
+The product served three key internal stakeholders: Sales, Service, and the parent company, SEI Inc. I managed competing priorities within strict budget constraints to ensure alignment with business goals. The platform showcased diverse education providers, empowering employees to utilize their benefits flexibly, contrasting competitors that limited options to in-network institutions.  
 
-## Next Steps
-The subsequent phase for the product involved establishing a product-led channel that segmented the platform into free and paid tiers. The concept was to offer a basic product for businesses to manage their benefits at no cost, alongside a premium product that provided access to in-network schools and automated tools for billing and reimbursement.
+To support SEI’s goal of using the platform as a sales channel for its educational programs, my strategy involved:  
+- **Initial Focus**: Developing competitive features to establish MVP functionality, enabling the Sales Team to secure deals.  
+- **Growth Phase**: Shifting focus to user experience enhancements to drive engagement and support Service Team objectives.  
+
+By structuring tasks into three prioritized workstreams—Security, Sales, and Service—I ensured timely MVP releases, balancing the needs of business partners and employees.
+
+## Strategy
+
+### Core Objectives  
+1. **Enhance Security and Efficiency**: Meet high-security standards (e.g., SOC2 compliance) while improving billing and reporting processes.  
+2. **Support Employers**: Provide tools to streamline benefits management and reporting.  
+3. **Boost Platform Engagement**: Improve usability and increase employee interaction, particularly with in-network providers.  
+4. **Strengthen User Experience**: Enhance navigation and accessibility for all user personas.  
+
+## Challenges and Solutions  
+
+### Identified Problems  
+
+**Employees**:  
+- Lack of awareness about educational options.  
+- Difficulties navigating filters, managing multiple programs, and processing payments.  
+
+**Employers**:  
+- Complex reporting on benefit utilization.  
+- Inefficient billing and reimbursement tools.  
+
+**Education Providers**:  
+- Limited visibility, particularly for in-network institutions.  
+- Lack of tools to highlight key programs effectively.
+
+### Solutions  
+
+**Employees**:  
+- Enhanced usability for managing multiple programs through smart filters and process streamlining.  
+- Messaging alignment with the Service Team to reduce confusion.  
+
+**Employers**:  
+- Real-time dashboards displaying utilization metrics and predictive analytics.  
+- Automated billing workflows for seamless operations.  
+
+**Education Providers**:  
+- Advanced content spotlight tools like video testimonials and program-specific promotions.  
+- Performance analytics to measure and optimize content visibility.
+
+## Key Results  
+
+- **Net Promoter Score**: Improved from 6 to 8.  
+- **Accessibility**: Leveraged UserWay for compliance, accelerating contract closure while enabling code refactoring.  
+- **Security**: Established a SaaS Security Program, achieving SOC2 compliance and expediting contract approvals.  
+- **Efficiency**: Introduced iPaaS tools that streamlined reporting and integration with HRIS systems, reducing development cycles from 6 weeks to 3 days.  
+- **Program Engagement**: Implemented video and content spotlight features, boosting student interaction with select providers by 21%.  
+- **User Experience**: Redesigned interface improved satisfaction, reduced Service Team intervention, and shortened call resolution times.
+
+## Next Steps  
+
+The next phase aimed to transition the platform to a product-led model with segmented tiers:  
+- **Free Tier**: A basic tool for businesses to manage education benefits at no cost.  
+- **Premium Tier**: Advanced features like automated billing, in-network school access, and additional support tools.
+
 
 <div id="nanogallery2"></div>
 <script>
