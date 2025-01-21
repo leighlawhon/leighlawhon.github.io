@@ -64,7 +64,12 @@ By structuring tasks into three prioritized workstreams—Security, Sales, and S
 
 **Employees**:  
 - Enhanced usability for managing multiple programs through smart filters and process streamlining.  
-- Messaging alignment with the Service Team to reduce confusion.  
+- Messaging alignment with the Service Team to reduce confusion.
+
+| ![studentdash.png](/assets/images/studentdash.png) | 
+|:--:| 
+| *Student Dashboard* |
+
 
 **Employers**:  
 - Real-time dashboards displaying utilization metrics and predictive analytics.  
@@ -93,14 +98,12 @@ The next phase aimed to transition the platform to a product-led model with segm
 <div id="nanogallery2"></div>
 <script>
   $("#nanogallery2").nanogallery2({
-  // ### gallery settings ###
   thumbnailHeight:  150,
   thumbnailWidth:   150,
   itemsBaseURL:     '/assets/images/',
 
-  // ### gallery content ###
   items: [
-      { src: 'wfe.png', srct: 'wfe.png', title: "Platform", description:"test", },
+      { src: 'wfe.png', srct: 'wfe.png', title: "Platform", description:"test" },
       { src: 'wfe2.png', srct: 'wfe2.png' },
       { src: 'allotement dash.png', srct: 'wfe2.png' },
       { src: 'split allotment-wfe.png', srct: 'wfe2.png' },
@@ -109,8 +112,7 @@ The next phase aimed to transition the platform to a product-led model with segm
       { src: 'employerdash-wfe.png', srct: 'wfe2.png' },
       { src: 'userdash-leigh-wfe.png', srct: 'wfe2.png' },
       { src: 'userdash-wfe.png', srct: 'wfe2.png' },
-      { src: 'ewfe-dashboard.png', srct: 'wfe2.png' },
-
+      { src: 'ewfe-dashboard.png', srct: 'wfe2.png' }
   ]
-});
+  });
 </script>
