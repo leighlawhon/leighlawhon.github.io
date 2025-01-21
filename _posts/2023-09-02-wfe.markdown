@@ -102,6 +102,15 @@ The next phase aimed to transition the platform to a product-led model with segm
   items: [
       { src: 'wfe.png', srct: 'wfe.png' },
       { src: 'wfe2.png', srct: 'wfe2.png' },
+      { src: 'allotement dash.png', srct: 'wfe2.png' },
+      { src: 'split allotment-wfe.png', srct: 'wfe2.png' },
+      { src: 'studentdash.png', srct: 'wfe2.png' },
+      { src: 'payments-wfe.png', srct: 'wfe2.png' },
+      { src: 'employerdash-wfe.png', srct: 'wfe2.png' },
+      { src: 'userdash-leigh-wfe.png', srct: 'wfe2.png' },
+      { src: 'userdash-wfe.png', srct: 'wfe2.png' },
+      { src: 'ewfe-dashboard.png', srct: 'wfe2.png' },
+
   ]
 });
 </script>
